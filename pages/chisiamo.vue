@@ -3,14 +3,14 @@ definePageMeta({
   layout: "landing",
 });
 
-const TeamImg1 = "https://source.unsplash.com/IF9TK5Uy-KI";
-const TeamImg2 = "https://source.unsplash.com/iEEBWgY_6lA";
-const TeamImg3 = "https://source.unsplash.com/ZHvM3XIOHoE";
+const TeamImg1 = "/_nuxt/assets/img/alessandro.jpg";
+const TeamImg2 = "/_nuxt/assets/img/carlo.jpg";
+const TeamImg3 = "/_nuxt/assets/img/max.jpg";
 
 const team = [
   {
-    name: "Giovanna Lince",
-    title: "Senior Director",
+    name: "Alessandro",
+    title: "Chief Disruption Officer",
     avatar: {
       src: TeamImg1,
       width: 480,
@@ -18,8 +18,8 @@ const team = [
     },
   },
   {
-    name: "Marcello Ziemano",
-    title: "Principale Stratega",
+    name: "Carlo",
+    title: "Chief Empathy Officer",
     avatar: {
       src: TeamImg2,
       width: 580,
@@ -27,7 +27,7 @@ const team = [
     },
   },
   {
-    name: "Roberto Palmieri",
+    name: "Max",
     title: "Marketing Engineer",
     avatar: {
       src: TeamImg3,
@@ -52,7 +52,7 @@ const team = [
       <p class="text-lg leading-relaxed text-slate-500">
         Siamo un team multiculturale europeo 
         proveniente da diverse parti d'Italia,
-        Arriviamo da contesti diversi, portando personalità, esperienze e competenze uniche nel nostro lavoro.
+        Proveniamo da contesti diversi, portando personalità, esperienze e competenze uniche nel nostro lavoro.
         È questo che rende il nostro team così speciale.
       </p>
     </div>

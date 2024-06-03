@@ -3,7 +3,7 @@
     <div class="p-24 md:order-1 hidden md:block">
       <img
         class="rounded-full transition-transform transform hover:scale-125"
-        src="~/assets/img/hero.png"
+        src="~/assets/img/a06.jpg"
         alt="Starship starts the engine"
         loading="eager"
         format="avif"
@@ -13,27 +13,30 @@
     </div>
 
     <div>
-      <h1 class="text-5xl lg:text-6xl xl:text-7xl font-bold lg:tracking-tight">
-        Bitcoin Italia Network
+      <h1 class="text-5xl lg:text-5xl xl:text-6xl font-bold lg:tracking-tight">
+        <span class="bg-orange-500">₿</span
+        ><span class="bg-red-600">itcoin&nbsp;</span
+        >&nbsp;Italia&nbsp;<span class="bg-green-500">&nbsp;Network&nbsp;</span>
       </h1>
       <p class="text-lg mt-4 text-slate-600 max-w-xl">
-        Benvenuti su Bitcoin Italia Network,<wbr />
+        Benvenuti su
+        Bitcoin Italia Network,<wbr />
         la piattaforma che connette e valorizza tutte le realtà italiane legate a Bitcoin.
       </p>
       <div class="mt-6 flex flex-col sm:flex-row gap-3">
         <LandingLink
-          href="https://github.com/Gr33nW33n/nuxtship-template"
+          href="/comunita"
           target="_blank"
           rel="noopener"
-          >Get Started</LandingLink
+          >Comunità</LandingLink
         >
         <LandingLink
           size="lg"
           styleName="outline"
           rel="noopener"
-          href="https://github.com/Gr33nW33n/nuxtship-template"
+          href="/dove"
           target="_blank"
-          >View Repo</LandingLink
+          >Dove</LandingLink
         >
       </div>
     </div>

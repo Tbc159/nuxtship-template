@@ -1,16 +1,19 @@
 <script setup>
 const menuitems = [
   {
-    title: "Features",
-    path: "#",
+    title: "Comunità",
+    path: "/comunita",
   },
   {
-    title: "Mappa",
-    path: "/pricing",
+    title: "Dove",
+    path: "/dove",
+  },  {
+    title: "Prezzi",
+    path: "/prezzi",
   },
   {
     title: "Chi siamo",
-    path: "/about",
+    path: "/chisiamo",
   },
   {
     title: "Contattaci",
@@ -26,9 +29,9 @@ const open = ref(false);
     <header class="flex flex-col lg:flex-row justify-between items-center my-5">
       <div class="flex w-full lg:w-auto items-center justify-between">
         <a href="/" class="text-lg"
-          ><span class="font-bold text-orange-800">Bitcoin</span
-          ><span class="text-slate-500"> Italia </span
-          ><span class="text-slate-400"> Network</span>
+          ><span class="font-bold bg-orange-500">₿</span
+        ><span class="bg-red-500">itcoin&nbsp;</span
+        >&nbsp;Italia&nbsp;<span class="font-bold  bg-green-500">&nbsp;Network&nbsp;</span>
         </a>
         <div class="block lg:hidden">
           <button @click="open = !open" class="text-gray-800">
