@@ -64,7 +64,7 @@ const features = [
         <Icon class="text-white" :name="item.icon" />
       </div>
       <div><a :href=item.url>
-        <h3 class="font-semibold text-lg">{{ item.title }}</h3>
+        <h3 class="font-semibold text-orange">{{ item.title }}</h3>
         <p class="text-slate-500 mt-2 leading-relaxed">
           {{ item.description }}
         </p>

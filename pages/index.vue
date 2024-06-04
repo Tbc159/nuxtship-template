@@ -1,5 +1,5 @@
 <script setup>
-import '~/assets/css/test.css'
+import '~/assets/css/orange-custom.css'
 definePageMeta({
   layout: "landing",
 });
@@ -15,5 +15,5 @@ definePageMeta({
 </template>
 
 <style>
-@import url("~/assets/css/test.css");
+@import url("~/assets/css/orange-custom.css");
 </style>
