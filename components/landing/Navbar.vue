@@ -8,8 +8,8 @@ const menuitems = [
     title: "Dove",
     path: "/dove",
   },  {
-    title: "Prezzi",
-    path: "/prezzi",
+    title: "Attività",
+    path: "/attivita",
   },
   {
     title: "Chi siamo",
