@@ -20,9 +20,13 @@ const menuitems = [
     title: "Chi siamo",
     path: "/chisiamo",
   },
-{
+  {
     title: "Contattaci",
     path: "/contattaci",
+  },
+  {
+    title: "BtcRadio",
+    path: "/btcradio",
   },
 ];
 
