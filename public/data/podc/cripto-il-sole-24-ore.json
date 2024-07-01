@@ -32,10 +32,6 @@
             "url": "https://music.amazon.it/podcasts/9b8eff68-92df-4b6a-a028-35b6416d2cf6/cripto"
         },
         {
-            "app": "google",
-            "url": "https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuc3ByZWFrZXIuY29tL3Nob3cvNTY5MDcwOC9lcGlzb2Rlcy9mZWVk"
-        },
-        {
             "app": "podchaser",
             "url": "https://www.podchaser.com/podcasts/cripto-4944545"
         },

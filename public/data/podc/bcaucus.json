@@ -24,10 +24,6 @@
             "url": "https://music.amazon.it/podcasts/89aabd8a-8a21-4e2a-b063-9f9d43f5229f/bcaucus"
         },
         {
-            "app": "google",
-            "url": "https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuc3ByZWFrZXIuY29tL3Nob3cvNTgxMDI1OS9lcGlzb2Rlcy9mZWVk"
-        },
-        {
             "app": "podchaser",
             "url": "https://www.podchaser.com/podcasts/bcaucus-5200754/episodes/recent"
         },

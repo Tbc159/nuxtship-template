@@ -14,10 +14,6 @@
         {
             "app": "apple",
             "url": "https://podcasts.apple.com/it/podcast/sicurezza-bitcoin/id1707558739"
-        },
-        {
-            "app": "google",
-            "url": "https://podcasts.google.com/feed/aHR0cHM6Ly9wb2RjYXN0cy5nb3QuYW0vc2hvdy9zaWN1cmV6emEtYml0Y29pbi9mZWVkLw"
         }
     ],
     "sito": "https://sicurezzabitcoin.com/"

@@ -10,6 +10,10 @@
         {
             "app": "spotify",
             "url": "https://open.spotify.com/show/59KqRmG87uNOebdamA5kU1?si=479cce72073b4c2b"
+        },
+        {
+            "app": "apple",
+            "url": "https://podcasts.apple.com/it/podcast/aloha-finance-podcast/id1592812775"
         }
     ]
 }

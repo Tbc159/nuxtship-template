@@ -29,7 +29,7 @@ defineProps(["data"]);
 
   <div>
     <h2>Indirizzo</h2>
-    <div class="p-3">
+    <div class="p-2">
       <p>
         {{ data.tags["addr:street"] }}
         <span v-if="data.tags['addr:housenumber']"
@@ -37,12 +37,13 @@ defineProps(["data"]);
         >
       </p>
       <p>{{ data.tags["addr:postcode"] }} {{ data.tags["addr:city"] }}</p>
+    </div>
 
       <div
-        class="relative bg-white m-4 shadow-xl ring-1 ring-gray-900/5 max-w-lg rounded-lg"
+        class="relative bg-white mt-2 mb-4 shadow-xl ring-1 ring-gray-900/5 max-w-lg rounded-lg"
       >
+        <div class="pl-4 p-2 text-gray-400">google maps</div>
         <div class="flex divide-x divide-gray-300/50">
-          <div class="p-4 text-gray-400">google maps</div>
           <OsnGmaplink
             :etichetta="'posizione'"
             :url="'https://maps.google.com/maps?z=12&t=m&q=loc:' + data.lat + '+' + data.lon"
@@ -57,7 +58,6 @@ defineProps(["data"]);
           />
         </div>
       </div>
-    </div>
   </div>
   <OsnTag
     icona="clarity:mobile-line"

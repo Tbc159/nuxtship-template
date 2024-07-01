@@ -14,10 +14,6 @@
         {
             "app": "amazon",
             "url": "https://music.amazon.it/podcasts/0f7a2f25-aa2b-4ebe-85ac-9965650fd263/bitcoin-freedom"
-        },
-        {
-            "app": "google",
-            "url": "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy9iZjgwM2FiYy9wb2RjYXN0L3Jzcw"
         }
     ],
     "sito": "https://www.massmux.com/"

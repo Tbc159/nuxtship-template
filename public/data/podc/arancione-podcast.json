@@ -18,10 +18,6 @@
         {
             "app": "amazon",
             "url": "https://music.amazon.it/podcasts/e32176ca-cdb1-4016-8813-11c44b3901e2/arancione-podcast"
-        },
-        {
-            "app": "google",
-            "url": "https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuc3ByZWFrZXIuY29tL3Nob3cvNTY4NTkyMC9lcGlzb2Rlcy9mZWVk"
         }
     ]
 }

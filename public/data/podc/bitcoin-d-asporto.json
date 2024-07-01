@@ -12,10 +12,6 @@
             "url": "https://open.spotify.com/show/3vrqaOakr5TMmHg3oOfw1q"
         },
         {
-            "app": "google",
-            "url": "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy9lODE5OWE0MC9wb2RjYXN0L3Jzcw"
-        },
-        {
             "app": "podchaser",
             "url": "https://www.podchaser.com/podcasts/bitcoin-dasporto-5533341"
         }

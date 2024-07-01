@@ -18,10 +18,6 @@
         {
             "app": "apple",
             "url": "https://podcasts.apple.com/it/podcast/ventuno-il-podcast-bitcoin/id1736086691"
-        },
-        {
-            "app": "google",
-            "url": "https://podcasts.google.com/feed/aHR0cHM6Ly92ZW50dW5vLnNwYWNlL2ZlZWQueG1s"
         }
     ],
     "sito": "https://ventuno.space/podcast/"

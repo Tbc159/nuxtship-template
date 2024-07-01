@@ -10,10 +10,6 @@
         {
             "app": "spotify",
             "url": "https://open.spotify.com/show/0ag9gCPszHrvCShHkuKlHp"
-        },
-        {
-            "app": "google",
-            "url": "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy9lOGMwMzMxNC9wb2RjYXN0L3Jzcw"
         }
     ]
 }

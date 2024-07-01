@@ -1,25 +1,20 @@
 <script>
 export default {
   props: {
-    icona: {
-      type: String,
-      required: false,
+    att: {
+      required: true,
     },
     campo: {
       type: String,
       required: true,
     },
-	colore: {
-		type: String,
-		required: false
-	}
   },
 };
 </script>
 
 <template>
-	<span class="w-4">
-		<Icon v-if="campo=='s'" :name="icona" size="16" :color="colore" />
-		<Icon v-else :name="icona" size="16" color="#eee" />
-	</span>
+  <span class="w-4">
+    <Icon v-if="campo == 's'" :name="att.icona" size="16" :color="att.colore" />
+    <Icon v-else :name="att.icona" size="16" color="#eee" />
+  </span>
 </template>
