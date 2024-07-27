@@ -1,10 +1,17 @@
 #!/bin/bash
 
+MAIL=$1
+USER=$(echo $MAIL | awk -F'@' '{print$1}')
+
 create-branch () {
 	BRANCH=$1
 	FROM_BRANCH=main
 	git checkout -b $BRANCH $FROM_BRANCH
 }
 
+sleep 10
+
+git config user.email "$MAIL"
+git config user.name "$USER"
 
 git config credential.helper store

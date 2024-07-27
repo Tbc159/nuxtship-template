@@ -1,9 +1,0 @@
-<template>
-	<div>
-		<iframe 
-		aria-label='Contattaci' 
-		frameborder="0" 
-		style="height:550px;width:99%;border:none;" 
-		src='https://forms.zohopublic.eu/bitcoinitalianetwork/form/Contattaci/formperma/A_EpUboOFc_fjco69uyqk10eLt5wyfRGqDaIyX9iGjI'></iframe>
-  </div>
-</template>
