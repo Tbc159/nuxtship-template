@@ -1,0 +1,10 @@
+#!/bin/bash
+
+create-branch () {
+	BRANCH=$1
+	FROM_BRANCH=main
+	git checkout -b $BRANCH $FROM_BRANCH
+}
+
+
+git config credential.helper store
