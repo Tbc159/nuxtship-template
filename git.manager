@@ -1,17 +1,35 @@
 #!/bin/bash
 
-MAIL=$1
+MAIL=$(echo "$@" | awk 'match($0,/[a-z0-9]+@[a-z0-9]+.[a-z0-9]+/) {print substr($0,RSTART,RLENGTH)}')
 USER=$(echo $MAIL | awk -F'@' '{print$1}')
-
+BRANCH_NAME=$(echo "$@" | awk -F'--newbranch.' '{print$2}')
+sleep 5
 create-branch () {
 	BRANCH=$1
 	FROM_BRANCH=main
 	git checkout -b $BRANCH $FROM_BRANCH
 }
 
-sleep 10
+newbranch-push () {
+	BRANCH=$1
+	git push --set-upstream origin $BRANCH
+}
 
-git config user.email "$MAIL"
-git config user.name "$USER"
+git-config () {
+	git config user.email "$MAIL"
+	git config user.name "$USER"
+	git config credential.helper store
+}
 
-git config credential.helper store
+
+case $1 in
+  "create-branch")
+    $1 $BRANCH_NAME
+  ;;
+  "newbranch-push")
+    $1 $BRANCH_NAME
+  ;;
+  *)
+    echo "Use: $0 [$(echo $(cat $0 | grep '")' | grep -v cat | awk -F')' '{print$1}') | sed 's/" "/|/g')] [--mail test@mail.com --newbranch testing-branch]"
+  ;;
+esac
