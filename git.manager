@@ -47,6 +47,9 @@ case $1 in
   "merge")
     $1 $BRANCH_MERGE
   ;;
+  "config")
+    git-config
+  ;;
   *)
     echo "Use: $0 [$(echo $(cat $0 | grep '")' | grep -v cat | awk -F')' '{print$1}') | sed 's/" "/|/g')] [--mail test@mail.com --newbranch yournewbranch | --merge newBranchToMerge]"
   ;;
