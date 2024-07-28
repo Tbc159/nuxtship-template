@@ -1,0 +1,16 @@
+version: '3.8'
+
+services:
+  app:
+    image: node:latest
+    working_dir: /usr/src/app
+    volumes:
+      - .:/usr/src/app
+    ports:
+      - "2100:3000"
+    environment:
+      - NODE_ENV=development
+    command: >
+      sh -c "
+      npm install&&
+      npm run dev"
