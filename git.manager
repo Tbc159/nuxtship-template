@@ -3,6 +3,7 @@
 MAIL=$(echo "$@" | awk 'match($0,/[a-z0-9]+@[a-z0-9]+.[a-z0-9]+/) {print substr($0,RSTART,RLENGTH)}')
 USER=$(echo $MAIL | awk -F'@' '{print$1}')
 BRANCH_NAME=$(echo "$@" | awk -F'--newbranch.' '{print$2}')
+BRANCH_MERGE=$(echo "$@" | awk -F'--merge.' '{print$2}')
 
 create-branch () {
 	BRANCH=$1
@@ -21,6 +22,20 @@ git-config () {
 	git config credential.helper store
 }
 
+merge () {
+  BRANCH=$1
+  printf "\nmerging $BRANCH_MERGE\n\n"
+  # controllo branch remoti, se non presenti in locale, copiare e procedere.
+  #git branch -r
+  #git checkout -b $BRANCH_MERGE origin/$BRANCH_MERGE
+  #git worktree add ../$BRANCH_MERGE
+
+
+  git fetch origin main -v
+  git fetch origin $BRANCH -v
+  git merge origin/$BRANCH -v
+}
+
 
 case $1 in
   "create-branch")
@@ -29,7 +44,10 @@ case $1 in
   "push-new")
     $1 $BRANCH_NAME
   ;;
+  "merge")
+    $1 $BRANCH_MERGE
+  ;;
   *)
-    echo "Use: $0 [$(echo $(cat $0 | grep '")' | grep -v cat | awk -F')' '{print$1}') | sed 's/" "/|/g')] [--mail test@mail.com --newbranch yournewbranch]"
+    echo "Use: $0 [$(echo $(cat $0 | grep '")' | grep -v cat | awk -F')' '{print$1}') | sed 's/" "/|/g')] [--mail test@mail.com --newbranch yournewbranch | --merge newBranchToMerge]"
   ;;
 esac
