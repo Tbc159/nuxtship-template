@@ -25,6 +25,11 @@ export default defineNuxtConfig({
     '@nuxtjs/storybook',
   ],
 
+  storybook: {
+    port: 6006, // Porta su cui eseguire Storybook
+    storybookRoute: '/__storybook__', // Percorso per accedere a Storybook
+  },
+
   robots: {
     configPath: 'config/robots.js',
   },
