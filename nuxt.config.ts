@@ -4,21 +4,35 @@ export default defineNuxtConfig({
     url: 'https://bitcoinitalianetwork.com/',
     name: 'Bitcoin Italia Network',
   },
+
   devtools: { enabled: true },
   css: ["~/assets/css/main.css"],
+
   postcss: {
     plugins: {
       tailwindcss: {},
       autoprefixer: {},
     },
   },
-  modules: ['nuxt-icon', '@nuxtjs/robots', "nuxt3-leaflet", "nuxt-gtag", "@nuxt/image", "@nuxtjs/sitemap"],
+
+  modules: [
+    'nuxt-icon',
+    '@nuxtjs/robots',
+    "nuxt3-leaflet",
+    "nuxt-gtag",
+    "@nuxt/image",
+    "@nuxtjs/sitemap",
+    '@nuxtjs/storybook',
+  ],
+
   robots: {
     configPath: 'config/robots.js',
   },
+
   gtag: {
     id: 'GTM-NJXDPR5Z',
   },
+
   sitemap: {
     sitemaps: {
       pages: {
@@ -50,4 +64,6 @@ export default defineNuxtConfig({
       ]
     }
   },
+
+  compatibilityDate: '2024-11-22',
 });
