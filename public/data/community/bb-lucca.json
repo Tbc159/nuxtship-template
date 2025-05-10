@@ -1804,11 +1804,11 @@
             "id": 12657198832,
             "lat": 43.874066,
             "lon": 10.2462964,
-            "timestamp": "2025-03-16T10:12:05Z",
-            "version": 10,
-            "changeset": 163681277,
-            "user": "Bar Leone",
-            "uid": 22621748,
+            "timestamp": "2025-05-08T03:10:46Z",
+            "version": 13,
+            "changeset": 165963525,
+            "user": "b-jazz-bot",
+            "uid": 9451067,
             "tags": {
                 "addr:city": "Viareggio",
                 "addr:housenumber": "279",
@@ -1825,8 +1825,9 @@
                 "payment:contactless": "yes",
                 "payment:credit_cards": "yes",
                 "payment:lightning": "yes",
-                "payment:lightning_contactless": "no",
-                "payment:onchain": "yes"
+                "payment:lightning_contactless": "yes",
+                "payment:onchain": "yes",
+                "website": "https://b.massimotoscano.org/"
             }
         },
         {

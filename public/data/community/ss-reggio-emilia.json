@@ -7,7 +7,7 @@
     "idlocalita": "reggio_emilia",
     "telegram_weburl": "https://web.telegram.org/a/#-1001569629484",
     "telegram_app": "https://t.me/SatoshiSpritzReggioEmilia",
-    "telegram_members": 174.0,
+    "telegram_members": 175.0,
     "network": "satoshispritz",
     "poi": [
         {
@@ -179,18 +179,23 @@
             "id": 4166949791,
             "lat": 44.7084079,
             "lon": 10.600361,
-            "timestamp": "2023-11-17T18:12:10Z",
-            "version": 5,
-            "changeset": 144149891,
-            "user": "toponomastica_comune_arenzano",
-            "uid": 14257573,
+            "timestamp": "2025-05-04T01:40:54Z",
+            "version": 6,
+            "changeset": 165781682,
+            "user": "pincopallino16",
+            "uid": 22860347,
             "tags": {
                 "addr:city": "Reggio nell'Emilia",
                 "addr:country": "IT",
                 "addr:housenumber": "72b",
                 "addr:street": "Via Fratelli Cervi",
-                "name": "Conad Pieve",
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "name": "Conad",
                 "operator": "CONAD Soc. Coop.",
+                "payment:cash": "yes",
+                "payment:credit_cards": "yes",
+                "payment:debit_cards": "yes",
                 "shop": "supermarket"
             }
         },

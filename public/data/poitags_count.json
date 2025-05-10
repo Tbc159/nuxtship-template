@@ -40,13 +40,13 @@
             "Unnamed: 0": 6,
             "amenity": "fast_food",
             "count": 32,
-            "max_timestamp": "2025-03-30T13:52:11Z"
+            "max_timestamp": "2025-05-01T19:47:03Z"
         },
         {
             "Unnamed: 0": 7,
             "amenity": "cafe",
             "count": 22,
-            "max_timestamp": "2025-04-01T06:45:23Z"
+            "max_timestamp": "2025-05-02T16:24:04Z"
         },
         {
             "Unnamed: 0": 8,
@@ -190,7 +190,7 @@
             "Unnamed: 0": 31,
             "amenity": "nightclub",
             "count": 1,
-            "max_timestamp": "2025-01-02T17:28:49Z"
+            "max_timestamp": "2025-05-02T09:59:36Z"
         },
         {
             "Unnamed: 0": 32,
@@ -294,7 +294,7 @@
             "Unnamed: 0": 1,
             "shop": "supermarket",
             "count": 352,
-            "max_timestamp": "2025-04-29T16:56:30Z"
+            "max_timestamp": "2025-04-30T11:41:38Z"
         },
         {
             "Unnamed: 0": 2,
@@ -388,45 +388,45 @@
         },
         {
             "Unnamed: 0": 17,
+            "shop": "butcher",
+            "count": 6,
+            "max_timestamp": "2025-04-30T15:25:57Z"
+        },
+        {
+            "Unnamed: 0": 18,
             "shop": "shoes",
             "count": 6,
             "max_timestamp": "2025-04-20T21:00:19Z"
         },
         {
-            "Unnamed: 0": 18,
+            "Unnamed: 0": 19,
             "shop": "travel_agency",
             "count": 5,
             "max_timestamp": "2024-11-10T20:54:22Z"
         },
         {
-            "Unnamed: 0": 19,
+            "Unnamed: 0": 20,
             "shop": "florist",
             "count": 5,
             "max_timestamp": "2025-04-12T23:24:19Z"
         },
         {
-            "Unnamed: 0": 20,
+            "Unnamed: 0": 21,
             "shop": "wine",
             "count": 5,
             "max_timestamp": "2025-02-22T15:22:26Z"
         },
         {
-            "Unnamed: 0": 21,
+            "Unnamed: 0": 22,
             "shop": "department_store",
             "count": 5,
             "max_timestamp": "2025-04-19T09:12:05Z"
         },
         {
-            "Unnamed: 0": 22,
+            "Unnamed: 0": 23,
             "shop": "appliance",
             "count": 5,
             "max_timestamp": "2025-01-02T22:18:52Z"
-        },
-        {
-            "Unnamed: 0": 23,
-            "shop": "butcher",
-            "count": 5,
-            "max_timestamp": "2024-12-29T17:23:55Z"
         },
         {
             "Unnamed: 0": 24,
@@ -436,27 +436,27 @@
         },
         {
             "Unnamed: 0": 25,
-            "shop": "cannabis",
-            "count": 4,
-            "max_timestamp": "2025-01-02T16:46:35Z"
-        },
-        {
-            "Unnamed: 0": 26,
             "shop": "hardware",
             "count": 4,
             "max_timestamp": "2024-12-03T11:47:56Z"
         },
         {
-            "Unnamed: 0": 27,
-            "shop": "deli",
-            "count": 3,
+            "Unnamed: 0": 26,
+            "shop": "cannabis",
+            "count": 4,
             "max_timestamp": "2025-01-02T16:46:35Z"
         },
         {
-            "Unnamed: 0": 28,
-            "shop": "massage",
+            "Unnamed: 0": 27,
+            "shop": "food",
             "count": 3,
-            "max_timestamp": "2024-12-08T12:23:01Z"
+            "max_timestamp": "2025-02-20T15:21:15Z"
+        },
+        {
+            "Unnamed: 0": 28,
+            "shop": "deli",
+            "count": 3,
+            "max_timestamp": "2025-01-02T16:46:35Z"
         },
         {
             "Unnamed: 0": 29,
@@ -466,27 +466,27 @@
         },
         {
             "Unnamed: 0": 30,
-            "shop": "food",
+            "shop": "massage",
             "count": 3,
-            "max_timestamp": "2025-02-20T15:21:15Z"
+            "max_timestamp": "2024-12-08T12:23:01Z"
         },
         {
             "Unnamed: 0": 31,
-            "shop": "health_food",
+            "shop": "herbalist",
             "count": 2,
-            "max_timestamp": "2025-02-03T10:16:25Z"
+            "max_timestamp": "2024-11-15T21:13:47Z"
         },
         {
             "Unnamed: 0": 32,
-            "shop": "second_hand",
+            "shop": "greengrocer",
             "count": 2,
-            "max_timestamp": "2024-09-23T12:14:28Z"
+            "max_timestamp": "2024-03-11T04:14:59Z"
         },
         {
             "Unnamed: 0": 33,
-            "shop": "cosmetics",
+            "shop": "hifi",
             "count": 2,
-            "max_timestamp": "2024-03-17T23:30:55Z"
+            "max_timestamp": "2025-01-03T17:17:20Z"
         },
         {
             "Unnamed: 0": 34,
@@ -502,27 +502,27 @@
         },
         {
             "Unnamed: 0": 36,
-            "shop": "cheese",
+            "shop": "cosmetics",
             "count": 2,
-            "max_timestamp": "2025-02-14T14:33:09Z"
+            "max_timestamp": "2024-03-17T23:30:55Z"
         },
         {
             "Unnamed: 0": 37,
-            "shop": "hifi",
+            "shop": "health_food",
             "count": 2,
-            "max_timestamp": "2025-01-03T17:17:20Z"
+            "max_timestamp": "2025-02-03T10:16:25Z"
         },
         {
             "Unnamed: 0": 38,
-            "shop": "greengrocer",
+            "shop": "second_hand",
             "count": 2,
-            "max_timestamp": "2024-03-11T04:14:59Z"
+            "max_timestamp": "2024-09-23T12:14:28Z"
         },
         {
             "Unnamed: 0": 39,
-            "shop": "herbalist",
+            "shop": "cheese",
             "count": 2,
-            "max_timestamp": "2024-11-15T21:13:47Z"
+            "max_timestamp": "2025-02-14T14:33:09Z"
         },
         {
             "Unnamed: 0": 40,
@@ -896,7 +896,7 @@
             "Unnamed: 0": 5,
             "cuisine": "burger",
             "count": 6,
-            "max_timestamp": "2024-12-27T17:51:47Z"
+            "max_timestamp": "2025-05-01T19:47:03Z"
         },
         {
             "Unnamed: 0": 6,
@@ -908,7 +908,7 @@
             "Unnamed: 0": 7,
             "cuisine": "sandwich",
             "count": 4,
-            "max_timestamp": "2025-01-02T16:46:35Z"
+            "max_timestamp": "2025-05-01T19:47:03Z"
         },
         {
             "Unnamed: 0": 8,

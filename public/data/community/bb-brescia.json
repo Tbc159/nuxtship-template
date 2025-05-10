@@ -1765,12 +1765,14 @@
             "id": 10228582932,
             "lat": 45.5445077,
             "lon": 10.2198795,
-            "timestamp": "2025-03-19T10:28:47Z",
-            "version": 6,
-            "changeset": 163808254,
-            "user": "osm_fede",
-            "uid": 5631066,
+            "timestamp": "2025-05-08T18:41:32Z",
+            "version": 7,
+            "changeset": 165998237,
+            "user": "Giorovv",
+            "uid": 22842500,
             "tags": {
+                "addr:housenumber": "93",
+                "addr:street": "Via San Faustino",
                 "amenity": "cafe",
                 "check_date": "2022-12-10",
                 "contact:facebook": "https://www.facebook.com/cyrclecafebs/",
@@ -1778,6 +1780,7 @@
                 "currency:XBT": "yes",
                 "indoor_seating": "yes",
                 "name": "CYRCLEcaf\u00e9",
+                "opening_hours": "Mo-We 07:00-22:00; Th-Sa 07:00-00:00",
                 "outdoor_seating": "yes",
                 "payment:lightning": "yes",
                 "payment:onchain": "yes"
@@ -2277,11 +2280,11 @@
             "id": 10856232632,
             "lat": 45.5363818,
             "lon": 10.217417,
-            "timestamp": "2025-01-02T21:11:02Z",
-            "version": 7,
-            "changeset": 160926344,
-            "user": "demon_box",
-            "uid": 350864,
+            "timestamp": "2025-05-04T13:58:47Z",
+            "version": 8,
+            "changeset": 165801735,
+            "user": "fepede",
+            "uid": 1443650,
             "tags": {
                 "addr:city": "Brescia",
                 "addr:housenumber": "24",
@@ -2292,6 +2295,7 @@
                 "contact:twitter": "@h4ckbs",
                 "contact:website": "https://hack.bs.it/",
                 "currency:XBT": "yes",
+                "leisure": "hackerspace",
                 "name": "hack.bs",
                 "office": "association"
             }
@@ -2510,11 +2514,11 @@
             "id": 11137193120,
             "lat": 45.5287045,
             "lon": 10.2261737,
-            "timestamp": "2025-01-02T17:28:49Z",
-            "version": 2,
-            "changeset": 160918185,
-            "user": "demon_box",
-            "uid": 350864,
+            "timestamp": "2025-05-02T09:59:36Z",
+            "version": 3,
+            "changeset": 165711288,
+            "user": "Giorovv",
+            "uid": 22842500,
             "tags": {
                 "addr:city": "Brescia",
                 "addr:housenumber": "51",
@@ -2524,7 +2528,8 @@
                 "contact:email": "spettrovenue@gmail.com",
                 "contact:website": "https://spettro.info/",
                 "currency:XBT": "yes",
-                "name": "Spettro"
+                "name": "Spettro",
+                "opening_hours": "Fr 18:00-00:00; Su 14:00-02:00"
             }
         },
         {

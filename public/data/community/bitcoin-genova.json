@@ -7,7 +7,7 @@
     "idlocalita": "genova",
     "telegram_weburl": "https://web.telegram.org/a/#-1001731437379",
     "telegram_app": "https://t.me/BitcoinGenova",
-    "telegram_members": 81.0,
+    "telegram_members": 80.0,
     "network": "bitcoinbeer",
     "poi": [
         {
@@ -1164,32 +1164,6 @@
                 "opening_hours": "Mo-Su 09:00-20:00",
                 "operator": "MediaMarket S.p.A.",
                 "shop": "electronics"
-            }
-        },
-        {
-            "type": "node",
-            "id": 9865436785,
-            "lat": 44.3742199,
-            "lon": 9.2999934,
-            "timestamp": "2024-10-17T09:24:59Z",
-            "version": 4,
-            "changeset": 157998781,
-            "user": "Ema Was Right",
-            "uid": 22077733,
-            "tags": {
-                "addr:city": "San Colombano Certenoli",
-                "addr:housenumber": "46",
-                "addr:postcode": "16040",
-                "addr:street": "Via Domenico Cuneo",
-                "check_date": "2023-06-26",
-                "currency:XBT": "yes",
-                "description": "Vendita bombole GPL Eni e Butangas. Servizio a domicilio. Fornitura, montaggio e installazione di bombole, regolatori e tubi del gas.",
-                "email": "emalago@libero.it",
-                "name": "Lagomarsino Bombole GPL",
-                "payment:lightning": "yes",
-                "payment:onchain": "yes",
-                "phone": "+39 3403189152",
-                "shop": "gas"
             }
         },
         {
