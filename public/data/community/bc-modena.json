@@ -7,7 +7,7 @@
     "idlocalita": "modena",
     "telegram_weburl": "https://web.telegram.org/a/#-1001339469755",
     "telegram_app": "https://t.me/CryptoModena",
-    "telegram_members": 153.0,
+    "telegram_members": 154.0,
     "poi": [
         {
             "type": "node",
@@ -3629,9 +3629,9 @@
         {
             "type": "way",
             "id": 416724522,
-            "timestamp": "2024-02-10T13:42:43Z",
-            "version": 7,
-            "changeset": 147293090,
+            "timestamp": "2025-05-20T08:02:28Z",
+            "version": 8,
+            "changeset": 166510658,
             "user": "Tatti Barletta",
             "uid": 6693292,
             "nodes": [
@@ -3661,7 +3661,7 @@
                 "brand": "Conad",
                 "brand:wikidata": "Q639075",
                 "brand:wikipedia": "it:Conad",
-                "check_date": "2024-02-10",
+                "check_date": "2025-05-19",
                 "email": "Boxmo@nordiconad.it",
                 "indoor": "room",
                 "level": "0",
@@ -4037,9 +4037,9 @@
         {
             "type": "way",
             "id": 1103664763,
-            "timestamp": "2024-02-10T13:42:43Z",
-            "version": 2,
-            "changeset": 147293090,
+            "timestamp": "2025-05-20T08:02:28Z",
+            "version": 3,
+            "changeset": 166510658,
             "user": "Tatti Barletta",
             "uid": 6693292,
             "nodes": [
@@ -4055,7 +4055,7 @@
                 "addr:postcode": "41126",
                 "addr:street": "Strada Morane",
                 "amenity": "pharmacy",
-                "check_date": "2024-02-10",
+                "check_date": "2025-05-19",
                 "dispensing": "no",
                 "healthcare": "pharmacy",
                 "indoor": "yes",

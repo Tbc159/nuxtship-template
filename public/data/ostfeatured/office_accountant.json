@@ -2,10 +2,18 @@
 	{
 		"id": 6775884898,
 		"url": "/osn/6775884898",
-		"nome": "Studio Associato Capaccioli Pucci Guiducci",
+		"nome": "Studio Capaccioli Pucci Guiducci",
 		"img": "/img/ostfeatured/6775884898.webp",
 		"indirizzo": "Via de Cenci, 15",
 		"citta": "Arezzo"
+	},
+	{
+		"id": 10752403498,
+		"url": "/osn/10752403498",
+		"nome": "Tax Care S.r.l.",
+		"img": "/img/ostfeatured/10752403498.webp",
+		"indirizzo": "Via Roma, 12",
+		"citta": "Provaglio d'Iseo (Brescia)"
 	},
 	{
 		"id": 10844470943,

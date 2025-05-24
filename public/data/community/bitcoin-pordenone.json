@@ -7,7 +7,7 @@
     "idlocalita": "pordenone",
     "telegram_weburl": "https://web.telegram.org/a/#-1001742172532",
     "telegram_app": "https://t.me/bitcoinpordenone",
-    "telegram_members": 24.0,
+    "telegram_members": 25.0,
     "network": "bitcoinbeer",
     "poi": [
         {
@@ -127,18 +127,18 @@
             "id": 1397194006,
             "lat": 46.1517185,
             "lon": 12.9991398,
-            "timestamp": "2024-05-08T05:08:59Z",
-            "version": 5,
-            "changeset": 151036542,
-            "user": "yhic4uw",
-            "uid": 2104834,
+            "timestamp": "2025-05-23T17:18:07Z",
+            "version": 6,
+            "changeset": 166666644,
+            "user": "Rockedf",
+            "uid": 7522075,
             "tags": {
                 "addr:city": "San Daniele del Friuli",
                 "addr:housenumber": "1",
                 "addr:postcode": "33038",
                 "addr:street": "Via Europa",
                 "amenity": "restaurant",
-                "check_date:currency:XBT": "2024-05-07",
+                "check_date:currency:XBT": "2025-05-23",
                 "cuisine": "pizza",
                 "currency:XBT": "yes",
                 "name": "Julia e Brutus Pizza e Bistrot",
@@ -1575,17 +1575,17 @@
             "id": 12285483206,
             "lat": 46.0591621,
             "lon": 13.2541945,
-            "timestamp": "2025-01-28T21:28:18Z",
-            "version": 2,
-            "changeset": 161874360,
-            "user": "SiriusBig",
-            "uid": 14979009,
+            "timestamp": "2025-05-22T17:05:34Z",
+            "version": 3,
+            "changeset": 166622502,
+            "user": "Rockedf",
+            "uid": 7522075,
             "tags": {
                 "addr:city": "Udine",
                 "addr:housenumber": "12",
                 "addr:postcode": "33100",
                 "addr:street": "Via Ipplis",
-                "check_date:currency:XBT": "2025-01-28",
+                "check_date:currency:XBT": "2025-05-22",
                 "currency:XBT": "yes",
                 "leisure": "fitness_centre",
                 "name": "SteelLab - Personal Training Studio",
@@ -1869,6 +1869,35 @@
                 "phone": "+39 37 1164 2497",
                 "shop": "yes",
                 "website": "https://www.naturopatiazerbio.com/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12853010134,
+            "lat": 45.6889712,
+            "lon": 13.137949,
+            "timestamp": "2025-05-21T12:24:31Z",
+            "version": 1,
+            "changeset": 166566497,
+            "user": "Comino",
+            "uid": 6794624,
+            "tags": {
+                "addr:city": "Lignano Sabbiadoro",
+                "addr:housenumber": "75",
+                "addr:postcode": "33054",
+                "addr:street": "Via Latisana",
+                "amenity": "bar",
+                "check_date": "2025-05-21",
+                "check_date:currency:XBT": "2025-05-21",
+                "currency:XBT": "yes",
+                "description": "The bar at Hotel Aurora is open to non-hotel guests as well. Please note that Bitcoin payments are only accepted at the bar, not within the hotel itself.",
+                "email": "fritula88@gmail.com",
+                "name": "Bar Hotel Aurora",
+                "opening_hours": "Mo-Su 09:00-23:00",
+                "payment:lightning": "yes",
+                "payment:lightning_contactless": "yes",
+                "payment:onchain": "no",
+                "source": "BTCmap add location form, confirmed by email with business owner"
             }
         },
         {
@@ -2173,6 +2202,31 @@
                 "self_service": "yes",
                 "shop": "no",
                 "website": "https://www.conad.it/ricerca-negozi/negozio.050057.html"
+            }
+        },
+        {
+            "type": "way",
+            "id": 622135345,
+            "timestamp": "2025-05-21T19:32:02Z",
+            "version": 4,
+            "changeset": 166583860,
+            "user": "jioele",
+            "uid": 21247494,
+            "nodes": [
+                5876917228,
+                5876917227,
+                5876917226,
+                5876917225,
+                5876917224,
+                5876917228
+            ],
+            "tags": {
+                "building": "yes",
+                "name": "SVOLTA Q8",
+                "not:brand:wikidata": "Q4119207",
+                "operator": "Q8",
+                "shop": "convenience",
+                "website": "https://www.q8.it/servizi-prodotti/shop-svolta"
             }
         }
     ],

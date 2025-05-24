@@ -2,15 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://bitcoinitalianetwork.com/ost/amenity/pharmacy</loc>
-    <lastmod>2025-05-15</lastmod>
+    <lastmod>2025-05-20</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/ost/amenity/fuel</loc>
-    <lastmod>2025-05-14</lastmod>
+    <lastmod>2025-05-24</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/ost/amenity/restaurant</loc>
-    <lastmod>2025-05-17</lastmod>
+    <lastmod>2025-05-23</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/ost/amenity/parking</loc>
@@ -18,11 +18,11 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/ost/amenity/atm</loc>
-    <lastmod>2025-02-25</lastmod>
+    <lastmod>2025-05-19</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/ost/amenity/bar</loc>
-    <lastmod>2025-05-12</lastmod>
+    <lastmod>2025-05-21</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/ost/amenity/fast_food</loc>
@@ -30,7 +30,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/ost/amenity/cafe</loc>
-    <lastmod>2025-05-08</lastmod>
+    <lastmod>2025-05-19</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/ost/amenity/pub</loc>
@@ -194,15 +194,15 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/ost/shop/electronics</loc>
-    <lastmod>2025-04-20</lastmod>
+    <lastmod>2025-05-24</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/ost/shop/supermarket</loc>
-    <lastmod>2025-05-04</lastmod>
+    <lastmod>2025-05-20</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/ost/shop/clothes</loc>
-    <lastmod>2025-05-12</lastmod>
+    <lastmod>2025-05-18</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/ost/shop/sports</loc>
@@ -214,7 +214,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/ost/shop/convenience</loc>
-    <lastmod>2025-04-19</lastmod>
+    <lastmod>2025-05-21</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/ost/shop/jewelry</loc>
@@ -226,7 +226,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/ost/shop/hairdresser</loc>
-    <lastmod>2025-05-16</lastmod>
+    <lastmod>2025-05-23</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/ost/shop/beauty</loc>
@@ -253,12 +253,12 @@
     <lastmod>2025-04-13</lastmod>
   </url>
   <url>
-    <loc>https://bitcoinitalianetwork.com/ost/shop/mall</loc>
-    <lastmod>2024-12-31</lastmod>
+    <loc>https://bitcoinitalianetwork.com/ost/shop/shoes</loc>
+    <lastmod>2025-05-22</lastmod>
   </url>
   <url>
-    <loc>https://bitcoinitalianetwork.com/ost/shop/shoes</loc>
-    <lastmod>2025-04-20</lastmod>
+    <loc>https://bitcoinitalianetwork.com/ost/shop/mall</loc>
+    <lastmod>2024-12-31</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/ost/shop/pet</loc>
@@ -301,6 +301,10 @@
     <lastmod>2024-12-03</lastmod>
   </url>
   <url>
+    <loc>https://bitcoinitalianetwork.com/ost/shop/trade</loc>
+    <lastmod>2024-09-25</lastmod>
+  </url>
+  <url>
     <loc>https://bitcoinitalianetwork.com/ost/shop/deli</loc>
     <lastmod>2025-01-02</lastmod>
   </url>
@@ -309,32 +313,52 @@
     <lastmod>2025-02-20</lastmod>
   </url>
   <url>
-    <loc>https://bitcoinitalianetwork.com/ost/shop/massage</loc>
-    <lastmod>2024-12-08</lastmod>
+    <loc>https://bitcoinitalianetwork.com/ost/shop/hifi</loc>
+    <lastmod>2025-01-03</lastmod>
   </url>
   <url>
-    <loc>https://bitcoinitalianetwork.com/ost/shop/trade</loc>
-    <lastmod>2024-09-25</lastmod>
+    <loc>https://bitcoinitalianetwork.com/ost/shop/cosmetics</loc>
+    <lastmod>2025-05-19</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/ost/shop/stationery</loc>
+    <lastmod>2025-05-14</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/ost/shop/motorcycle</loc>
+    <lastmod>2025-05-09</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/ost/shop/cheese</loc>
+    <lastmod>2025-02-14</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/ost/shop/perfumery</loc>
+    <lastmod>2024-09-21</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/ost/shop/health_food</loc>
     <lastmod>2025-02-03</lastmod>
   </url>
   <url>
-    <loc>https://bitcoinitalianetwork.com/ost/shop/pastry</loc>
-    <lastmod>2025-04-01</lastmod>
-  </url>
-  <url>
-    <loc>https://bitcoinitalianetwork.com/ost/shop/e-cigarette</loc>
-    <lastmod>2025-05-17</lastmod>
+    <loc>https://bitcoinitalianetwork.com/ost/shop/mobile_phone</loc>
+    <lastmod>2024-07-06</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/ost/shop/greengrocer</loc>
     <lastmod>2024-03-11</lastmod>
   </url>
   <url>
-    <loc>https://bitcoinitalianetwork.com/ost/shop/mobile_phone</loc>
-    <lastmod>2024-07-06</lastmod>
+    <loc>https://bitcoinitalianetwork.com/ost/shop/herbalist</loc>
+    <lastmod>2024-11-15</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/ost/shop/e-cigarette</loc>
+    <lastmod>2025-05-17</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/ost/shop/pastry</loc>
+    <lastmod>2025-04-01</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/ost/shop/medical_supply</loc>
@@ -345,68 +369,44 @@
     <lastmod>2025-04-20</lastmod>
   </url>
   <url>
-    <loc>https://bitcoinitalianetwork.com/ost/shop/cheese</loc>
-    <lastmod>2025-02-14</lastmod>
-  </url>
-  <url>
-    <loc>https://bitcoinitalianetwork.com/ost/shop/motorcycle</loc>
-    <lastmod>2025-05-09</lastmod>
-  </url>
-  <url>
-    <loc>https://bitcoinitalianetwork.com/ost/shop/stationery</loc>
-    <lastmod>2025-05-14</lastmod>
-  </url>
-  <url>
-    <loc>https://bitcoinitalianetwork.com/ost/shop/hifi</loc>
-    <lastmod>2025-01-03</lastmod>
-  </url>
-  <url>
-    <loc>https://bitcoinitalianetwork.com/ost/shop/cosmetics</loc>
-    <lastmod>2024-03-17</lastmod>
-  </url>
-  <url>
-    <loc>https://bitcoinitalianetwork.com/ost/shop/herbalist</loc>
-    <lastmod>2024-11-15</lastmod>
-  </url>
-  <url>
-    <loc>https://bitcoinitalianetwork.com/ost/shop/tattoo</loc>
-    <lastmod>2025-01-02</lastmod>
-  </url>
-  <url>
-    <loc>https://bitcoinitalianetwork.com/ost/shop/newsagent</loc>
-    <lastmod>2024-01-31</lastmod>
-  </url>
-  <url>
-    <loc>https://bitcoinitalianetwork.com/ost/shop/second_hand</loc>
-    <lastmod>2024-09-23</lastmod>
-  </url>
-  <url>
-    <loc>https://bitcoinitalianetwork.com/ost/shop/perfumery</loc>
-    <lastmod>2024-09-21</lastmod>
+    <loc>https://bitcoinitalianetwork.com/ost/shop/tyres</loc>
+    <lastmod>2025-04-20</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/ost/shop/car</loc>
     <lastmod>2025-04-12</lastmod>
   </url>
   <url>
-    <loc>https://bitcoinitalianetwork.com/ost/shop/variety_store</loc>
-    <lastmod>2024-10-08</lastmod>
-  </url>
-  <url>
     <loc>https://bitcoinitalianetwork.com/ost/shop/gold_buyer</loc>
     <lastmod>2024-11-10</lastmod>
-  </url>
-  <url>
-    <loc>https://bitcoinitalianetwork.com/ost/shop/tyres</loc>
-    <lastmod>2025-04-20</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/ost/shop/carpet</loc>
     <lastmod>2023-11-17</lastmod>
   </url>
   <url>
-    <loc>https://bitcoinitalianetwork.com/ost/shop/tailor</loc>
+    <loc>https://bitcoinitalianetwork.com/ost/shop/tattoo</loc>
     <lastmod>2025-01-02</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/ost/shop/variety_store</loc>
+    <lastmod>2024-10-08</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/ost/shop/massage</loc>
+    <lastmod>2024-12-08</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/ost/shop/second_hand</loc>
+    <lastmod>2024-09-23</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/ost/shop/newsagent</loc>
+    <lastmod>2024-01-31</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/ost/shop/art</loc>
+    <lastmod>2025-05-04</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/ost/shop/musical_instrument</loc>
@@ -417,32 +417,36 @@
     <lastmod>2025-03-03</lastmod>
   </url>
   <url>
-    <loc>https://bitcoinitalianetwork.com/ost/shop/leather</loc>
-    <lastmod>2025-03-01</lastmod>
-  </url>
-  <url>
     <loc>https://bitcoinitalianetwork.com/ost/shop/interior_decoration</loc>
     <lastmod>2023-05-03</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/ost/shop/leather</loc>
+    <lastmod>2025-03-01</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/ost/shop/kiosk</loc>
     <lastmod>2022-12-29</lastmod>
   </url>
   <url>
-    <loc>https://bitcoinitalianetwork.com/ost/shop/funeral_directors</loc>
-    <lastmod>2024-02-25</lastmod>
+    <loc>https://bitcoinitalianetwork.com/ost/shop/tailor</loc>
+    <lastmod>2025-01-02</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/ost/shop/kitchen</loc>
+    <lastmod>2025-04-20</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/ost/shop/safety_equipment</loc>
+    <lastmod>2025-05-12</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/ost/shop/repair</loc>
     <lastmod>2024-11-29</lastmod>
   </url>
   <url>
-    <loc>https://bitcoinitalianetwork.com/ost/shop/paint</loc>
-    <lastmod>2024-11-06</lastmod>
-  </url>
-  <url>
-    <loc>https://bitcoinitalianetwork.com/ost/shop/safety_equipment</loc>
-    <lastmod>2025-05-12</lastmod>
+    <loc>https://bitcoinitalianetwork.com/ost/shop/funeral_directors</loc>
+    <lastmod>2024-02-25</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/ost/shop/honey</loc>
@@ -453,16 +457,12 @@
     <lastmod>2024-08-31</lastmod>
   </url>
   <url>
-    <loc>https://bitcoinitalianetwork.com/ost/shop/art</loc>
-    <lastmod>2025-05-04</lastmod>
-  </url>
-  <url>
     <loc>https://bitcoinitalianetwork.com/ost/shop/fruit</loc>
     <lastmod>2024-12-01</lastmod>
   </url>
   <url>
-    <loc>https://bitcoinitalianetwork.com/ost/shop/kitchen</loc>
-    <lastmod>2025-04-20</lastmod>
+    <loc>https://bitcoinitalianetwork.com/ost/shop/paint</loc>
+    <lastmod>2024-11-06</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/ost/shop/coffee</loc>
@@ -578,7 +578,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/ost/cuisine/pizza</loc>
-    <lastmod>2025-05-17</lastmod>
+    <lastmod>2025-05-23</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/ost/cuisine/italian</loc>
@@ -594,19 +594,19 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/ost/cuisine/coffee_shop</loc>
-    <lastmod>2025-03-27</lastmod>
+    <lastmod>2025-05-19</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/ost/cuisine/burger</loc>
     <lastmod>2025-05-01</lastmod>
   </url>
   <url>
-    <loc>https://bitcoinitalianetwork.com/ost/cuisine/piadina</loc>
-    <lastmod>2025-03-28</lastmod>
+    <loc>https://bitcoinitalianetwork.com/ost/cuisine/sandwich</loc>
+    <lastmod>2025-05-19</lastmod>
   </url>
   <url>
-    <loc>https://bitcoinitalianetwork.com/ost/cuisine/sandwich</loc>
-    <lastmod>2025-05-01</lastmod>
+    <loc>https://bitcoinitalianetwork.com/ost/cuisine/piadina</loc>
+    <lastmod>2025-03-28</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/ost/cuisine/italian_pizza</loc>
@@ -618,7 +618,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/ost/cuisine/ice_cream</loc>
-    <lastmod>2025-03-21</lastmod>
+    <lastmod>2025-05-23</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/ost/cuisine/cocktail</loc>
@@ -673,6 +673,10 @@
     <lastmod>2025-05-17</lastmod>
   </url>
   <url>
+    <loc>https://bitcoinitalianetwork.com/ost/cuisine/breakfast</loc>
+    <lastmod>2025-05-19</lastmod>
+  </url>
+  <url>
     <loc>https://bitcoinitalianetwork.com/ost/cuisine/international</loc>
     <lastmod>2024-09-23</lastmod>
   </url>
@@ -682,7 +686,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/ost/cuisine/bar_and_grill</loc>
-    <lastmod>2025-03-21</lastmod>
+    <lastmod>2025-05-23</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/ost/cuisine/steak_house</loc>
@@ -942,7 +946,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/ost/healthcare/pharmacy</loc>
-    <lastmod>2025-05-15</lastmod>
+    <lastmod>2025-05-20</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/ost/healthcare/dentist</loc>
@@ -978,7 +982,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/ost/leisure/fitness_centre</loc>
-    <lastmod>2025-05-06</lastmod>
+    <lastmod>2025-05-22</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/ost/leisure/beach_resort</loc>
@@ -1034,11 +1038,11 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/ost/sport/fitness</loc>
-    <lastmod>2025-01-28</lastmod>
+    <lastmod>2025-05-22</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/ost/sport/benessere</loc>
-    <lastmod>2025-01-28</lastmod>
+    <lastmod>2025-05-22</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/ost/sport/taijiquan</loc>
@@ -1058,11 +1062,11 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/ost/sport/allenamento_della_forza</loc>
-    <lastmod>2025-01-28</lastmod>
+    <lastmod>2025-05-22</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/ost/sport/allenamento_funzionale</loc>
-    <lastmod>2025-01-28</lastmod>
+    <lastmod>2025-05-22</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/ost/sport/thaibox</loc>
@@ -1070,23 +1074,23 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/ost/sport/allenamento_rieducativo</loc>
-    <lastmod>2025-01-28</lastmod>
+    <lastmod>2025-05-22</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/ost/sport/post_operazione</loc>
-    <lastmod>2025-01-28</lastmod>
+    <lastmod>2025-05-22</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/ost/sport/kettlebell_training</loc>
-    <lastmod>2025-01-28</lastmod>
+    <lastmod>2025-05-22</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/ost/sport/calishtenics</loc>
-    <lastmod>2025-01-28</lastmod>
+    <lastmod>2025-05-22</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/ost/sport/allenamento_posturale</loc>
-    <lastmod>2025-01-28</lastmod>
+    <lastmod>2025-05-22</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/ost/sport/yoga</loc>
@@ -1150,6 +1154,6 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/ost/sport/stretching</loc>
-    <lastmod>2025-01-28</lastmod>
+    <lastmod>2025-05-22</lastmod>
   </url>
 </urlset>

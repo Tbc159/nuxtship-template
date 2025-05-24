@@ -7,7 +7,7 @@
     "idlocalita": "trieste",
     "telegram_weburl": "https://web.telegram.org/a/#-1001054825457",
     "telegram_app": "https://t.me/bitcointrieste",
-    "telegram_members": 103.0,
+    "telegram_members": 102.0,
     "network": "bitcoinbeer",
     "poi": [
         {
@@ -891,6 +891,35 @@
                 "payment:onchain": "yes",
                 "phone": "+39 34 8048 7308",
                 "website": "https://shitcoins.club/localizzazione-atm/atm-bitcoin-trieste-montedoro"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12853010134,
+            "lat": 45.6889712,
+            "lon": 13.137949,
+            "timestamp": "2025-05-21T12:24:31Z",
+            "version": 1,
+            "changeset": 166566497,
+            "user": "Comino",
+            "uid": 6794624,
+            "tags": {
+                "addr:city": "Lignano Sabbiadoro",
+                "addr:housenumber": "75",
+                "addr:postcode": "33054",
+                "addr:street": "Via Latisana",
+                "amenity": "bar",
+                "check_date": "2025-05-21",
+                "check_date:currency:XBT": "2025-05-21",
+                "currency:XBT": "yes",
+                "description": "The bar at Hotel Aurora is open to non-hotel guests as well. Please note that Bitcoin payments are only accepted at the bar, not within the hotel itself.",
+                "email": "fritula88@gmail.com",
+                "name": "Bar Hotel Aurora",
+                "opening_hours": "Mo-Su 09:00-23:00",
+                "payment:lightning": "yes",
+                "payment:lightning_contactless": "yes",
+                "payment:onchain": "no",
+                "source": "BTCmap add location form, confirmed by email with business owner"
             }
         },
         {

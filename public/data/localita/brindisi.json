@@ -349,6 +349,31 @@
         },
         {
             "type": "node",
+            "id": 9312694973,
+            "lat": 40.4904917,
+            "lon": 17.6528245,
+            "timestamp": "2025-05-19T14:35:07Z",
+            "version": 2,
+            "changeset": 166480345,
+            "user": "Caseificio Pipino - Oria",
+            "uid": 22505064,
+            "tags": {
+                "addr:city": "Oria",
+                "addr:postcode": "72024",
+                "addr:street": "Circonvallazione di Oria",
+                "amenity": "cafe",
+                "cuisine": "coffee_shop;sandwich;breakfast",
+                "currency:XBT": "yes",
+                "name": "Blue bar",
+                "outdoor_seating": "yes",
+                "payment:cash": "yes",
+                "payment:lightning": "yes",
+                "payment:onchain": "no",
+                "survey:date": "2025-05-19"
+            }
+        },
+        {
+            "type": "node",
             "id": 11131394236,
             "lat": 40.2987932,
             "lon": 17.5617862,

@@ -7,7 +7,7 @@
     "idlocalita": "treviso",
     "telegram_weburl": "https://web.telegram.org/a/#-1001574094874",
     "telegram_app": "https://t.me/SatoshiSpritzTreviso",
-    "telegram_members": 106.0,
+    "telegram_members": 110.0,
     "network": "satoshispritz",
     "poi": [
         {
@@ -3284,6 +3284,31 @@
                 "self_service": "yes",
                 "shop": "no",
                 "website": "https://www.conad.it/ricerca-negozi/negozio.050057.html"
+            }
+        },
+        {
+            "type": "way",
+            "id": 622135345,
+            "timestamp": "2025-05-21T19:32:02Z",
+            "version": 4,
+            "changeset": 166583860,
+            "user": "jioele",
+            "uid": 21247494,
+            "nodes": [
+                5876917228,
+                5876917227,
+                5876917226,
+                5876917225,
+                5876917224,
+                5876917228
+            ],
+            "tags": {
+                "building": "yes",
+                "name": "SVOLTA Q8",
+                "not:brand:wikidata": "Q4119207",
+                "operator": "Q8",
+                "shop": "convenience",
+                "website": "https://www.q8.it/servizi-prodotti/shop-svolta"
             }
         },
         {

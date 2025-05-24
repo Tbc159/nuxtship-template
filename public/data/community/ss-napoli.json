@@ -7,7 +7,7 @@
     "idlocalita": "napoli",
     "telegram_weburl": "https://web.telegram.org/a/#-1001823139796",
     "telegram_app": "https://t.me/SatoshiSpritzNapoli",
-    "telegram_members": 82.0,
+    "telegram_members": 83.0,
     "network": "satoshispritz",
     "poi": [
         {
@@ -237,13 +237,13 @@
         {
             "type": "node",
             "id": 3371505042,
-            "lat": 40.857871,
-            "lon": 14.260188,
-            "timestamp": "2018-02-03T22:17:54Z",
-            "version": 2,
-            "changeset": 56041178,
-            "user": "Mauro Lepore",
-            "uid": 7568817,
+            "lat": 40.857882,
+            "lon": 14.2601601,
+            "timestamp": "2025-05-22T19:16:38Z",
+            "version": 3,
+            "changeset": 166627047,
+            "user": "VLD317",
+            "uid": 22891840,
             "tags": {
                 "amenity": "fuel",
                 "brand": "Q8",
@@ -2192,6 +2192,21 @@
                 "payment:lightning_contactless": "yes",
                 "payment:onchain": "yes",
                 "website": "https://www.codiceazienda.it/"
+            }
+        },
+        {
+            "type": "node",
+            "id": 12848600284,
+            "lat": 40.845897,
+            "lon": 14.2373897,
+            "timestamp": "2025-05-19T10:12:54Z",
+            "version": 1,
+            "changeset": 166467990,
+            "user": "Acheloo",
+            "uid": 11366923,
+            "tags": {
+                "amenity": "atm",
+                "currency:XBT": "yes"
             }
         },
         {

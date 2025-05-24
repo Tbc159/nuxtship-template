@@ -7,7 +7,7 @@
     "idlocalita": "roma",
     "telegram_weburl": "https://web.telegram.org/k/#@SatoshiSpritzRoma",
     "telegram_app": "https://t.me/SatoshiSpritzRoma",
-    "telegram_members": 401.0,
+    "telegram_members": 405.0,
     "network": "satoshispritz",
     "poi": [
         {
@@ -2262,37 +2262,6 @@
                 "operator": "CONAD Soc. Coop.",
                 "phone": "+39 06 87570074",
                 "shop": "supermarket"
-            }
-        },
-        {
-            "type": "node",
-            "id": 9681011854,
-            "lat": 41.8920755,
-            "lon": 12.4678138,
-            "timestamp": "2024-12-23T04:40:46Z",
-            "version": 5,
-            "changeset": 160523365,
-            "user": "mseifert",
-            "uid": 2491490,
-            "tags": {
-                "addr:city": "Roma",
-                "addr:housenumber": "8",
-                "addr:postcode": "00153",
-                "addr:street": "Via di Porta Settimiana",
-                "amenity": "restaurant",
-                "brand": "Polpetta",
-                "check_date": "2024-12-22",
-                "contact:housenumber": "8",
-                "contact:street": "Via di Porta Settimiana",
-                "cuisine": "italian",
-                "currency:XBT": "yes",
-                "delivery": "yes",
-                "name": "Polpetta Trastevere",
-                "opening_hours": "12:00-24:00",
-                "outdoor_seating": "yes",
-                "phone": "+3965818284",
-                "reservation": "yes",
-                "website": "https://www.polpetta.it/"
             }
         },
         {

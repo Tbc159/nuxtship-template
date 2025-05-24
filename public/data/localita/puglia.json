@@ -9,12 +9,13 @@
             "id": 334223778,
             "lat": 40.9951835,
             "lon": 16.9134304,
-            "timestamp": "2024-01-01T13:37:35Z",
-            "version": 3,
-            "changeset": 145762328,
-            "user": "Ale_Zena_IT",
-            "uid": 22290,
+            "timestamp": "2025-05-24T12:25:50Z",
+            "version": 4,
+            "changeset": 166694968,
+            "user": "SpaceshipAlex",
+            "uid": 7043543,
             "tags": {
+                "check_date": "2025-05-24",
                 "disused:amenity": "fuel",
                 "name": "Q8",
                 "operator": "Q8"
