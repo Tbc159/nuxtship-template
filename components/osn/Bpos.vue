@@ -26,7 +26,7 @@ export default {
     <OsnMapbadge
       v-else
       etichetta="posizione"
-      :url="'https://www.bing.com/maps?cp=' + data.lat + '~' + data.lon + '&lvl=20'"
+      :url="'https://www.bing.com/maps?cp=' + usePoiLat(data) + '~' + usePoiLon(data) + '&lvl=20'"
       icona="tabler:brand-bing"
     />
   </span>

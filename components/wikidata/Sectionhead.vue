@@ -1,5 +1,9 @@
 <script setup>
 const props = defineProps(["wikidataentities"]);
+
+useHead({
+	title: props?.wikidataentities?.labels?.it?.value + " | Bitcoin Italia Network",
+});
 </script>
 
 <template>

@@ -2,9 +2,19 @@
 const props = defineProps(["data"]);
 </script>
 <template>
+
+  <!-- <OnwNominatim :lat="usePoiLat(data)" :lon="usePoiLon(data)" /> -->
+  <p v-if="data?.tags['disused:amenity']" class="text-red-600 font-bold">
+    Attività dismessa
+  </p>
+  <p v-else-if="data?.tags['disused:shop']" class="text-red-600 font-bold">
+    Attività dismessa
+  </p>
   <OnwPostaladdress :tags="data?.tags" />
+  <OnwEdit :data="data" :lat="usePoiLat(data)" :lon="usePoiLon(data)" />
+  
   <OsnTelefoni :tags="data?.tags" />
-  <!-- <OsnEventi :idnodosm="data?.id" /> -->
+  <!-- <OsnEventi :idnodosm="data?.id" /> -->\
   <OsnTagyesno
     v-if="data?.tags?.wheelchair"
     icona="ph:wheelchair-light"

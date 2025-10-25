@@ -33,4 +33,11 @@ const props = defineProps(["tags"]);
     etichetta="Cell"
     :telefono="tags['phone:mobile']"
   />
+
+    <OsnTel
+    v-if="tags['contact:fax']"
+    icona="noto-v1:fax-machine"
+    etichetta="fax"
+    :telefono="tags['contact:fax']"
+  />
 </template>

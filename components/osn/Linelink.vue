@@ -8,7 +8,7 @@ defineProps(["poi"]);
       <OnwXbtindicator :tags="poi?.tags">
         <div class="flex flex-wrap p-2 border-1 my-2 rounded shadow">
           <div class="text-primary font-bold pr-2">
-            {{ poi?.tags?.name }}
+            {{ useTagsname(poi?.tags) }}
           </div>
           <div class="pr-2">
             <span v-if="poi?.tags['addr:place']">

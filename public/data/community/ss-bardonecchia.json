@@ -680,12 +680,15 @@
             "id": 4075251336,
             "lat": 45.4185297,
             "lon": 6.3634412,
-            "timestamp": "2024-07-15T11:57:02Z",
-            "version": 7,
-            "changeset": 153968664,
-            "user": "meryl_atpfr_bot",
-            "uid": 21677318,
+            "timestamp": "2025-10-22T20:57:20Z",
+            "version": 8,
+            "changeset": 173647070,
+            "user": "btcitnet",
+            "uid": 22525435,
             "tags": {
+                "addr:city": "Saint-Fran\u00e7ois-Longchamp",
+                "addr:postcode": "73130",
+                "addr:street": "Rue de Longchamp",
                 "brand": "Spar",
                 "brand:wikidata": "Q610492",
                 "brand:wikipedia": "en:SPAR (retailer)",
@@ -716,6 +719,30 @@
                 "phone": "+33 9 65 38 31 95",
                 "shop": "supermarket",
                 "website": "https://magasins.spar.fr/fr/s/spar-bozel"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4504553480,
+            "lat": 45.0333342,
+            "lon": 6.8338764,
+            "timestamp": "2025-10-22T07:44:57Z",
+            "version": 4,
+            "changeset": 173613556,
+            "user": "rop77",
+            "uid": 3141265,
+            "tags": {
+                "addr:city": "Oulx",
+                "addr:postcode": "10056",
+                "addr:street": "Strada Statale 24 del Monginevro",
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "brand:wikipedia": "it:Simply Market",
+                "description": "Cold beer available",
+                "name": "Despar",
+                "phone": "+39 122830747",
+                "shop": "supermarket",
+                "website": "http://www.simplymarket.it/pdv.php?id=520296B"
             }
         },
         {

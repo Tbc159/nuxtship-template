@@ -56,8 +56,6 @@ useHead({
 
   <LandingBreadcrumb :voci="breadcrumb" />
 
-
-
   <div class="py-4 container mx-auto border-2 rounded-lg shadow sm:px-10">
     <div class="divide-y divide-gray-300/50">
       <div class="flex">

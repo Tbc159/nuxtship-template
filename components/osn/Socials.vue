@@ -1,5 +1,4 @@
 <script>
-
 const social = [
   {
     nome: "instagram",
@@ -25,6 +24,34 @@ const social = [
     nome: "pinterest",
     icona: "mdi:pinterest",
   },
+  {
+    nome: "youtube",
+    icona: "mdi:youtube",
+  },
+  {
+    nome: "whatsapp",
+    icona: "mdi:whatsapp",
+  },
+  {
+    nome: "tiktok",
+    icona: "ic:baseline-tiktok",
+  },
+  {
+    nome: "skype",
+    icona: "mdi:skype",
+  },
+  {
+    nome: "foursquare",
+    icona: "mdi:foursquare",
+  },
+  {
+    nome: "yelp",
+    icona: "mdi:yelp",
+  },
+  {
+    nome: "tripadvisor",
+    icona: "tabler:brand-tripadvisor",
+  }
 ];
 
 export default {
@@ -45,7 +72,6 @@ export default {
     };
   },
 };
-
 </script>
 <template>
   <div class="flex flex-wrap my-4">

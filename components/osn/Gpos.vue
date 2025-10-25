@@ -26,7 +26,7 @@ export default {
     <OsnMapbadge
       v-else
       etichetta="posizione"
-      :url="'https://maps.google.com/maps?z=12&t=m&q=loc:' + data.lat + '+' + data.lon"
+      :url="'https://maps.google.com/maps?z=12&t=m&q=loc:' + usePoiLat(data) + '+' + usePoiLon(data)"
       icona="material-symbols:location-on"
     />
   </span>
@@ -34,7 +34,7 @@ export default {
   <OsnMapbadge
     v-else
     etichetta="posizione"
-    :url="'https://maps.google.com/maps?z=12&t=m&q=loc:' + data.lat + '+' + data.lon"
+    :url="'https://maps.google.com/maps?z=12&t=m&q=loc:' + usePoiLat(data) + '+' + usePoiLon(data)"
     icona="material-symbols:location-on"
   />
 </template>

@@ -1364,11 +1364,11 @@
         {
             "type": "way",
             "id": 1017462088,
-            "timestamp": "2022-08-16T13:10:10Z",
-            "version": 2,
-            "changeset": 124972197,
-            "user": "\u3071 \u3061\u3083\u306b",
-            "uid": 16256289,
+            "timestamp": "2025-10-25T17:22:41Z",
+            "version": 3,
+            "changeset": 173765889,
+            "user": "btcitnet",
+            "uid": 22525435,
             "nodes": [
                 9384579408,
                 9384579409,
@@ -1378,7 +1378,9 @@
                 9384579408
             ],
             "tags": {
+                "addr:postcode": "07044",
                 "addr:street": "Via Sassari",
+                "addr:village": "Ittiri",
                 "amenity": "fuel",
                 "brand": "Tamoil",
                 "brand:wikidata": "Q706793",

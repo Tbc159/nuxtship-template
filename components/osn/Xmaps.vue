@@ -15,8 +15,9 @@ export default {
 </script>
 
 <template>
+  <!-- <UiRivela title="dati" :description="data" /> -->
   <div
-    v-if="data.lat && data.lon"
+    v-if="usePoiLat(data) && usePoiLon(data)"
     class="relative inline-block text-sm p-1 mt-2 mb-5 shadow ring-1 ring-gray-900/5 max-w-lg rounded-lg"
   >
     <div class="pl-4 p-1">altre mappe</div>
@@ -31,9 +32,9 @@ export default {
             etichetta="streetview"
             :url="
               'https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=' +
-              data.lat +
+              usePoiLat(data) +
               ',' +
-              data.lon
+              usePoiLon(data)
             "
             icona="material-symbols:streetview"
           />
@@ -41,9 +42,9 @@ export default {
             etichetta="direzioni"
             :url="
               'https://maps.google.com/maps?daddr=(' +
-              data.lat +
+              usePoiLat(data) +
               ',' +
-              data.lon +
+              usePoiLon(data) +
               ')'
             "
             icona="material-symbols:directions"

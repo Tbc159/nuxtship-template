@@ -16,7 +16,7 @@ const props = defineProps(["data"]);
     </a> -->
     <a
       v-if="data.tags['currency:XBT'] === 'yes'"
-      :href="'https://btcmap.org/merchant/node:' + data.id"
+      :href="'https://btcmap.org/merchant/'+data.type+':' + data.id"
       target="_blank"
       class="text- text-sm"
       ><MainBadge

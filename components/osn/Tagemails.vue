@@ -14,4 +14,10 @@ const props = defineProps(["tags"]);
     etichetta="email"
     :testo="tags['contact:email']"
   />
+  <OnwTag
+    v-if="tags['contact:pec']"
+    icona="material-symbols:mail-outline-sharp"
+    etichetta="pec"
+    :testo="tags['contact:pec']"
+  />
 </template>

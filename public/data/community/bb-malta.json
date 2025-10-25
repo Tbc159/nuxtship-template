@@ -356,24 +356,6 @@
         },
         {
             "type": "node",
-            "id": 10064536050,
-            "lat": 35.8991156,
-            "lon": 14.4922686,
-            "timestamp": "2025-06-27T12:39:03Z",
-            "version": 3,
-            "changeset": 168183986,
-            "user": "Gremxul_abjad",
-            "uid": 22320231,
-            "tags": {
-                "brand": "Spar",
-                "brand:wikidata": "Q610492",
-                "name": "Spar",
-                "opening_hours": "Mo-Sa 07:00-22:00",
-                "shop": "supermarket"
-            }
-        },
-        {
-            "type": "node",
             "id": 10300874313,
             "lat": 35.9036742,
             "lon": 14.4875202,
@@ -826,6 +808,35 @@
                 "payment:lightning_contactless": "yes",
                 "payment:onchain": "no",
                 "takeaway": "yes"
+            }
+        },
+        {
+            "type": "way",
+            "id": 1443977838,
+            "timestamp": "2025-10-22T16:28:10Z",
+            "version": 1,
+            "changeset": 173636825,
+            "user": "samuelzammit",
+            "uid": 21459242,
+            "nodes": [
+                13250211244,
+                13250211245,
+                13250211246,
+                13250211247,
+                13250211248,
+                13250211249,
+                13250211250,
+                13250211244
+            ],
+            "tags": {
+                "addr:city": "Ta' Xbiex",
+                "addr:street": "Triq il-Prin\u010bipessa Margerita",
+                "brand": "Spar",
+                "brand:wikidata": "Q610492",
+                "building": "commercial",
+                "name": "Spar",
+                "opening_hours": "Mo-Sa 07:00-22:00",
+                "shop": "supermarket"
             }
         }
     ],
