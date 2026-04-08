@@ -16,6 +16,12 @@ definePageMeta({
 
 const corsi = [
   {
+    nome: "Bitcoin Report School",
+    url: "https://bitcoinreport.github.io/Bitcoin-Report-School/",
+    desc: "Capire bitcoin dal codice.",
+    img: "/img/features/reportschool.png"
+  },
+  {
     nome: "Wallet",
     url: "/wallet",
     desc: "Scegli e configura il tuo portafoglio Bitcoin in modo sicuro.",
