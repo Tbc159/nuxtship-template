@@ -2,9 +2,9 @@
   <!-- Bait invisibile per ad-block -->
   <div ref="adBait" class="ad-bait"></div>
 
-  <div class="ad-banner-wrapper mx-auto my-8 max-w-[800px]">
+  <div class="ad-banner-wrapper mx-auto my-1 max-w-[800px]">
     <template v-if="!adBlocked">
-      <div class="ad-label text-xs uppercase text-neutral mb-2">
+      <div class="ad-label text-xs uppercase text-neutral">
         Advertisement
       </div>
 

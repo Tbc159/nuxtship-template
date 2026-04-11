@@ -1,10 +1,10 @@
 <script setup>
 const eventoBitcoinColosseum = {
-  id: "ou1s7pce8rimbjc",
+  id: "hi3jujkkctwyexa",
   titolo: "Bitcoin Colosseum",
   city: "Roma",
-  data: "2025-09-20 15:00:00",
-  img: "2025_09_20_bitcoin_colosseum_bTxa0e5zuT.webp",
+  data: "2026-05-25 15:00:00",
+  imgurl: "https://images2.imgbox.com/84/33/snrMUuNe_o.png",
 };
 </script>
 <template>

@@ -18,7 +18,7 @@ const isLoading = computed(() => (process.server ? true : pending.value));
 
 <template>
   <EventiButton />
-  <!-- <EventiColosseum /> -->
+  <EventiColosseum />
   <div v-if="isLoading">
     <span class="loading loading-spinner loading-xs"></span>
   </div>
