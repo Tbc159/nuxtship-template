@@ -2992,11 +2992,11 @@
             "id": 4377139792,
             "lat": 43.7910973,
             "lon": 11.2289703,
-            "timestamp": "2025-11-18T10:40:17Z",
-            "version": 10,
-            "changeset": 174811468,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "timestamp": "2026-04-16T16:32:21Z",
+            "version": 11,
+            "changeset": 181422418,
+            "user": "DGump",
+            "uid": 23458615,
             "tags": {
                 "addr:city": "Firenze",
                 "addr:postcode": "50127",
@@ -3008,7 +3008,8 @@
                 "opening_hours": "Mo-Sa 09:30-20:00; Su 10:00-20:00",
                 "operator": "MediaMarket S.p.A.",
                 "phone": "+39 02 9475 1717",
-                "shop": "electronics"
+                "shop": "electronics",
+                "wheelchair": "yes"
             }
         },
         {
@@ -3356,16 +3357,17 @@
             "id": 5079801422,
             "lat": 43.7748484,
             "lon": 11.2516549,
-            "timestamp": "2024-08-11T21:14:38Z",
-            "version": 4,
-            "changeset": 155122226,
-            "user": "Martinligabue",
-            "uid": 8305310,
+            "timestamp": "2026-04-28T03:32:56Z",
+            "version": 5,
+            "changeset": 181918487,
+            "user": "MblWaK",
+            "uid": 846195,
             "tags": {
                 "addr:housenumber": "5 R",
                 "addr:street": "Via del Melarancio",
                 "brand": "Conad City",
                 "brand:wikidata": "Q57543102",
+                "check_date": "2026-04-28",
                 "name": "Conad City",
                 "shop": "supermarket"
             }
@@ -3478,32 +3480,6 @@
                 "brand:wikipedia": "en:Arnoldo Mondadori Editore",
                 "name": "Mondadori",
                 "shop": "books"
-            }
-        },
-        {
-            "type": "node",
-            "id": 5851831027,
-            "lat": 43.8208633,
-            "lon": 11.2213004,
-            "timestamp": "2024-11-27T19:47:21Z",
-            "version": 6,
-            "changeset": 159675187,
-            "user": "lnoferin",
-            "uid": 9915621,
-            "tags": {
-                "amenity": "fuel",
-                "brand": "Q8",
-                "brand:wikidata": "Q1634762",
-                "compressed_air": "no",
-                "fuel:GTL_diesel": "yes",
-                "fuel:diesel": "yes",
-                "fuel:octane_95": "yes",
-                "name": "Q8",
-                "opening_hours": "24/7",
-                "operator": "F.lli Iacoviello S.N.C. di Alessandro e Mario Iacoviello",
-                "ref:mise": "9269",
-                "self_service": "yes",
-                "source": "MISE - Ministero Sviluppo Economico"
             }
         },
         {
@@ -4399,17 +4375,19 @@
             "id": 9962135175,
             "lat": 43.7962436,
             "lon": 11.2407722,
-            "timestamp": "2025-06-07T15:52:03Z",
-            "version": 2,
-            "changeset": 167316290,
-            "user": "Martinligabue",
-            "uid": 8305310,
+            "timestamp": "2026-04-05T16:27:28Z",
+            "version": 3,
+            "changeset": 180906237,
+            "user": "EuroNutellaMan",
+            "uid": 21771941,
             "tags": {
                 "brand": "Intimissimi",
                 "brand:wikidata": "Q305404",
-                "check_date": "2022-08-18",
+                "check_date": "2026-04-05",
+                "check_date:opening_hours": "2026-04-05",
                 "clothes": "underwear",
                 "name": "Intimissimi",
+                "opening_hours": "Tu-Sa 09:45-19:30; Mo 10:00-19:30",
                 "shop": "clothes"
             }
         },
@@ -4482,11 +4460,11 @@
             "id": 10089797395,
             "lat": 43.9331986,
             "lon": 10.9155786,
-            "timestamp": "2023-04-11T12:48:02Z",
-            "version": 2,
-            "changeset": 134772742,
-            "user": "Pab09",
-            "uid": 178610,
+            "timestamp": "2026-04-19T18:04:18Z",
+            "version": 4,
+            "changeset": 181549890,
+            "user": "ideology508",
+            "uid": 24041138,
             "tags": {
                 "addr:city": "Pistoia",
                 "addr:housenumber": "31",
@@ -4495,7 +4473,9 @@
                 "brand": "La Feltrinelli",
                 "brand:wikidata": "Q96311190",
                 "name": "La Feltrinelli",
-                "shop": "books"
+                "opening_hours": "Mo-Fr 09:00-19:30; Sa 09:00-20:00; Su 10:00-13:00, 16:00-20:00",
+                "shop": "books",
+                "website": "https://www.lafeltrinelli.it/"
             }
         },
         {
@@ -4680,11 +4660,11 @@
             "id": 10721887873,
             "lat": 43.6298198,
             "lon": 11.4614133,
-            "timestamp": "2025-01-03T17:32:23Z",
-            "version": 4,
-            "changeset": 160959094,
-            "user": "mpbin",
-            "uid": 21850090,
+            "timestamp": "2026-03-21T17:34:58Z",
+            "version": 5,
+            "changeset": 180218734,
+            "user": "notmyproblem1_repair",
+            "uid": 23934603,
             "tags": {
                 "addr:city": "Figline e Incisa Valdarno",
                 "addr:housenumber": "40",
@@ -4698,7 +4678,7 @@
                 "operator": "MediaMarket S.p.A.",
                 "payment:cash": "yes",
                 "payment:credit_cards": "yes",
-                "phone": "0559506111",
+                "phone": "+39 055 950 6111",
                 "shop": "electronics",
                 "wheelchair": "yes"
             }
@@ -5019,9 +4999,9 @@
             "id": 11351979454,
             "lat": 43.663727,
             "lon": 10.6372234,
-            "timestamp": "2025-10-12T20:43:02Z",
-            "version": 3,
-            "changeset": 173199210,
+            "timestamp": "2026-05-01T14:53:44Z",
+            "version": 4,
+            "changeset": 182078448,
             "user": "ElectrosphereX",
             "uid": 21336399,
             "tags": {
@@ -5033,6 +5013,7 @@
                 "brand:wikidata": "Q28056374",
                 "clothes": "women;underwear;swimwear;men;children",
                 "name": "Tezenis",
+                "opening_hours": "Mo-Sa 09:30-20:00; Su 10:00-13:00,15:30-20:00",
                 "shop": "clothes"
             }
         },
@@ -5703,18 +5684,19 @@
             "id": 12649743748,
             "lat": 43.7905456,
             "lon": 11.2282208,
-            "timestamp": "2026-03-06T19:32:39Z",
-            "version": 4,
-            "changeset": 179461135,
-            "user": "EuroNutellaMan",
-            "uid": 21771941,
+            "timestamp": "2026-04-16T16:33:13Z",
+            "version": 5,
+            "changeset": 181422418,
+            "user": "DGump",
+            "uid": 23458615,
             "tags": {
                 "brand": "H&M",
                 "brand:wikidata": "Q188326",
                 "level": "0;1",
                 "name": "H&M",
                 "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-20:00",
-                "shop": "clothes"
+                "shop": "clothes",
+                "wheelchair": "yes"
             }
         },
         {
@@ -5722,11 +5704,11 @@
             "id": 12649743750,
             "lat": 43.7910729,
             "lon": 11.2290682,
-            "timestamp": "2026-03-06T19:23:48Z",
-            "version": 3,
-            "changeset": 179461135,
-            "user": "EuroNutellaMan",
-            "uid": 21771941,
+            "timestamp": "2026-04-16T16:32:46Z",
+            "version": 4,
+            "changeset": 181422418,
+            "user": "DGump",
+            "uid": 23458615,
             "tags": {
                 "brand": "Tezenis",
                 "brand:wikidata": "Q28056374",
@@ -5734,7 +5716,8 @@
                 "level": "0",
                 "name": "Tezenis",
                 "opening_hours": "Mo-Su 09:30-20:30",
-                "shop": "clothes"
+                "shop": "clothes",
+                "wheelchair": "yes"
             }
         },
         {
@@ -5742,18 +5725,19 @@
             "id": 12649758219,
             "lat": 43.791004,
             "lon": 11.2281307,
-            "timestamp": "2026-03-06T19:36:38Z",
-            "version": 4,
-            "changeset": 179461135,
-            "user": "EuroNutellaMan",
-            "uid": 21771941,
+            "timestamp": "2026-04-16T16:42:32Z",
+            "version": 5,
+            "changeset": 181422418,
+            "user": "DGump",
+            "uid": 23458615,
             "tags": {
                 "brand": "L'Erbolario",
                 "brand:wikidata": "Q116304294",
                 "level": "0",
                 "name": "L'Erbolario",
                 "opening_hours": "Mo-Su 10:00-20:00",
-                "shop": "herbalist"
+                "shop": "herbalist",
+                "wheelchair": "yes"
             }
         },
         {
@@ -5761,18 +5745,19 @@
             "id": 12649758460,
             "lat": 43.7909672,
             "lon": 11.2284359,
-            "timestamp": "2026-03-06T19:25:46Z",
-            "version": 5,
-            "changeset": 179461135,
-            "user": "EuroNutellaMan",
-            "uid": 21771941,
+            "timestamp": "2026-04-16T16:30:45Z",
+            "version": 6,
+            "changeset": 181422418,
+            "user": "DGump",
+            "uid": 23458615,
             "tags": {
                 "brand": "GrandVision",
                 "brand:wikidata": "Q105644278",
                 "level": "0",
                 "name": "Grandvision",
                 "opening_hours": "Mo-Sa 09:30-20:00; Su 10:00-20:00",
-                "shop": "optician"
+                "shop": "optician",
+                "wheelchair": "no"
             }
         },
         {
@@ -5805,11 +5790,11 @@
             "id": 12669043938,
             "lat": 43.8273157,
             "lon": 11.130186,
-            "timestamp": "2025-10-16T11:03:09Z",
-            "version": 2,
-            "changeset": 173359993,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "timestamp": "2026-03-21T17:34:58Z",
+            "version": 3,
+            "changeset": 180218734,
+            "user": "notmyproblem1_repair",
+            "uid": 23934603,
             "tags": {
                 "addr:city": "Campi Bisenzio",
                 "addr:housenumber": "119c",
@@ -5819,7 +5804,7 @@
                 "brand:wikidata": "Q680990",
                 "name": "Expert",
                 "operator": "F.lli Fabbri",
-                "phone": "055 8954159",
+                "phone": "+39 055 895 4159",
                 "shop": "electronics",
                 "website": "https://www.fabbrifratelli.com/"
             }
@@ -6156,11 +6141,11 @@
             "id": 12903145257,
             "lat": 43.7906852,
             "lon": 11.2280225,
-            "timestamp": "2026-03-06T19:28:45Z",
-            "version": 3,
-            "changeset": 179461135,
-            "user": "EuroNutellaMan",
-            "uid": 21771941,
+            "timestamp": "2026-04-16T16:29:48Z",
+            "version": 5,
+            "changeset": 181422418,
+            "user": "DGump",
+            "uid": 23458615,
             "tags": {
                 "addr:city": "Firenze",
                 "addr:housenumber": "10",
@@ -6168,9 +6153,11 @@
                 "addr:street": "Via di Novoli",
                 "brand": "Kasanova",
                 "brand:wikidata": "Q116214505",
+                "level": "0",
                 "name": "Kasanova",
                 "opening_hours": "Mo-Su 09:00-20:00",
-                "shop": "houseware"
+                "shop": "houseware",
+                "wheelchair": "yes"
             }
         },
         {
@@ -6389,35 +6376,6 @@
         },
         {
             "type": "node",
-            "id": 13304537402,
-            "lat": 43.6897629,
-            "lon": 10.9142083,
-            "timestamp": "2025-12-01T12:09:00Z",
-            "version": 3,
-            "changeset": 175354864,
-            "user": "Comino",
-            "uid": 6794624,
-            "tags": {
-                "addr:city": "Empoli",
-                "addr:housenumber": "48",
-                "addr:postcode": "50053",
-                "addr:street": "Via Monteboro",
-                "check_date": "2025-12-01",
-                "check_date:currency:XBT": "2025-12-01",
-                "contact:instagram": "danieldelcastagno",
-                "craft": "carpenter",
-                "currency:XBT": "yes",
-                "email": "delcastagno@zeroma.studio",
-                "name": "Zeroma",
-                "payment:lightning": "yes",
-                "payment:lightning_contactless": "no",
-                "payment:onchain": "yes",
-                "phone": "+39 351 329 6036",
-                "website": "https://zeroma.studio/"
-            }
-        },
-        {
-            "type": "node",
             "id": 13337174031,
             "lat": 43.7808103,
             "lon": 11.2409821,
@@ -6585,6 +6543,51 @@
                 "payment:notes": "yes",
                 "payment:visa": "yes",
                 "payment:visa_electron": "yes",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13694041789,
+            "lat": 43.9032137,
+            "lon": 11.0036922,
+            "timestamp": "2026-03-30T23:17:29Z",
+            "version": 4,
+            "changeset": 180650331,
+            "user": "Comino",
+            "uid": 6794624,
+            "tags": {
+                "addr:city": "Agliana",
+                "addr:housenumber": "8",
+                "addr:postcode": "51031",
+                "addr:street": "Piazza Quattro Novembre",
+                "check_date": "2026-03-30",
+                "check_date:currency:XBT": "2026-03-30",
+                "currency:XBT": "yes",
+                "email": "gabripmc@gmail.com",
+                "name": "Dott. Gabriele Pellegrini",
+                "office": "accountant",
+                "opening_hours": "Mo-Fr 09:00-20:00",
+                "payment:lightning": "yes",
+                "payment:lightning_contactless": "no",
+                "payment:onchain": "yes",
+                "phone": "+39 3317 872550"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13695577393,
+            "lat": 43.7579833,
+            "lon": 11.1824418,
+            "timestamp": "2026-03-31T15:14:43Z",
+            "version": 1,
+            "changeset": 180678407,
+            "user": "Martinligabue",
+            "uid": 8305310,
+            "tags": {
+                "brand": "Calzedonia",
+                "brand:wikidata": "Q1027874",
+                "name": "Calzedonia",
                 "shop": "clothes"
             }
         },
@@ -7968,11 +7971,11 @@
         {
             "type": "way",
             "id": 655196479,
-            "timestamp": "2024-10-28T14:20:20Z",
-            "version": 5,
-            "changeset": 158458614,
-            "user": "Martin_S_McFly",
-            "uid": 20646874,
+            "timestamp": "2026-03-29T13:01:10Z",
+            "version": 6,
+            "changeset": 180582213,
+            "user": "LaExdelSindacodiVinci",
+            "uid": 23214232,
             "nodes": [
                 6138995732,
                 6138995695,
@@ -7995,6 +7998,7 @@
                 "brand:wikidata": "Q639075",
                 "building": "retail",
                 "name": "Conad",
+                "opening_hours": "Mo-Su 08:30-20:00",
                 "phone": "+39 0571 497129",
                 "shop": "supermarket"
             }
@@ -8577,11 +8581,11 @@
         {
             "type": "way",
             "id": 1442875593,
-            "timestamp": "2026-02-19T11:17:12Z",
-            "version": 3,
-            "changeset": 178767592,
-            "user": "Emabarto",
-            "uid": 10142223,
+            "timestamp": "2026-05-08T13:47:47Z",
+            "version": 4,
+            "changeset": 182383554,
+            "user": "Martinligabue",
+            "uid": 8305310,
             "nodes": [
                 13239487214,
                 13239487304,
@@ -8593,6 +8597,7 @@
                 13239487208,
                 13239487209,
                 13239487306,
+                13808421675,
                 13239487214
             ],
             "tags": {

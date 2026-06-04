@@ -552,11 +552,11 @@
             "id": 2258253852,
             "lat": 44.7761079,
             "lon": 10.3439896,
-            "timestamp": "2025-09-28T06:18:10Z",
-            "version": 7,
-            "changeset": 172552467,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "timestamp": "2026-05-07T05:56:01Z",
+            "version": 8,
+            "changeset": 182322204,
+            "user": "b-jazz-bot",
+            "uid": 9451067,
             "tags": {
                 "addr:city": "Parma",
                 "addr:housenumber": "SNC",
@@ -568,7 +568,7 @@
                 "name": "Unieuro",
                 "operator": "Unieuro S.p.A.",
                 "shop": "electronics",
-                "website": "http://www.marcopoloshop.it/mps/negozi/Marco-Polo-Parma---Eurosia"
+                "website": "https://www.marcopoloshop.it/mps/negozi/Marco-Polo-Parma---Eurosia"
             }
         },
         {
@@ -1850,13 +1850,13 @@
         {
             "type": "node",
             "id": 4756788519,
-            "lat": 44.8662713,
-            "lon": 10.0616697,
-            "timestamp": "2026-01-18T22:46:26Z",
-            "version": 2,
-            "changeset": 177394840,
-            "user": "Chiarant",
-            "uid": 18452174,
+            "lat": 44.866316,
+            "lon": 10.0615269,
+            "timestamp": "2026-04-30T05:22:24Z",
+            "version": 3,
+            "changeset": 182016264,
+            "user": "wegavision",
+            "uid": 564585,
             "tags": {
                 "addr:city": "Fidenza",
                 "addr:housenumber": "9",
@@ -1874,13 +1874,13 @@
         {
             "type": "node",
             "id": 4756788528,
-            "lat": 44.8661445,
-            "lon": 10.0618031,
-            "timestamp": "2026-01-18T22:46:26Z",
-            "version": 3,
-            "changeset": 177394840,
-            "user": "Chiarant",
-            "uid": 18452174,
+            "lat": 44.8661521,
+            "lon": 10.0617213,
+            "timestamp": "2026-04-30T05:40:37Z",
+            "version": 4,
+            "changeset": 182016636,
+            "user": "wegavision",
+            "uid": 564585,
             "tags": {
                 "addr:city": "Fidenza",
                 "addr:housenumber": "12",
@@ -3415,6 +3415,28 @@
                 "payment:onchain": "yes",
                 "phone": "+39 0522 340 118",
                 "website": "https://cantinarota.com"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10735200703,
+            "lat": 44.5848442,
+            "lon": 10.7326421,
+            "timestamp": "2026-03-28T08:21:30Z",
+            "version": 2,
+            "changeset": 180532213,
+            "user": "Aguzzoli Loris",
+            "uid": 5306518,
+            "tags": {
+                "addr:city": "Casalgrande",
+                "addr:housenumber": "27",
+                "addr:postcode": "42013",
+                "addr:street": "Via Statale",
+                "brand": "Expert",
+                "brand:wikidata": "Q680990",
+                "name": "Expert",
+                "phone": "+39 0522 846266",
+                "shop": "electronics"
             }
         },
         {
@@ -6601,11 +6623,11 @@
         {
             "type": "way",
             "id": 571755965,
-            "timestamp": "2025-10-23T08:45:51Z",
-            "version": 5,
-            "changeset": 173662126,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "timestamp": "2026-04-20T13:21:58Z",
+            "version": 6,
+            "changeset": 181582820,
+            "user": "Susymala",
+            "uid": 14777719,
             "nodes": [
                 5494281126,
                 5494281124,
@@ -6619,7 +6641,6 @@
                 "addr:street": "Viale Catullo",
                 "brand": "Kasanova",
                 "brand:wikidata": "Q116214505",
-                "building": "yes",
                 "indoor": "room",
                 "level": "0",
                 "name": "Kasanova",

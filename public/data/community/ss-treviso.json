@@ -7,7 +7,7 @@
     "idlocalita": "treviso",
     "telegram_weburl": "https://web.telegram.org/a/#-1001574094874",
     "telegram_app": "https://t.me/SatoshiSpritzTreviso",
-    "telegram_members": 114.0,
+    "telegram_members": 116.0,
     "network": "satoshispritz",
     "poi": [
         {
@@ -253,34 +253,6 @@
                 "name": "Tamoil",
                 "operator": "Bhandb Snc di Bortolotto Marco e Bilato Enrico",
                 "ref:mise": "30269"
-            }
-        },
-        {
-            "type": "node",
-            "id": 227698113,
-            "lat": 45.3779967,
-            "lon": 11.8403529,
-            "timestamp": "2025-09-30T20:07:26Z",
-            "version": 8,
-            "changeset": 172677566,
-            "user": "btcitnet",
-            "uid": 22525435,
-            "tags": {
-                "addr:city": "Padova",
-                "addr:housenumber": "50",
-                "addr:postcode": "35142",
-                "addr:street": "Corso Boston",
-                "amenity": "fuel",
-                "brand": "Q8",
-                "brand:wikidata": "Q1634762",
-                "fuel:GTL_diesel": "yes",
-                "fuel:diesel": "yes",
-                "fuel:octane_100": "yes",
-                "fuel:octane_95": "yes",
-                "name": "Q8",
-                "operator": "Servizi & Gestioni Italia S.R.L.",
-                "ref:mise": "11757",
-                "source": "MISE - Ministero Sviluppo Economico"
             }
         },
         {
@@ -723,33 +695,6 @@
                 "name": "Q8",
                 "operator": "Servizi & Gestioni Italia S.R.L.",
                 "ref:mise": "9622"
-            }
-        },
-        {
-            "type": "node",
-            "id": 228167609,
-            "lat": 45.3803421,
-            "lon": 11.8556093,
-            "timestamp": "2025-10-05T08:57:27Z",
-            "version": 10,
-            "changeset": 172858876,
-            "user": "btcitnet",
-            "uid": 22525435,
-            "tags": {
-                "addr:city": "Albignasego",
-                "addr:postcode": "35020",
-                "addr:street": "Via Battaglia",
-                "amenity": "fuel",
-                "brand": "Q8",
-                "brand:wikidata": "Q1634762",
-                "brand:wikipedia": "en:Kuwait Petroleum Corporation",
-                "fuel:diesel": "yes",
-                "fuel:octane_95": "yes",
-                "name": "Q8",
-                "operator": "Servizi & Gestioni Italia S.R.L.",
-                "ref:mise": "11754",
-                "self_service": "yes",
-                "source": "MISE - Ministero Sviluppo Economico"
             }
         },
         {
@@ -1245,27 +1190,6 @@
         },
         {
             "type": "node",
-            "id": 1450057394,
-            "lat": 45.3953995,
-            "lon": 11.8625684,
-            "timestamp": "2025-10-06T10:55:02Z",
-            "version": 4,
-            "changeset": 172907461,
-            "user": "btcitnet",
-            "uid": 22525435,
-            "tags": {
-                "addr:city": "Padova",
-                "addr:housenumber": "2",
-                "addr:postcode": "35142",
-                "addr:street": "Via Savona",
-                "brand": "Spar",
-                "brand:wikidata": "Q610492",
-                "name": "Despar",
-                "shop": "supermarket"
-            }
-        },
-        {
-            "type": "node",
             "id": 1452336414,
             "lat": 45.4080475,
             "lon": 11.8760532,
@@ -1342,11 +1266,11 @@
             "id": 1459185533,
             "lat": 45.4083431,
             "lon": 11.8774281,
-            "timestamp": "2025-10-29T11:03:02Z",
-            "version": 4,
-            "changeset": 173923422,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "timestamp": "2026-04-13T08:43:38Z",
+            "version": 5,
+            "changeset": 181263763,
+            "user": "PaololXD",
+            "uid": 23977085,
             "tags": {
                 "addr:city": "Padova",
                 "addr:country": "IT",
@@ -1355,7 +1279,7 @@
                 "addr:street": "Via Cavour",
                 "brand": "Tezenis",
                 "brand:wikidata": "Q28056374",
-                "clothes": "underwear;swimwear",
+                "clothes": "women;underwear;swimwear;men;children",
                 "name": "Tezenis",
                 "shop": "clothes"
             }
@@ -1378,28 +1302,6 @@
                 "name": "Mondadori",
                 "operator": "Mondadori",
                 "shop": "books"
-            }
-        },
-        {
-            "type": "node",
-            "id": 1461548962,
-            "lat": 45.4078732,
-            "lon": 11.8749587,
-            "timestamp": "2025-07-28T06:36:50Z",
-            "version": 6,
-            "changeset": 169593680,
-            "user": "rm_",
-            "uid": 398010,
-            "tags": {
-                "addr:city": "Padova",
-                "addr:country": "IT",
-                "addr:housenumber": "22/24",
-                "addr:place": "Piazza dei Frutti",
-                "brand": "Spar",
-                "brand:wikidata": "Q610492",
-                "name": "Despar",
-                "opening_hours": "Mo-Sa 07:30-20:30; Su 08:30-20:30",
-                "shop": "supermarket"
             }
         },
         {
@@ -1495,30 +1397,6 @@
                 "brand:wikidata": "Q1414836",
                 "name": "Upim",
                 "shop": "department_store"
-            }
-        },
-        {
-            "type": "node",
-            "id": 1516407006,
-            "lat": 45.4207559,
-            "lon": 11.8810679,
-            "timestamp": "2025-10-25T21:00:57Z",
-            "version": 5,
-            "changeset": 173772466,
-            "user": "btcitnet",
-            "uid": 22525435,
-            "tags": {
-                "addr:city": "Padova",
-                "addr:postcode": "35100",
-                "addr:street": "Via Tiziano Aspetti",
-                "addr:suburb": "Arcella",
-                "brand": "Spar",
-                "brand:wikidata": "Q610492",
-                "brand:wikipedia": "en:SPAR (retailer)",
-                "name": "Despar",
-                "opening_hours": "Mo-Sa 08:00-19:45; Su 09:00-13:00",
-                "shop": "supermarket",
-                "survey:date": "2023-03-24"
             }
         },
         {
@@ -1790,29 +1668,6 @@
         },
         {
             "type": "node",
-            "id": 1620504569,
-            "lat": 45.4119403,
-            "lon": 11.8764001,
-            "timestamp": "2025-10-26T13:39:49Z",
-            "version": 5,
-            "changeset": 173795101,
-            "user": "btcitnet",
-            "uid": 22525435,
-            "tags": {
-                "addr:city": "Padova",
-                "addr:postcode": "35139",
-                "addr:street": "Piazzetta Conciapelli",
-                "addr:suburb": "Arcella",
-                "brand": "Spar",
-                "brand:wikidata": "Q610492",
-                "name": "Despar",
-                "opening_hours": "Mo-Sa 08:30-20:00; Su 09:00-13:00",
-                "shop": "supermarket",
-                "wheelchair": "yes"
-            }
-        },
-        {
-            "type": "node",
             "id": 1704960068,
             "lat": 45.6734431,
             "lon": 11.9267297,
@@ -1997,37 +1852,14 @@
         },
         {
             "type": "node",
-            "id": 1912740038,
-            "lat": 45.4023646,
-            "lon": 11.9008069,
-            "timestamp": "2025-10-26T13:54:25Z",
-            "version": 4,
-            "changeset": 173795660,
-            "user": "btcitnet",
-            "uid": 22525435,
-            "tags": {
-                "addr:city": "Padova",
-                "addr:housenumber": "136",
-                "addr:postcode": "35128",
-                "addr:street": "Via Gattamelata",
-                "addr:suburb": "Forcellini",
-                "brand": "Spar",
-                "brand:wikidata": "Q610492",
-                "name": "Despar",
-                "phone": "+39 049 807 8333",
-                "shop": "supermarket"
-            }
-        },
-        {
-            "type": "node",
             "id": 1917449873,
             "lat": 45.4371379,
             "lon": 12.3281171,
-            "timestamp": "2025-09-30T13:40:18Z",
-            "version": 9,
-            "changeset": 172661381,
-            "user": "weltpizzatag",
-            "uid": 23169510,
+            "timestamp": "2026-04-17T15:38:12Z",
+            "version": 10,
+            "changeset": 181465045,
+            "user": "Jacob Rosendal Kristensen",
+            "uid": 730016,
             "tags": {
                 "addr:city": "Venezia",
                 "addr:housenumber": "2605a/b",
@@ -2035,7 +1867,7 @@
                 "addr:postcode": "30125",
                 "brand": "Conad City",
                 "brand:wikidata": "Q57543102",
-                "name": "Tuday Conad",
+                "name": "Conad City",
                 "opening_hours": "Mo-Su 08:30-21:00",
                 "operator": "Conad",
                 "shop": "supermarket"
@@ -2634,18 +2466,18 @@
         {
             "type": "node",
             "id": 3010651735,
-            "lat": 45.4385355,
-            "lon": 12.3214867,
-            "timestamp": "2025-05-01T19:47:03Z",
-            "version": 18,
-            "changeset": 165691989,
-            "user": "Comino",
-            "uid": 6794624,
+            "lat": 45.4385331,
+            "lon": 12.3214773,
+            "timestamp": "2026-05-07T14:00:35Z",
+            "version": 19,
+            "changeset": 182340734,
+            "user": "szydzio",
+            "uid": 2313574,
             "tags": {
                 "addr:city": "Venezia",
                 "addr:housenumber": "220",
+                "addr:place": "Santa Croce",
                 "addr:postcode": "30135",
-                "addr:street": "Fondamenta dei Tolentini",
                 "amenity": "fast_food",
                 "check_date": "2025-05-01",
                 "check_date:currency:XBT": "2025-05-01",
@@ -2809,18 +2641,18 @@
         {
             "type": "node",
             "id": 3396925558,
-            "lat": 45.4386847,
-            "lon": 12.3213929,
-            "timestamp": "2024-10-17T16:16:44Z",
-            "version": 7,
-            "changeset": 158016334,
-            "user": "Rockedf",
-            "uid": 7522075,
+            "lat": 45.4386823,
+            "lon": 12.3213859,
+            "timestamp": "2026-05-07T14:00:35Z",
+            "version": 8,
+            "changeset": 182340734,
+            "user": "szydzio",
+            "uid": 2313574,
             "tags": {
                 "addr:city": "Venezia",
                 "addr:housenumber": "225",
+                "addr:place": "Santa Croce",
                 "addr:postcode": "30135",
-                "addr:street": "Fondamenta dei Tolentini",
                 "amenity": "restaurant",
                 "check_date:currency:XBT": "2024-10-17",
                 "currency:XBT": "yes",
@@ -2973,6 +2805,29 @@
                 "opening_hours": "Mo-Fr 09:00-12:30,15:00-19:30; Sa 09:00-13:00,14:30-19:30; Su 09:00-12:30,14:30-19:30",
                 "operator": "Unieuro S.p.A.",
                 "shop": "electronics"
+            }
+        },
+        {
+            "type": "node",
+            "id": 3781295613,
+            "lat": 45.3903232,
+            "lon": 11.8055556,
+            "timestamp": "2026-04-07T14:06:53Z",
+            "version": 5,
+            "changeset": 181001280,
+            "user": "PaololXD",
+            "uid": 23977085,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "fuel:diesel": "yes",
+                "fuel:octane_100": "yes",
+                "fuel:octane_95": "yes",
+                "name": "Tamoil",
+                "operator": "Valeservice di Valeria Bezze & C. S.A.S.",
+                "ref:mise": "19859",
+                "source": "MISE - Ministero Sviluppo Economico"
             }
         },
         {
@@ -3278,30 +3133,6 @@
         },
         {
             "type": "node",
-            "id": 4280509301,
-            "lat": 45.4352448,
-            "lon": 12.332921,
-            "timestamp": "2023-02-27T20:50:30Z",
-            "version": 5,
-            "changeset": 133103718,
-            "user": "LateNightTone",
-            "uid": 4003485,
-            "tags": {
-                "addr:city": "Venezia",
-                "addr:country": "IT",
-                "addr:housenumber": "3988",
-                "addr:place": "San Marco",
-                "addr:postcode": "30124",
-                "brand": "Spar",
-                "brand:wikidata": "Q610492",
-                "name": "Despar",
-                "opening_hours": "Mo-Sa 08:30-20:00; Su 09:00-13:00",
-                "shop": "supermarket",
-                "wikimedia_commons": "File:Magasin Spar \u00e0 Venise depuis le Ponte del Teatro (d\u00e9cembre 2022).JPG"
-            }
-        },
-        {
-            "type": "node",
             "id": 4317222376,
             "lat": 45.8796415,
             "lon": 12.3162104,
@@ -3320,54 +3151,6 @@
                 "brand:wikipedia": "en:H&M",
                 "name": "H&M",
                 "shop": "clothes",
-                "wheelchair": "yes"
-            }
-        },
-        {
-            "type": "node",
-            "id": 4347719804,
-            "lat": 45.4355376,
-            "lon": 12.3334367,
-            "timestamp": "2023-01-28T23:14:04Z",
-            "version": 6,
-            "changeset": 131825317,
-            "user": "thepriben",
-            "uid": 878284,
-            "tags": {
-                "addr:city": "Venezia",
-                "addr:country": "IT",
-                "addr:housenumber": "3988",
-                "addr:place": "San Marco",
-                "addr:postcode": "30124",
-                "brand": "Spar",
-                "brand:wikidata": "Q610492",
-                "name": "Despar",
-                "opening_hours": "Mo-Sa 08:30-20:00; Su 09:00-13:00",
-                "shop": "supermarket",
-                "wikimedia_commons": "File:Magasin Spar \u00e0 Venise depuis le Ponte del Teatro (d\u00e9cembre 2022).JPG"
-            }
-        },
-        {
-            "type": "node",
-            "id": 4367502697,
-            "lat": 45.3957393,
-            "lon": 11.8853831,
-            "timestamp": "2025-10-26T15:01:25Z",
-            "version": 7,
-            "changeset": 173798732,
-            "user": "btcitnet",
-            "uid": 22525435,
-            "tags": {
-                "addr:city": "Padova",
-                "addr:housenumber": "10a",
-                "addr:postcode": "35126",
-                "addr:street": "Via Pier Paolo Vergerio",
-                "brand": "Spar",
-                "brand:wikidata": "Q610492",
-                "name": "Despar",
-                "opening_hours": "Mo-Sa 08:30-20:00; Su 09:00-13:00",
-                "phone": "+39 049 757078",
-                "shop": "supermarket",
                 "wheelchair": "yes"
             }
         },
@@ -3730,30 +3513,6 @@
         },
         {
             "type": "node",
-            "id": 4775700359,
-            "lat": 45.4369803,
-            "lon": 12.3350074,
-            "timestamp": "2024-10-04T16:28:53Z",
-            "version": 8,
-            "changeset": 157469387,
-            "user": "G\u00fcnter-CW",
-            "uid": 88183,
-            "tags": {
-                "addr:city": "Venezia",
-                "addr:country": "IT",
-                "addr:housenumber": "4790-4791-4792",
-                "addr:place": "San Marco",
-                "addr:postcode": "30124",
-                "addr:street": "Riva del Carbon",
-                "brand": "Spar",
-                "brand:wikidata": "Q610492",
-                "name": "Despar",
-                "opening_hours": "Mo-Su 08:00-21:00",
-                "shop": "supermarket"
-            }
-        },
-        {
-            "type": "node",
             "id": 4786940826,
             "lat": 45.6055358,
             "lon": 11.7261074,
@@ -3993,11 +3752,11 @@
             "id": 5248441042,
             "lat": 45.6545355,
             "lon": 11.9084338,
-            "timestamp": "2025-05-17T19:24:22Z",
-            "version": 9,
-            "changeset": 166406051,
-            "user": "Comino",
-            "uid": 6794624,
+            "timestamp": "2026-03-24T23:37:54Z",
+            "version": 10,
+            "changeset": 180380855,
+            "user": "Kartibu",
+            "uid": 2350365,
             "tags": {
                 "addr:city": "Castelfranco Veneto",
                 "addr:housenumber": "17",
@@ -4016,7 +3775,7 @@
                 "payment:lightning": "yes",
                 "payment:lightning_contactless": "no",
                 "payment:onchain": "no",
-                "phone": "+39 423 482188"
+                "phone": "+39 0423 482188"
             }
         },
         {
@@ -4532,32 +4291,6 @@
         },
         {
             "type": "node",
-            "id": 6447388568,
-            "lat": 45.4360991,
-            "lon": 12.3391722,
-            "timestamp": "2025-10-26T15:34:52Z",
-            "version": 5,
-            "changeset": 173800263,
-            "user": "btcitnet",
-            "uid": 22525435,
-            "tags": {
-                "addr:city": "Venezia",
-                "addr:housenumber": "514",
-                "addr:postcode": "30124",
-                "addr:street": "Campo della Guerra",
-                "addr:suburb": "Venezia-Murano-Burano",
-                "brand": "Spar",
-                "brand:wikidata": "Q610492",
-                "check_date": "2025-06-07",
-                "level": "0",
-                "name": "Despar",
-                "opening_hours": "Mo-Su,PH 09:00-19:00",
-                "shop": "supermarket",
-                "website": "https://www.despar.it/it/punto-vendita-despar/815/venezia/"
-            }
-        },
-        {
-            "type": "node",
             "id": 6477573230,
             "lat": 46.0489313,
             "lon": 12.0524223,
@@ -4619,11 +4352,11 @@
             "id": 6528179520,
             "lat": 45.9068785,
             "lon": 12.3391302,
-            "timestamp": "2025-09-26T09:13:16Z",
-            "version": 5,
-            "changeset": 172474985,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "timestamp": "2026-05-04T22:50:14Z",
+            "version": 8,
+            "changeset": 182226188,
+            "user": "Kartibu",
+            "uid": 2350365,
             "tags": {
                 "addr:city": "San Martino",
                 "addr:housenumber": "86",
@@ -4632,8 +4365,11 @@
                 "brand": "MediaWorld",
                 "brand:wikidata": "Q2381223",
                 "name": "MediaWorld",
+                "opening_hours": "Mo-Fr 09:30-20:00; Sa 09:30-20:00; Su 10:00-20:00",
                 "operator": "MediaMarket S.p.A.",
-                "shop": "electronics"
+                "phone": "+39 02 9475 1717",
+                "shop": "electronics",
+                "website": "https://www.mediaworld.it/"
             }
         },
         {
@@ -4729,73 +4465,6 @@
                 "indoor": "yes",
                 "name": "Decathlon",
                 "operator": "Decathlon"
-            }
-        },
-        {
-            "type": "node",
-            "id": 6964771026,
-            "lat": 45.3969996,
-            "lon": 11.8765108,
-            "timestamp": "2025-10-26T15:41:37Z",
-            "version": 5,
-            "changeset": 173800534,
-            "user": "btcitnet",
-            "uid": 22525435,
-            "tags": {
-                "addr:city": "Padova",
-                "addr:housenumber": "69-70",
-                "addr:postcode": "35123",
-                "addr:street": "Prato della Valle",
-                "addr:suburb": "Madonna Pellegrina",
-                "branch": "di Prato della Valle",
-                "brand": "Spar",
-                "brand:wikidata": "Q610492",
-                "name": "Despar",
-                "opening_hours": "Mo-Su 09:00-20:00",
-                "phone": "+39 049 650716",
-                "shop": "supermarket"
-            }
-        },
-        {
-            "type": "node",
-            "id": 7079801464,
-            "lat": 46.0166108,
-            "lon": 11.9053987,
-            "timestamp": "2022-06-02T19:41:06Z",
-            "version": 3,
-            "changeset": 121866274,
-            "user": "Flight777",
-            "uid": 9925732,
-            "tags": {
-                "brand": "United Colors of Benetton",
-                "brand:wikidata": "Q817139",
-                "email": "benfel@melostore.it",
-                "mobile": "+393386290661",
-                "name": "United Colors of Benetton",
-                "opening_hours": "Mo-Sa 15:30 - 19:00;Tu-Sa 09:30 - 12:30",
-                "phone": "+39043980187",
-                "shop": "clothes",
-                "short_name": "Benetton",
-                "website": "https://melostore.it/benfel"
-            }
-        },
-        {
-            "type": "node",
-            "id": 7079817894,
-            "lat": 46.0176565,
-            "lon": 11.9031526,
-            "timestamp": "2022-06-02T19:40:10Z",
-            "version": 2,
-            "changeset": 121866248,
-            "user": "Flight777",
-            "uid": 9925732,
-            "tags": {
-                "branch": "intimo",
-                "brand": "United Colors of Benetton",
-                "brand:wikidata": "Q817139",
-                "name": "United Colors of Benetton",
-                "shop": "clothes",
-                "short_name": "Benetton"
             }
         },
         {
@@ -5683,6 +5352,24 @@
         },
         {
             "type": "node",
+            "id": 9508135810,
+            "lat": 45.5173257,
+            "lon": 12.2340112,
+            "timestamp": "2026-04-19T13:17:15Z",
+            "version": 3,
+            "changeset": 181537905,
+            "user": "Flight777",
+            "uid": 9925732,
+            "tags": {
+                "brand": "MediaWorld",
+                "brand:wikidata": "Q2381223",
+                "name": "MediaWorld",
+                "shop": "electronics",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
             "id": 9508135813,
             "lat": 45.5173452,
             "lon": 12.2325213,
@@ -5975,11 +5662,11 @@
             "id": 9751500098,
             "lat": 45.7912534,
             "lon": 12.8140619,
-            "timestamp": "2025-10-16T11:14:20Z",
-            "version": 8,
-            "changeset": 173360495,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "timestamp": "2026-03-24T23:37:35Z",
+            "version": 9,
+            "changeset": 180380847,
+            "user": "Kartibu",
+            "uid": 2350365,
             "tags": {
                 "addr:city": "Portogruaro",
                 "addr:housenumber": "29",
@@ -5990,7 +5677,7 @@
                 "check_date": "2025-10-10",
                 "name": "Foot Locker",
                 "opening_hours": "Mo-Fr 09:30-20:00; Sa 09:00-20:00,10:00-20:00",
-                "phone": "+39 4211832389",
+                "phone": "+39 0421 183 2389",
                 "shop": "shoes",
                 "website": "https://stores.footlocker.it/it/it-34/portogruaro/via-pratiguori-29-481_31_06382.html",
                 "wheelchair": "yes"
@@ -7115,13 +6802,13 @@
         {
             "type": "node",
             "id": 10957635665,
-            "lat": 45.411457,
-            "lon": 11.9066558,
-            "timestamp": "2024-09-16T14:39:09Z",
-            "version": 2,
-            "changeset": 156691708,
-            "user": "Flight777",
-            "uid": 9925732,
+            "lat": 45.4111228,
+            "lon": 11.9062991,
+            "timestamp": "2026-04-19T22:15:07Z",
+            "version": 3,
+            "changeset": 181557062,
+            "user": "Friendly_Ghost",
+            "uid": 10875409,
             "tags": {
                 "brand": "Tezenis",
                 "brand:wikidata": "Q28056374",
@@ -7213,11 +6900,11 @@
             "id": 11222299089,
             "lat": 45.5797127,
             "lon": 12.6793623,
-            "timestamp": "2025-08-01T20:24:39Z",
-            "version": 3,
-            "changeset": 169836788,
-            "user": "mtmail",
-            "uid": 8339,
+            "timestamp": "2026-03-24T23:35:11Z",
+            "version": 4,
+            "changeset": 180380799,
+            "user": "Kartibu",
+            "uid": 2350365,
             "tags": {
                 "addr:city": "Eraclea",
                 "addr:housenumber": "2",
@@ -7229,7 +6916,7 @@
                 "brand:wikipedia": "it:Conad",
                 "name": "Conad City",
                 "opening_hours": "Mo-Sa 08:30-19:30; Su 08:30-12:30",
-                "phone": "+39 20231595",
+                "phone": "+39 02 023 1595",
                 "shop": "supermarket",
                 "website": "https://www.conad.it/ricerca-negozi/conad-city-via-carlo-goldoni-2-30020--eraclea--001939",
                 "wheelchair": "yes"
@@ -7857,6 +7544,24 @@
         },
         {
             "type": "node",
+            "id": 12328529057,
+            "lat": 45.4094141,
+            "lon": 11.8767565,
+            "timestamp": "2026-04-13T08:43:38Z",
+            "version": 2,
+            "changeset": 181263763,
+            "user": "PaololXD",
+            "uid": 23977085,
+            "tags": {
+                "brand": "United Colors of Benetton",
+                "brand:wikidata": "Q817139",
+                "name": "United Colors of Benetton",
+                "shop": "clothes",
+                "short_name": "Benetton"
+            }
+        },
+        {
+            "type": "node",
             "id": 12369645644,
             "lat": 45.4344394,
             "lon": 12.336415,
@@ -7977,9 +7682,9 @@
             "id": 12613670374,
             "lat": 45.666236,
             "lon": 12.2393552,
-            "timestamp": "2025-11-26T17:50:03Z",
-            "version": 2,
-            "changeset": 175165812,
+            "timestamp": "2026-04-18T08:40:52Z",
+            "version": 4,
+            "changeset": 181488428,
             "user": "Comino",
             "uid": 6794624,
             "tags": {
@@ -7988,7 +7693,7 @@
                 "addr:postcode": "31100",
                 "addr:street": "Via San Liberale",
                 "check_date": "2025-11-26",
-                "check_date:currency:XBT": "2025-11-26",
+                "check_date:currency:XBT": "2026-04-18",
                 "contact:facebook": "bloomitaliaofficial",
                 "contact:instagram": "bloom_feedyourmind",
                 "contact:linkedin": "https://www.linkedin.com/company/bloom-italia/",
@@ -7999,7 +7704,7 @@
                 "payment:lightning": "yes",
                 "payment:lightning_contactless": "yes",
                 "payment:onchain": "yes",
-                "phone": "+39 422 277 130",
+                "phone": "+39 0422 277 130",
                 "website": "https://www.bloom-italia.com/"
             }
         },
@@ -8257,11 +7962,11 @@
             "id": 13032039583,
             "lat": 45.4351515,
             "lon": 12.3415457,
-            "timestamp": "2025-07-28T17:59:41Z",
-            "version": 1,
-            "changeset": 169628794,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "timestamp": "2026-03-24T23:30:30Z",
+            "version": 2,
+            "changeset": 180380675,
+            "user": "Kartibu",
+            "uid": 2350365,
             "tags": {
                 "addr:city": "Venezia",
                 "addr:housenumber": "4358",
@@ -8272,7 +7977,7 @@
                 "email": "info@hotelriovenezia.com",
                 "name": "Hotel Rio",
                 "payment:lightning": "yes",
-                "phone": "+39 041.5208222",
+                "phone": "+39 041 520 8222",
                 "rooms": "17",
                 "tourism": "hotel",
                 "website": "https://www.hotelriovenezia.com/"
@@ -8328,11 +8033,11 @@
             "id": 13058050867,
             "lat": 45.4351531,
             "lon": 12.3394206,
-            "timestamp": "2025-08-08T13:51:53Z",
-            "version": 1,
-            "changeset": 170157028,
-            "user": "Comino",
-            "uid": 6794624,
+            "timestamp": "2026-03-24T23:37:24Z",
+            "version": 2,
+            "changeset": 180380843,
+            "user": "Kartibu",
+            "uid": 2350365,
             "tags": {
                 "addr:city": "Venezia",
                 "addr:country": "IT",
@@ -8350,7 +8055,7 @@
                 "payment:lightning": "yes",
                 "payment:lightning_contactless": "no",
                 "payment:onchain": "no",
-                "phone": "+39 41 52 06 524",
+                "phone": "+39 041 520 6524",
                 "website": "https://www.marcianavenice.com/"
             }
         },
@@ -9018,6 +8723,63 @@
             }
         },
         {
+            "type": "node",
+            "id": 13743844705,
+            "lat": 45.4109009,
+            "lon": 11.9066771,
+            "timestamp": "2026-04-19T22:15:07Z",
+            "version": 1,
+            "changeset": 181557062,
+            "user": "Friendly_Ghost",
+            "uid": 10875409,
+            "tags": {
+                "brand": "OVS",
+                "brand:wikidata": "Q2042514",
+                "level": "1",
+                "name": "OVS",
+                "shop": "clothes",
+                "url": "https://www.centrogiotto.com/negozi/ovs/",
+                "website": "https://www.ovs.it/it/it/stores/italia/veneto/padova/ovs-padova-giotto"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13815589327,
+            "lat": 45.7530002,
+            "lon": 11.8959381,
+            "timestamp": "2026-05-10T18:28:51Z",
+            "version": 1,
+            "changeset": 182479624,
+            "user": "Anonix35",
+            "uid": 2362150,
+            "tags": {
+                "addr:city": "Altivole",
+                "addr:postcode": "31030",
+                "addr:street": "Superstrada a pedaggio Pedemontana Veneta",
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "name": "Tamoil Altivole Nord"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13815594250,
+            "lat": 45.7520963,
+            "lon": 11.8967027,
+            "timestamp": "2026-05-10T18:28:51Z",
+            "version": 1,
+            "changeset": 182479624,
+            "user": "Anonix35",
+            "uid": 2362150,
+            "tags": {
+                "amenity": "fuel",
+                "brand": "Tamoil",
+                "brand:wikidata": "Q706793",
+                "name": "Tamoil Altivole Sud"
+            }
+        },
+        {
             "type": "way",
             "id": 24317204,
             "timestamp": "2026-02-28T11:43:09Z",
@@ -9092,48 +8854,6 @@
                 "it:fvg:ctrn:code": "4AED",
                 "it:fvg:ctrn:revision": "1AM",
                 "name": "Conad",
-                "shop": "supermarket"
-            }
-        },
-        {
-            "type": "way",
-            "id": 36340068,
-            "timestamp": "2025-10-27T18:43:11Z",
-            "version": 4,
-            "changeset": 173852636,
-            "user": "btcitnet",
-            "uid": 22525435,
-            "nodes": [
-                423862171,
-                423862172,
-                423862173,
-                423862174,
-                423862175,
-                423862176,
-                423862177,
-                423862178,
-                423862179,
-                423862180,
-                423862181,
-                423862182,
-                423862183,
-                423862184,
-                423862185,
-                423862186,
-                423862171
-            ],
-            "tags": {
-                "addr:city": "Azzano Decimo",
-                "addr:housenumber": "35",
-                "addr:postcode": "33082",
-                "addr:street": "Viale Venticinque Aprile",
-                "brand": "Spar",
-                "brand:wikidata": "Q610492",
-                "building": "yes",
-                "height": "7 m",
-                "it:fvg:ctrn:code": "4AED",
-                "it:fvg:ctrn:revision": "1A0",
-                "name": "Despar",
                 "shop": "supermarket"
             }
         },
@@ -9273,32 +8993,6 @@
         },
         {
             "type": "way",
-            "id": 133016506,
-            "timestamp": "2023-06-08T06:00:56Z",
-            "version": 2,
-            "changeset": 137080073,
-            "user": "canfe",
-            "uid": 6645382,
-            "nodes": [
-                1450092784,
-                1451912208,
-                1451912161,
-                1451912116,
-                1451912071,
-                1451911951,
-                1450092679,
-                1450092784
-            ],
-            "tags": {
-                "brand": "Spar",
-                "brand:wikidata": "Q610492",
-                "building": "shop",
-                "name": "Despar",
-                "shop": "supermarket"
-            }
-        },
-        {
-            "type": "way",
             "id": 134468677,
             "timestamp": "2025-12-07T12:55:00Z",
             "version": 3,
@@ -9396,11 +9090,11 @@
         {
             "type": "way",
             "id": 140848530,
-            "timestamp": "2025-04-27T06:32:50Z",
-            "version": 5,
-            "changeset": 165491305,
-            "user": "McCio",
-            "uid": 16146608,
+            "timestamp": "2026-04-22T23:01:27Z",
+            "version": 6,
+            "changeset": 181694147,
+            "user": "Grazing6603",
+            "uid": 16429077,
             "nodes": [
                 1542183575,
                 1542183668,
@@ -9411,14 +9105,12 @@
                 1542183575
             ],
             "tags": {
-                "addr:street": "Via Brunacci",
                 "brand": "Decathlon",
                 "brand:wikidata": "Q509349",
                 "brand:wikipedia": "en:Decathlon (retailer)",
                 "building": "retail",
-                "check_date": "2025-04-27",
-                "disused:shop": "sports",
-                "name": "Decathlon"
+                "check_date": "2026-04-23",
+                "disused:shop": "sports"
             }
         },
         {
@@ -9824,6 +9516,33 @@
         },
         {
             "type": "way",
+            "id": 255141996,
+            "timestamp": "2026-04-02T16:21:03Z",
+            "version": 5,
+            "changeset": 180776533,
+            "user": "PaololXD",
+            "uid": 23977085,
+            "nodes": [
+                2608775299,
+                2608774229,
+                2608774373,
+                2608774384,
+                2608774410,
+                2608775389,
+                2608775307,
+                2608775559,
+                2608775299
+            ],
+            "tags": {
+                "brand": "Conad",
+                "brand:wikidata": "Q639075",
+                "name": "Conad",
+                "opening_hours": "Mo-Sa 08:30-20:00; Su 08:30-13:00",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "way",
             "id": 262134580,
             "timestamp": "2023-07-21T00:36:09Z",
             "version": 7,
@@ -10130,53 +9849,6 @@
         },
         {
             "type": "way",
-            "id": 1258219511,
-            "timestamp": "2025-11-19T19:43:41Z",
-            "version": 2,
-            "changeset": 174876162,
-            "user": "btcitnet",
-            "uid": 22525435,
-            "nodes": [
-                11697286231,
-                11697286232,
-                11697286233,
-                11697286234,
-                11697286231
-            ],
-            "tags": {
-                "addr:city": "Altivole",
-                "addr:postcode": "31030",
-                "addr:street": "Superstrada a pedaggio Pedemontana Veneta",
-                "amenity": "fuel",
-                "brand": "Tamoil",
-                "brand:wikidata": "Q706793",
-                "name": "Tamoil"
-            }
-        },
-        {
-            "type": "way",
-            "id": 1258219512,
-            "timestamp": "2024-03-06T12:24:44Z",
-            "version": 1,
-            "changeset": 148292293,
-            "user": "AlbyKitGally96",
-            "uid": 12850933,
-            "nodes": [
-                11697286235,
-                11697286236,
-                11697286237,
-                11697286238,
-                11697286235
-            ],
-            "tags": {
-                "amenity": "fuel",
-                "brand": "Tamoil",
-                "brand:wikidata": "Q706793",
-                "name": "Tamoil"
-            }
-        },
-        {
-            "type": "way",
             "id": 1352082864,
             "timestamp": "2025-07-15T08:56:08Z",
             "version": 5,
@@ -10210,11 +9882,11 @@
         {
             "type": "way",
             "id": 1352925735,
-            "timestamp": "2025-01-20T14:28:41Z",
-            "version": 1,
-            "changeset": 161565634,
-            "user": "AndreaDp271",
-            "uid": 11282982,
+            "timestamp": "2026-05-04T22:52:13Z",
+            "version": 2,
+            "changeset": 182226222,
+            "user": "Kartibu",
+            "uid": 2350365,
             "nodes": [
                 12518352936,
                 12518352938,
@@ -10231,7 +9903,7 @@
                 "brand": "PittaRosso",
                 "brand:wikidata": "Q105643314",
                 "name": "PittaRosso",
-                "phone": "0423 722200",
+                "phone": "+39 0423 722200",
                 "shop": "shoes",
                 "website": "https://negozi.pittarosso.com/it/italia/treviso/castelfranco-veneto"
             }
@@ -10239,11 +9911,11 @@
         {
             "type": "way",
             "id": 1352925739,
-            "timestamp": "2025-01-20T14:28:41Z",
-            "version": 1,
-            "changeset": 161565634,
-            "user": "AndreaDp271",
-            "uid": 11282982,
+            "timestamp": "2026-05-04T22:52:13Z",
+            "version": 2,
+            "changeset": 182226222,
+            "user": "Kartibu",
+            "uid": 2350365,
             "nodes": [
                 12518352957,
                 12518352954,
@@ -10264,7 +9936,7 @@
                 "brand": "PittaRosso",
                 "brand:wikidata": "Q105643314",
                 "name": "PittaRosso",
-                "phone": "0423 722200",
+                "phone": "+39 0423 722200",
                 "shop": "shoes",
                 "website": "https://negozi.pittarosso.com/it/italia/treviso/castelfranco-veneto"
             }

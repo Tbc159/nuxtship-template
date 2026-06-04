@@ -7,7 +7,7 @@
     "idlocalita": "catanzaro",
     "telegram_weburl": "https://web.telegram.org/a/#-1002045815905",
     "telegram_app": "https://t.me/BitcoinCalabria_BitCal",
-    "telegram_members": 75.0,
+    "telegram_members": 79.0,
     "network": "bitcoinbeer",
     "poi": [
         {
@@ -1614,6 +1614,26 @@
                 "brand": "Conad",
                 "brand:wikidata": "Q639075",
                 "name": "Conad",
+                "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13770227541,
+            "lat": 39.1717394,
+            "lon": 16.1458981,
+            "timestamp": "2026-04-28T10:55:05Z",
+            "version": 1,
+            "changeset": 181934111,
+            "user": "Emabarto",
+            "uid": 10142223,
+            "tags": {
+                "addr:city": "Lago",
+                "addr:postcode": "87035",
+                "addr:street": "Via Padosa",
+                "brand": "Conad City",
+                "brand:wikidata": "Q57543102",
+                "name": "Conad City",
                 "shop": "supermarket"
             }
         },
