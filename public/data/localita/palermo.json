@@ -237,11 +237,11 @@
             "id": 2092052004,
             "lat": 37.9921565,
             "lon": 13.884777,
-            "timestamp": "2025-10-05T14:35:40Z",
-            "version": 7,
-            "changeset": 172870628,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "timestamp": "2026-03-28T19:15:24Z",
+            "version": 8,
+            "changeset": 180555703,
+            "user": "Kk4269302",
+            "uid": 23005696,
             "tags": {
                 "addr:city": "Campofelice di Roccella",
                 "addr:postcode": "90010",
@@ -249,11 +249,14 @@
                 "amenity": "fuel",
                 "brand": "Q8",
                 "brand:wikidata": "Q1634762",
+                "check_date": "2026-03-26",
                 "fuel:diesel": "yes",
                 "fuel:octane_95": "yes",
                 "name": "Q8",
+                "opening_hours": "24/7",
                 "operator": "Virzi' Antonino",
-                "ref:mise": "30285"
+                "ref:mise": "30285",
+                "self_service": "yes"
             }
         },
         {
@@ -483,29 +486,6 @@
                 "name": "PittaRosso",
                 "phone": "+39 091 900453",
                 "shop": "shoes",
-                "toilets:wheelchair": "yes",
-                "wheelchair": "yes"
-            }
-        },
-        {
-            "type": "node",
-            "id": 4385133489,
-            "lat": 38.0904517,
-            "lon": 13.5127997,
-            "timestamp": "2025-10-26T15:02:25Z",
-            "version": 7,
-            "changeset": 173798775,
-            "user": "btcitnet",
-            "uid": 22525435,
-            "tags": {
-                "addr:city": "Bagheria",
-                "addr:postcode": "90011",
-                "addr:street": "Via Catullo",
-                "brand": "Spar",
-                "brand:wikidata": "Q610492",
-                "level": "0",
-                "name": "Eurospar",
-                "shop": "supermarket",
                 "toilets:wheelchair": "yes",
                 "wheelchair": "yes"
             }
@@ -3248,6 +3228,24 @@
                 "payment:visa": "yes",
                 "phone": "+39091403368",
                 "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13727272183,
+            "lat": 38.0866701,
+            "lon": 13.5055594,
+            "timestamp": "2026-04-13T11:21:28Z",
+            "version": 1,
+            "changeset": 181270899,
+            "user": "Carruzzu99",
+            "uid": 23428853,
+            "tags": {
+                "brand": "Mondadori",
+                "brand:wikidata": "Q85355",
+                "name": "Mondadori",
+                "shop": "books",
+                "start_date": "2026-04-23"
             }
         },
         {

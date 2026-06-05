@@ -7,19 +7,19 @@
     "idlocalita": "puglia",
     "telegram_weburl": "https://web.telegram.org/a/#-1001876214322",
     "telegram_app": "https://t.me/SatoshiSpritzPuglia",
-    "telegram_members": 38.0,
+    "telegram_members": 32.0,
     "network": "satoshispritz",
     "poi": [
         {
             "type": "node",
             "id": 1360130234,
-            "lat": 41.1927528,
-            "lon": 16.481541,
-            "timestamp": "2025-10-06T19:45:57Z",
-            "version": 4,
-            "changeset": 172931599,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "lat": 41.1926963,
+            "lon": 16.4818843,
+            "timestamp": "2026-03-19T15:03:46Z",
+            "version": 5,
+            "changeset": 180115591,
+            "user": "GBAB",
+            "uid": 3335899,
             "tags": {
                 "addr:city": "Bisceglie",
                 "addr:postcode": "76011",
@@ -27,7 +27,7 @@
                 "amenity": "fuel",
                 "brand": "Tamoil",
                 "brand:wikidata": "Q706793",
-                "name": "Dolmen di Bisceglie ovst",
+                "name": "Dolmen di Bisceglie ovest",
                 "operator": "Sarni S.R.L.",
                 "ref:mise": "38500"
             }
@@ -153,31 +153,6 @@
                 "stroller": "yes",
                 "website": "https://it.benetton.com/",
                 "wheelchair": "yes"
-            }
-        },
-        {
-            "type": "node",
-            "id": 2740095500,
-            "lat": 41.1180877,
-            "lon": 16.5501038,
-            "timestamp": "2025-12-30T18:00:02Z",
-            "version": 5,
-            "changeset": 176640934,
-            "user": "Clown Pennywise",
-            "uid": 23064242,
-            "tags": {
-                "addr:city": "Terlizzi",
-                "addr:postcode": "70038",
-                "addr:street": "Strada Provinciale Terlizzi - Mariotto",
-                "amenity": "fuel",
-                "brand": "Tamoil",
-                "brand:wikidata": "Q706793",
-                "fuel:diesel": "yes",
-                "fuel:lpg": "yes",
-                "fuel:octane_95": "yes",
-                "name": "Ulivi di San Giuliano",
-                "operator": "Multienergia e Servizi Societ\u00e0 a Responsabilit\u00e0 Limitata",
-                "ref:mise": "13963"
             }
         },
         {
@@ -2604,11 +2579,11 @@
         {
             "type": "way",
             "id": 410903080,
-            "timestamp": "2021-08-18T15:50:45Z",
-            "version": 2,
-            "changeset": 109883802,
-            "user": "damianeue",
-            "uid": 10124288,
+            "timestamp": "2026-04-18T20:17:56Z",
+            "version": 3,
+            "changeset": 181515088,
+            "user": "MaDe-241",
+            "uid": 21846408,
             "nodes": [
                 4126517710,
                 4126517763,
@@ -2624,11 +2599,12 @@
             ],
             "tags": {
                 "addr:street": "Strada Statale 99 di Matera",
-                "amenity": "fuel",
                 "brand": "Q8",
                 "brand:wikidata": "Q1634762",
                 "brand:wikipedia": "en:Kuwait Petroleum Corporation",
                 "building": "roof",
+                "check_date": "2026-04-18",
+                "disused:amenity": "fuel",
                 "name": "Q8",
                 "operator": "Q8"
             }
@@ -2834,11 +2810,11 @@
         {
             "type": "way",
             "id": 1148342819,
-            "timestamp": "2024-09-11T22:18:47Z",
-            "version": 3,
-            "changeset": 156504974,
-            "user": "Alexis04132",
-            "uid": 20509407,
+            "timestamp": "2026-05-06T03:50:00Z",
+            "version": 4,
+            "changeset": 182275740,
+            "user": "b-jazz-bot",
+            "uid": 9451067,
             "nodes": [
                 4177350358,
                 12170847259,
@@ -2862,7 +2838,7 @@
                 "operator": "Ikea Italia Retail s.r.l. Bari",
                 "ref:vatin": "IT02992760963",
                 "shop": "furniture",
-                "website": "http://www.ikea.it"
+                "website": "https://www.ikea.it/"
             }
         },
         {

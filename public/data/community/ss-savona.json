@@ -534,30 +534,6 @@
         },
         {
             "type": "node",
-            "id": 256570002,
-            "lat": 44.3984756,
-            "lon": 8.946733,
-            "timestamp": "2025-10-05T11:08:57Z",
-            "version": 8,
-            "changeset": 172862058,
-            "user": "btcitnet",
-            "uid": 22525435,
-            "tags": {
-                "addr:city": "Genova",
-                "addr:housenumber": "83",
-                "addr:postcode": "16129",
-                "addr:street": "Via Antonio Cecchi",
-                "brand": "Carrefour",
-                "brand:wikidata": "Q217599",
-                "brand:wikipedia": "fr:Carrefour (enseigne)",
-                "name": "Carrefour",
-                "opening_hours": "Mo-Su 0:00-24:00",
-                "shop": "supermarket",
-                "wheelchair": "yes"
-            }
-        },
-        {
-            "type": "node",
             "id": 271361571,
             "lat": 44.4004487,
             "lon": 8.9582911,
@@ -587,11 +563,11 @@
             "id": 279256611,
             "lat": 44.1477298,
             "lon": 8.2790125,
-            "timestamp": "2025-09-30T06:26:15Z",
-            "version": 26,
-            "changeset": 172644177,
-            "user": "mauropili",
-            "uid": 1496865,
+            "timestamp": "2026-04-20T09:22:52Z",
+            "version": 27,
+            "changeset": 181572484,
+            "user": "barf\u00fc\u00dfiger Algensp\u00e4her",
+            "uid": 10354283,
             "tags": {
                 "addr:city": "Pietra Ligure",
                 "addr:housenumber": "4",
@@ -599,6 +575,7 @@
                 "addr:street": "Piazza Monsignor Nicol\u00f2 Palmarini",
                 "brand": "Carrefour Express",
                 "brand:wikidata": "Q217599",
+                "diet:gluten_free": "yes",
                 "name": "Carrefour Express",
                 "name:ru": "\u043e\u043a \u0418\u043c\u043f\u0435\u0440\u0438\u0438",
                 "opening_hours": "Mo-Sa 08:00-21:00; Su 08:30-20:00",
@@ -4257,6 +4234,23 @@
                 "level": "0",
                 "name": "Mondadori",
                 "opening_hours": "Mo-Sa 09:00-12:30,15:30-19:30; Su 10:00-12:30,15:30-19:00",
+                "shop": "books"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13290905659,
+            "lat": 44.6755121,
+            "lon": 8.4695434,
+            "timestamp": "2026-03-21T17:34:00Z",
+            "version": 2,
+            "changeset": 180218685,
+            "user": "Paolitosss",
+            "uid": 20900475,
+            "tags": {
+                "brand": "Mondadori",
+                "brand:wikidata": "Q85355",
+                "name": "Mondadori",
                 "shop": "books"
             }
         },

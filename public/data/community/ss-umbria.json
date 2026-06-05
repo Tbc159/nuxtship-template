@@ -136,23 +136,45 @@
         },
         {
             "type": "node",
-            "id": 1296858198,
-            "lat": 43.3368823,
-            "lon": 12.9033748,
-            "timestamp": "2025-10-05T15:50:22Z",
-            "version": 3,
-            "changeset": 172874398,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "id": 1296858239,
+            "lat": 43.3365574,
+            "lon": 12.9034964,
+            "timestamp": "2026-05-10T09:58:50Z",
+            "version": 5,
+            "changeset": 182458320,
+            "user": "evilworld",
+            "uid": 21490170,
             "tags": {
                 "addr:city": "Fabriano",
+                "addr:housenumber": "17",
                 "addr:postcode": "60044",
+                "addr:street": "Corso della Repubblica",
                 "brand": "Intimissimi",
                 "brand:wikidata": "Q305404",
-                "brand:wikipedia": "en:Intimissimi",
+                "check_date": "2026-04-18",
                 "clothes": "underwear",
                 "name": "Intimissimi",
+                "old_name": "Terranova;Fabiola",
                 "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1408598764,
+            "lat": 43.1107249,
+            "lon": 12.388594,
+            "timestamp": "2026-03-28T14:06:10Z",
+            "version": 3,
+            "changeset": 180543539,
+            "user": "Tari Faries",
+            "uid": 8341954,
+            "tags": {
+                "addr:housenumber": "50",
+                "brand": "United Colors of Benetton",
+                "brand:wikidata": "Q817139",
+                "name": "United Colors of Benetton",
+                "shop": "clothes",
+                "short_name": "Benetton"
             }
         },
         {
@@ -174,6 +196,27 @@
                 "name": "United Colors of Benetton",
                 "shop": "clothes",
                 "short_name": "Benetton"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1467040872,
+            "lat": 43.3350504,
+            "lon": 12.9060512,
+            "timestamp": "2026-04-18T19:10:56Z",
+            "version": 8,
+            "changeset": 181512952,
+            "user": "totera",
+            "uid": 123412,
+            "tags": {
+                "addr:housenumber": "70",
+                "addr:street": "Corso della Repubblica",
+                "brand": "Mondadori",
+                "brand:wikidata": "Q85355",
+                "check_date": "2026-04-18",
+                "name": "Mondadori Point",
+                "old_name": "Edicol\u00e8",
+                "shop": "books"
             }
         },
         {
@@ -359,13 +402,13 @@
         {
             "type": "node",
             "id": 2151778910,
-            "lat": 42.7468822,
-            "lon": 12.7441598,
-            "timestamp": "2025-10-22T10:19:30Z",
-            "version": 8,
-            "changeset": 173620014,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "lat": 42.7469344,
+            "lon": 12.7442121,
+            "timestamp": "2026-04-26T18:14:18Z",
+            "version": 9,
+            "changeset": 181857880,
+            "user": "LorenzoPesci",
+            "uid": 5328797,
             "tags": {
                 "addr:city": "Spoleto",
                 "addr:postcode": "06049",
@@ -1277,9 +1320,9 @@
             "id": 5851837707,
             "lat": 43.5592854,
             "lon": 12.4135562,
-            "timestamp": "2026-02-24T22:28:47Z",
-            "version": 5,
-            "changeset": 179010802,
+            "timestamp": "2026-04-17T12:47:53Z",
+            "version": 6,
+            "changeset": 181456655,
             "user": "totera",
             "uid": 123412,
             "tags": {
@@ -1290,6 +1333,7 @@
                 "amenity": "fuel",
                 "brand": "Tamoil",
                 "brand:wikidata": "Q706793",
+                "fuel:biodiesel": "yes",
                 "fuel:diesel": "yes",
                 "fuel:lpg": "yes",
                 "fuel:octane_95": "yes",
@@ -1982,34 +2026,6 @@
         },
         {
             "type": "node",
-            "id": 10788307405,
-            "lat": 43.0999656,
-            "lon": 12.3098025,
-            "timestamp": "2025-11-09T17:02:41Z",
-            "version": 5,
-            "changeset": 174427006,
-            "user": "confusedbuffalo",
-            "uid": 242345,
-            "tags": {
-                "addr:city": "Corciano",
-                "addr:housenumber": "8",
-                "addr:postcode": "06073",
-                "addr:street": "Via Aldo Capitini",
-                "brand": "Doppelg\u00e4nger",
-                "brand:wikidata": "Q117451227",
-                "check_date:currency:XBT": "2023-05-13",
-                "clothes": "men",
-                "currency:XBT": "yes",
-                "name": "Doppelg\u00e4nger",
-                "payment:lightning": "no",
-                "payment:lightning_contactless": "no",
-                "payment:onchain": "yes",
-                "phone": "+39 075 517 3528",
-                "shop": "clothes"
-            }
-        },
-        {
-            "type": "node",
             "id": 10802125610,
             "lat": 43.3329777,
             "lon": 12.7384967,
@@ -2516,6 +2532,50 @@
                 "operator": "Camp Srl",
                 "phone": "+39 0742 350987",
                 "shop": "supermarket"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13740866409,
+            "lat": 43.3364447,
+            "lon": 12.9040004,
+            "timestamp": "2026-05-10T09:58:50Z",
+            "version": 2,
+            "changeset": 182458320,
+            "user": "evilworld",
+            "uid": 21490170,
+            "tags": {
+                "addr:city": "Fabriano",
+                "addr:housenumber": "24a",
+                "addr:postcode": "60044",
+                "addr:street": "Corso della Repubblica",
+                "brand": "Calzedonia",
+                "brand:wikidata": "Q1027874",
+                "check_date": "2026-04-18",
+                "name": "Calzedonia",
+                "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13740866414,
+            "lat": 43.3365359,
+            "lon": 12.903535,
+            "timestamp": "2026-05-10T09:58:50Z",
+            "version": 2,
+            "changeset": 182458320,
+            "user": "evilworld",
+            "uid": 21490170,
+            "tags": {
+                "addr:city": "Fabriano",
+                "addr:housenumber": "17a",
+                "addr:postcode": "60044",
+                "addr:street": "Corso della Repubblica",
+                "brand": "Bottega Verde",
+                "brand:wikidata": "Q894870",
+                "check_date": "2026-04-18",
+                "name": "Bottega Verde",
+                "shop": "cosmetics"
             }
         },
         {

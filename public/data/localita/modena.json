@@ -1470,11 +1470,11 @@
             "id": 3368816392,
             "lat": 45.1490062,
             "lon": 10.7981844,
-            "timestamp": "2025-10-23T15:20:05Z",
-            "version": 3,
-            "changeset": 173680020,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "timestamp": "2026-03-25T18:50:41Z",
+            "version": 4,
+            "changeset": 180422929,
+            "user": "JIDB",
+            "uid": 85116,
             "tags": {
                 "addr:city": "Mantova",
                 "addr:postcode": "46100",
@@ -1482,6 +1482,7 @@
                 "brand": "Conad",
                 "brand:wikidata": "Q639075",
                 "name": "Conad",
+                "opening_hours": "Mo-Sa 07:30-20:00; Su 09:00-13:00",
                 "shop": "supermarket"
             }
         },
@@ -4177,11 +4178,11 @@
             "id": 10766227160,
             "lat": 45.1577683,
             "lon": 10.7918184,
-            "timestamp": "2025-11-16T12:51:31Z",
-            "version": 6,
-            "changeset": 174725449,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "timestamp": "2026-03-24T16:22:19Z",
+            "version": 7,
+            "changeset": 180362819,
+            "user": "Kartibu",
+            "uid": 2350365,
             "tags": {
                 "addr:city": "Mantova",
                 "addr:housenumber": "45",
@@ -4193,7 +4194,7 @@
                 "clothes": "men",
                 "currency:XBT": "yes",
                 "name": "Doppelg\u00e4nger",
-                "phone": "0376360615",
+                "phone": "+39 0376 360615",
                 "shop": "clothes",
                 "website": "https://www.doppelganger.it/it/"
             }
@@ -4203,18 +4204,18 @@
             "id": 11125250762,
             "lat": 45.1834148,
             "lon": 11.2548832,
-            "timestamp": "2025-01-01T21:14:48Z",
-            "version": 2,
-            "changeset": 160885668,
-            "user": "mpbin",
-            "uid": 21850090,
+            "timestamp": "2026-04-01T16:45:00Z",
+            "version": 5,
+            "changeset": 180731667,
+            "user": "EditorFromItaly",
+            "uid": 23962762,
             "tags": {
                 "addr:city": "San Pietro",
                 "addr:postcode": "37045",
                 "addr:street": "Via Luciano Lama",
                 "brand": "Unieuro",
                 "brand:wikidata": "Q4004687",
-                "name": "Unieuro",
+                "check_date": "2026-03-21",
                 "operator": "Unieuro S.p.A.",
                 "shop": "electronics"
             }
@@ -5399,29 +5400,30 @@
         {
             "type": "node",
             "id": 12559993787,
-            "lat": 45.471595,
-            "lon": 10.8495451,
-            "timestamp": "2025-02-06T22:32:32Z",
-            "version": 2,
-            "changeset": 162225445,
+            "lat": 45.4446953,
+            "lon": 10.9534397,
+            "timestamp": "2026-04-10T12:45:25Z",
+            "version": 5,
+            "changeset": 181145869,
             "user": "Ing Giorgio Righetti",
             "uid": 22158321,
             "tags": {
-                "addr:city": "Bussolengo",
-                "addr:housenumber": "93",
-                "addr:postcode": "37012",
-                "addr:street": "Piazzale Vittorio Veneto",
-                "check_date": "2025-02-05",
+                "addr:city": "Verona",
+                "addr:housenumber": "41",
+                "addr:postcode": "37138",
+                "addr:street": "Via Gracco Spaziani",
+                "check_date": "2026-04-10",
                 "currency:XBT": "yes",
-                "email": "info@intecoservizi.it",
-                "name": "Inteco Servizi",
-                "office": "architect",
+                "description": "Ingegnere strutturista libero professionista.",
+                "email": "inge.righetti@gmail.com",
+                "name": "Ing. Giorgio Righetti",
+                "office": "engineer",
                 "opening_hours": "Mo-Fr 09:00-19:00",
                 "payment:lightning": "yes",
                 "payment:lightning_contactless": "no",
                 "payment:onchain": "yes",
                 "phone": "+393518755527",
-                "website": "https://www.intecoservizi.it/"
+                "website": "https://ingerighetti.wixsite.com/ing-giorgio-righetti"
             }
         },
         {
@@ -5693,6 +5695,42 @@
                 "brand:wikidata": "Q2470307",
                 "name": "Guess",
                 "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13662951047,
+            "lat": 45.1905515,
+            "lon": 11.2961817,
+            "timestamp": "2026-03-19T19:45:35Z",
+            "version": 2,
+            "changeset": 180126641,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "tags": {
+                "brand": "Upim",
+                "brand:wikidata": "Q1414836",
+                "name": "Upim",
+                "shop": "department_store",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13662954827,
+            "lat": 45.1906297,
+            "lon": 11.298269,
+            "timestamp": "2026-03-19T19:48:34Z",
+            "version": 2,
+            "changeset": 180126641,
+            "user": "\u0110uro Ji\u0159\u00ed",
+            "uid": 14617702,
+            "tags": {
+                "brand": "PittaRosso",
+                "brand:wikidata": "Q105643314",
+                "name": "PittaRosso",
+                "shop": "shoes",
+                "wheelchair": "yes"
             }
         },
         {
@@ -6601,9 +6639,9 @@
         {
             "type": "way",
             "id": 208203077,
-            "timestamp": "2024-05-24T12:25:48Z",
-            "version": 6,
-            "changeset": 151767040,
+            "timestamp": "2026-03-19T13:49:34Z",
+            "version": 8,
+            "changeset": 180108368,
             "user": "\u0110uro Ji\u0159\u00ed",
             "uid": 14617702,
             "nodes": [
@@ -6619,6 +6657,7 @@
                 "brand:wikidata": "Q706793",
                 "brand:wikipedia": "en:Tamoil",
                 "building": "roof",
+                "changing_table": "no",
                 "compressed_air": "yes",
                 "layer": "1",
                 "name": "Tamoil",
@@ -6626,6 +6665,7 @@
                 "operator": "Areagrill S.A.S. di Scala Piergiorgio & C.",
                 "ref:mise": "38291",
                 "self_service": "yes",
+                "valves": "schrader",
                 "wheelchair": "yes"
             }
         },
@@ -7623,11 +7663,11 @@
         {
             "type": "way",
             "id": 571755965,
-            "timestamp": "2025-10-23T08:45:51Z",
-            "version": 5,
-            "changeset": 173662126,
-            "user": "btcitnet",
-            "uid": 22525435,
+            "timestamp": "2026-04-20T13:21:58Z",
+            "version": 6,
+            "changeset": 181582820,
+            "user": "Susymala",
+            "uid": 14777719,
             "nodes": [
                 5494281126,
                 5494281124,
@@ -7641,7 +7681,6 @@
                 "addr:street": "Viale Catullo",
                 "brand": "Kasanova",
                 "brand:wikidata": "Q116214505",
-                "building": "yes",
                 "indoor": "room",
                 "level": "0",
                 "name": "Kasanova",
@@ -7955,11 +7994,11 @@
         {
             "type": "way",
             "id": 680664107,
-            "timestamp": "2025-05-22T15:43:32Z",
-            "version": 6,
-            "changeset": 166619302,
-            "user": "olgia",
-            "uid": 216179,
+            "timestamp": "2026-05-05T20:44:19Z",
+            "version": 7,
+            "changeset": 182268053,
+            "user": "Molko",
+            "uid": 251688,
             "nodes": [
                 6373528051,
                 11151318076,
@@ -7967,6 +8006,7 @@
                 6373528053,
                 11151318080,
                 11151318081,
+                13799676220,
                 11151318079,
                 6373528056,
                 6373528057,

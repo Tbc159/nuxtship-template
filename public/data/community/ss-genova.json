@@ -702,30 +702,6 @@
         },
         {
             "type": "node",
-            "id": 256570002,
-            "lat": 44.3984756,
-            "lon": 8.946733,
-            "timestamp": "2025-10-05T11:08:57Z",
-            "version": 8,
-            "changeset": 172862058,
-            "user": "btcitnet",
-            "uid": 22525435,
-            "tags": {
-                "addr:city": "Genova",
-                "addr:housenumber": "83",
-                "addr:postcode": "16129",
-                "addr:street": "Via Antonio Cecchi",
-                "brand": "Carrefour",
-                "brand:wikidata": "Q217599",
-                "brand:wikipedia": "fr:Carrefour (enseigne)",
-                "name": "Carrefour",
-                "opening_hours": "Mo-Su 0:00-24:00",
-                "shop": "supermarket",
-                "wheelchair": "yes"
-            }
-        },
-        {
-            "type": "node",
             "id": 271361571,
             "lat": 44.4004487,
             "lon": 8.9582911,
@@ -2712,11 +2688,11 @@
             "id": 5314922391,
             "lat": 44.3150974,
             "lon": 9.3278726,
-            "timestamp": "2025-01-07T20:05:01Z",
-            "version": 5,
-            "changeset": 161109385,
-            "user": "LucianoC63",
-            "uid": 20673751,
+            "timestamp": "2026-05-06T13:47:28Z",
+            "version": 6,
+            "changeset": 182296237,
+            "user": "b-jazz-bot",
+            "uid": 9451067,
             "tags": {
                 "addr:city": "Chiavari",
                 "addr:housenumber": "52",
@@ -2734,7 +2710,7 @@
                 "phone": "+39 0185 300786",
                 "shop": "frame",
                 "shop_1": "art",
-                "website": "www.rissocornici.it"
+                "website": "https://www.rissocornici.it/"
             }
         },
         {
@@ -4418,6 +4394,23 @@
                 "check_date": "2025-08-02",
                 "name": "Calzedonia",
                 "shop": "clothes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 13290905659,
+            "lat": 44.6755121,
+            "lon": 8.4695434,
+            "timestamp": "2026-03-21T17:34:00Z",
+            "version": 2,
+            "changeset": 180218685,
+            "user": "Paolitosss",
+            "uid": 20900475,
+            "tags": {
+                "brand": "Mondadori",
+                "brand:wikidata": "Q85355",
+                "name": "Mondadori",
+                "shop": "books"
             }
         },
         {

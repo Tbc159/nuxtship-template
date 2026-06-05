@@ -14,8 +14,8 @@ definePageMeta({
 });
 
 const psp = [
-  { nome: "Coinbar Pay", url: "/xt/psp/coinbar", img: "/img/psp/coinbar.svg" },
   { nome: "B4B - Villaggio Bitcoin", url: "/xt/psp/villaggiobitcoin", img: "/img/psp/villaggiobitcoin.svg", },
+  { nome: "Coinbar Pay", url: "/xt/psp/coinbar", img: "/img/psp/coinbar.svg" },
   { nome: "Bitcoin People", url: "/xt/psp/bitcoinpeople", img: "/img/psp/bitcoinpeople.svg", },
   { nome: "inbitcoin", url: "/xt/psp/inbitcoin", img: "/img/psp/inbitcoin.svg", },
   { nome: "🇨🇭 Swiss Bitcoin Pay", url: "/xt/psp/swissbitcoinpay", img: "/img/psp/swissbitcoinpay.svg", },
