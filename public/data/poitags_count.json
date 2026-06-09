@@ -3,14 +3,14 @@
         {
             "Unnamed: 0": 0,
             "amenity": "fuel",
-            "count": 1864,
-            "max_timestamp": "2026-05-30T09:54:30Z"
+            "count": 1862,
+            "max_timestamp": "2026-06-09T10:46:29Z"
         },
         {
             "Unnamed: 0": 1,
             "amenity": "restaurant",
-            "count": 106,
-            "max_timestamp": "2026-05-30T18:25:16Z"
+            "count": 107,
+            "max_timestamp": "2026-06-08T16:30:46Z"
         },
         {
             "Unnamed: 0": 2,
@@ -22,13 +22,13 @@
             "Unnamed: 0": 3,
             "amenity": "bar",
             "count": 44,
-            "max_timestamp": "2026-05-30T15:10:37Z"
+            "max_timestamp": "2026-06-09T14:32:15Z"
         },
         {
             "Unnamed: 0": 4,
             "amenity": "fast_food",
             "count": 38,
-            "max_timestamp": "2026-05-25T22:47:28Z"
+            "max_timestamp": "2026-06-08T17:11:27Z"
         },
         {
             "Unnamed: 0": 5,
@@ -52,7 +52,7 @@
             "Unnamed: 0": 8,
             "amenity": "dentist",
             "count": 14,
-            "max_timestamp": "2026-05-13T00:55:32Z"
+            "max_timestamp": "2026-06-08T21:58:56Z"
         },
         {
             "Unnamed: 0": 9,
@@ -263,26 +263,26 @@
         {
             "Unnamed: 0": 0,
             "shop": "supermarket",
-            "count": 2417,
-            "max_timestamp": "2026-06-04T18:17:55Z"
+            "count": 2419,
+            "max_timestamp": "2026-06-09T19:20:37Z"
         },
         {
             "Unnamed: 0": 1,
             "shop": "clothes",
-            "count": 1870,
-            "max_timestamp": "2026-06-03T22:32:37Z"
+            "count": 1876,
+            "max_timestamp": "2026-06-09T19:10:29Z"
         },
         {
             "Unnamed: 0": 2,
             "shop": "electronics",
-            "count": 657,
-            "max_timestamp": "2026-06-02T19:07:16Z"
+            "count": 658,
+            "max_timestamp": "2026-06-09T10:46:29Z"
         },
         {
             "Unnamed: 0": 3,
             "shop": "books",
-            "count": 322,
-            "max_timestamp": "2026-06-03T22:32:37Z"
+            "count": 324,
+            "max_timestamp": "2026-06-09T19:10:29Z"
         },
         {
             "Unnamed: 0": 4,
@@ -293,20 +293,20 @@
         {
             "Unnamed: 0": 5,
             "shop": "shoes",
-            "count": 227,
-            "max_timestamp": "2026-05-27T14:20:16Z"
+            "count": 228,
+            "max_timestamp": "2026-06-09T12:40:58Z"
         },
         {
             "Unnamed: 0": 6,
             "shop": "houseware",
-            "count": 219,
+            "count": 218,
             "max_timestamp": "2026-05-31T14:01:21Z"
         },
         {
             "Unnamed: 0": 7,
             "shop": "department_store",
-            "count": 146,
-            "max_timestamp": "2026-05-26T14:32:33Z"
+            "count": 147,
+            "max_timestamp": "2026-06-09T16:40:13Z"
         },
         {
             "Unnamed: 0": 8,
@@ -330,12 +330,12 @@
             "Unnamed: 0": 11,
             "shop": "herbalist",
             "count": 81,
-            "max_timestamp": "2026-05-23T22:17:12Z"
+            "max_timestamp": "2026-06-06T23:32:50Z"
         },
         {
             "Unnamed: 0": 12,
             "shop": "furniture",
-            "count": 67,
+            "count": 54,
             "max_timestamp": "2026-05-21T06:58:13Z"
         },
         {
@@ -358,15 +358,15 @@
         },
         {
             "Unnamed: 0": 16,
-            "shop": "computer",
-            "count": 18,
-            "max_timestamp": "2026-04-13T18:59:08Z"
-        },
-        {
-            "Unnamed: 0": 17,
             "shop": "doityourself",
             "count": 17,
             "max_timestamp": "2026-03-13T11:29:32Z"
+        },
+        {
+            "Unnamed: 0": 17,
+            "shop": "computer",
+            "count": 17,
+            "max_timestamp": "2026-04-13T18:59:08Z"
         },
         {
             "Unnamed: 0": 18,
@@ -400,15 +400,15 @@
         },
         {
             "Unnamed: 0": 23,
-            "shop": "butcher",
-            "count": 7,
-            "max_timestamp": "2026-03-24T20:03:56Z"
-        },
-        {
-            "Unnamed: 0": 24,
             "shop": "wine",
             "count": 7,
             "max_timestamp": "2026-04-25T12:37:48Z"
+        },
+        {
+            "Unnamed: 0": 24,
+            "shop": "butcher",
+            "count": 7,
+            "max_timestamp": "2026-03-24T20:03:56Z"
         },
         {
             "Unnamed: 0": 25,
@@ -424,27 +424,27 @@
         },
         {
             "Unnamed: 0": 27,
-            "shop": "travel_agency",
-            "count": 5,
-            "max_timestamp": "2024-11-10T20:54:22Z"
-        },
-        {
-            "Unnamed: 0": 28,
             "shop": "pet",
             "count": 5,
             "max_timestamp": "2025-12-24T08:52:16Z"
         },
         {
-            "Unnamed: 0": 29,
-            "shop": "motorcycle",
+            "Unnamed: 0": 28,
+            "shop": "travel_agency",
             "count": 5,
-            "max_timestamp": "2026-05-15T09:35:48Z"
+            "max_timestamp": "2024-11-10T20:54:22Z"
         },
         {
-            "Unnamed: 0": 30,
+            "Unnamed: 0": 29,
             "shop": "pastry",
             "count": 5,
             "max_timestamp": "2026-06-04T18:44:50Z"
+        },
+        {
+            "Unnamed: 0": 30,
+            "shop": "motorcycle",
+            "count": 5,
+            "max_timestamp": "2026-06-05T16:17:07Z"
         },
         {
             "Unnamed: 0": 31,
@@ -895,8 +895,8 @@
         {
             "Unnamed: 0": 0,
             "cuisine": "pizza",
-            "count": 41,
-            "max_timestamp": "2026-05-30T15:09:24Z"
+            "count": 42,
+            "max_timestamp": "2026-06-08T16:30:46Z"
         },
         {
             "Unnamed: 0": 1,
@@ -908,7 +908,7 @@
             "Unnamed: 0": 2,
             "cuisine": "kebab",
             "count": 17,
-            "max_timestamp": "2026-02-24T23:00:48Z"
+            "max_timestamp": "2026-06-08T17:11:27Z"
         },
         {
             "Unnamed: 0": 3,
@@ -920,7 +920,7 @@
             "Unnamed: 0": 4,
             "cuisine": "sandwich",
             "count": 8,
-            "max_timestamp": "2026-05-25T22:47:28Z"
+            "max_timestamp": "2026-06-05T18:12:27Z"
         },
         {
             "Unnamed: 0": 5,
@@ -932,7 +932,7 @@
             "Unnamed: 0": 6,
             "cuisine": "burger",
             "count": 6,
-            "max_timestamp": "2026-05-17T15:22:49Z"
+            "max_timestamp": "2026-06-05T18:12:27Z"
         },
         {
             "Unnamed: 0": 7,
@@ -1154,15 +1154,15 @@
         },
         {
             "Unnamed: 0": 5,
-            "office": "estate_agent",
+            "office": "consulting",
             "count": 9,
-            "max_timestamp": "2026-03-30T12:29:43Z"
+            "max_timestamp": "2026-06-06T10:24:47Z"
         },
         {
             "Unnamed: 0": 6,
-            "office": "consulting",
-            "count": 8,
-            "max_timestamp": "2026-05-03T09:39:53Z"
+            "office": "estate_agent",
+            "count": 9,
+            "max_timestamp": "2026-03-30T12:29:43Z"
         },
         {
             "Unnamed: 0": 7,
@@ -1510,7 +1510,7 @@
             "Unnamed: 0": 0,
             "healthcare": "dentist",
             "count": 14,
-            "max_timestamp": "2026-05-13T00:55:32Z"
+            "max_timestamp": "2026-06-08T21:58:56Z"
         },
         {
             "Unnamed: 0": 1,

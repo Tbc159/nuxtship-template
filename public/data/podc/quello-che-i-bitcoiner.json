@@ -1,0 +1,20 @@
+{
+    "id": "quello-che-i-bitcoiner",
+    "nome": "Quello che i Bitcoiner non dicono",
+    "img": "/img/podcast/quello-che-i-bitcoiner.jpg",
+    "apps": [
+        {
+            "app": "spotify",
+            "url": "https://open.spotify.com/show/4K1HDf5M679tTRV2Icewda?si=ea48fd547fe64f4f"
+        },
+        {
+            "app": "apple",
+            "url": "https://podcasts.apple.com/us/podcast/quello-che-i-bitcoiner-non-dicono/id1896226766"
+        },
+        {
+            "app": "amazon",
+            "url": "https://music.amazon.it/podcasts/30dec796-b54a-429b-933e-f0161e7a041f/quello-che-i-bitcoiner-non-dicono"
+        }
+    ],
+    "descrizione": "Il podcast di Atlas21 che racconta la vita, le passioni, i sogni e le paure di chi ha deciso di dedicare il proprio tempo a Bitcoin. Due puntate al mese"
+}

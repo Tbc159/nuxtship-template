@@ -1,0 +1,28 @@
+{
+    "id": "final-step-bitcoin",
+    "nome": "Final Step Bitcoin",
+    "img": "/img/podcast/final-step-bitcoin.jpg",
+    "apps": [
+        {
+            "app": "spotify",
+            "url": "https://open.spotify.com/show/5Kg1JbEP6hHLiDv7jNe00V?si=7b44024734284031"
+        },
+        {
+            "app": "podcast index",
+            "url": "https://podcastindex.org/podcast/7900774"
+        },
+        {
+            "app": "apple",
+            "url": "https://podcasts.apple.com/gb/podcast/final-step-bitcoin-podcast/id1896889471"
+        },
+        {
+            "app": "amazon",
+            "url": "https://music.amazon.com/podcasts/52787850-6cc6-4091-a0c8-19f02ddd29d6/final-step-bitcoin-podcast"
+        },
+        {
+            "app": "podcast addict",
+            "url": "https://podcastaddict.com/podcast/final-step-bitcoin-podcast/7072535"
+        }
+    ],
+    "descrizione": "Le interviste, i video lunghi e le serie presenti nel canale youtube FINAL STEP BITCOIN di Plak"
+}

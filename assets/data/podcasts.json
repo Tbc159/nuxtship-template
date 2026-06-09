@@ -7,32 +7,18 @@
     "descrizione": "Ogni giovedì, Rikki e Guybrush presentano un episodio del primo podcast italiano dedicato a Bitcoin. È un appuntamento imperdibile per ogni bitcoiner, principiante o esperto, ma anche per i semplici curiosi. Il podcast offre una copertura delle ultime notizie, approfondimenti tecnici e analisi degli aspetti sociali e politici legati alla rivoluzione di Bitcoin."
   },
   {
-    "id": "block-time",
-    "nome": "Block Time ",
-    "url": "/podc/block-time",
-    "img": "/img/podcast/block-time.jpg",
-    "descrizione": "Marco Costanza conduce questo podcast realizzato all'interno di Unspent.it"
+    "id": "final-step-bitcoin",
+    "nome": "Final Step Bitcoin",
+    "url": "/podc/final-step-bitcoin",
+    "img": "/img/podcast/final-step-bitcoin.jpg",
+    "descrizione": "Le interviste, i video lunghi e le serie presenti nel canale youtube FINAL STEP BITCOIN di Plak"
   },
   {
-    "id": "the-bit-brothers",
-    "nome": "The Bit Brothers",
-    "url": "/podc/the-bit-brothers",
-    "img": "/img/podcast/the-bit-brothers.jpg",
-    "descrizione": "The Bit Brothers è il podcast di Alan e Rudy dedicato a tutto ciò che ruota intorno a Bitcoin. Ogni episodio ospita una nuova voce con una passione in comune. Niente hype, niente shitcoin: solo conversazioni autentiche, storie reali e approfondimenti sulla cultura di Bitcoin. Se vuoi capire davvero come funziona Bitcoin, ascoltare chi lo vive ogni giorno e scoprire nuove prospettive… benvenuto tra i fratelli del Bit"
-  },
-  {
-    "id": "bcaucus",
-    "nome": "Bcaucus",
-    "url": "/podc/bcaucus",
-    "img": "/img/podcast/bcaucus.jpg",
-    "descrizione": "Bcaucus è l'assemblea in cui si parla di Bitcoin, criptoasset, blockchain: esperti del settore si confrontano mettendo in discussione le proprie idee; le domande più comuni, ma anche le più curiose, trovano risposte grazie alla voce di Alessandro Olivo e Francesco Simoncelli; ogni mese ci sarà una rassegna stampa che studia le notizie più rilevanti."
-  },
-  {
-    "id": "bitcoin-cabana",
-    "nome": "Bitcoin Cabana",
-    "url": "/podc/bitcoin-cabana",
-    "img": "/img/podcast/bitcoin-cabana.jpg",
-    "descrizione": "\"Bitcoin Cabana\" è il podcast dove Thomas Rossi e Federico Francolini, trattano di Bitcoin, Macroeconomia e come quest'ultimo argomento sta stravolgendo il mondo dell'impresa e non solo, in un atmosfera da \"salotto tra amici\"."
+    "id": "quello-che-i-bitcoiner",
+    "nome": "Quello che i Bitcoiner non dicono",
+    "url": "/podc/quello-che-i-bitcoiner",
+    "img": "/img/podcast/quello-che-i-bitcoiner.jpg",
+    "descrizione": "Il podcast di Atlas21 che racconta la vita, le passioni, i sogni e le paure di chi ha deciso di dedicare il proprio tempo a Bitcoin. Due puntate al mese"
   },
   {
     "id": "cripto-il-sole-24-ore",
@@ -42,6 +28,13 @@
     "descrizione": "Cripto\" è il podcast del Sole 24 Ore che esplora il mondo delle criptovalute e della finanza digitale. Ogni settimana, analizziamo le ultime novità del settore, intervistiamo esperti e approfondiamo i temi più rilevanti, dalla tecnologia blockchain alle tendenze del mercato. Con un approccio rigoroso e informativo, \"Cripto\" ti fornisce gli strumenti per comprendere le dinamiche di un settore in continua evoluzione e prendere decisioni consapevoli."
   },
   {
+    "id": "block-time",
+    "nome": "Block Time ",
+    "url": "/podc/block-time",
+    "img": "/img/podcast/block-time.jpg",
+    "descrizione": "Marco Costanza conduce questo podcast realizzato all'interno di Unspent.it"
+  },
+  {
     "id": "bitcoin-doce",
     "nome": "Bitcoin Doce: gente a nodo",
     "url": "/podc/bitcoin-doce",
@@ -49,25 +42,18 @@
     "descrizione": "Un podcast di interviste dedicate alla community italiana (e non solo) di Bitcoin. Ogni episodio dà voce a persone “underground” con storie da raccontare, idee da discutere o progetti da proporre. Il mio obiettivo è offrire valore alla community e mostrare cosa accade davvero in Italia nell’adozione di questa tecnologia, esplorare nuovi volti, strumenti e temi che stimolano la riflessione. Solo conversazioni sincere, per conoscere il polso autentico dell’universo Bitcoin"
   },
   {
-    "id": "21mdc",
-    "nome": "21 Milioni di Chiacchiere",
-    "url": "/podc/21mdc",
-    "img": "/img/podcast/21mdc.png",
-    "descrizione": "\"21 Milioni di Chiacchiere\" è il podcast nato dalle registrazioni delle ospitate nell'omonimo Space su X/Twitter. Qui, ogni martedì e giovedì alle 18:30, i bitcoiner italiani si riuniscono per discutere degli ultimi eventi e approfondimenti tecnici in un'atmosfera rilassata e informale. Si raccontano le ultime novità, si analizzano gli aggiornamenti e si cerca di comprendere il futuro della rivoluzione Bitcoin. Inoltre, ogni venerdì viene pubblicato un episodio con Plak e Mauro che commentano un termine del glossario Bitcoin."
+    "id": "bitcoin-cabana",
+    "nome": "Bitcoin Cabana",
+    "url": "/podc/bitcoin-cabana",
+    "img": "/img/podcast/bitcoin-cabana.jpg",
+    "descrizione": "\"Bitcoin Cabana\" è il podcast dove Thomas Rossi e Federico Francolini, trattano di Bitcoin, Macroeconomia e come quest'ultimo argomento sta stravolgendo il mondo dell'impresa e non solo, in un atmosfera da \"salotto tra amici\"."
   },
   {
-    "id": "bitcoin-monfalcone-podcast",
-    "nome": "Bitcoin Monfalcone podcast",
-    "url": "/podc/bitcoin-monfalcone-podcast",
-    "img": "/img/podcast/bitcoin-monfalcone-podcast.jpg",
-    "descrizione": "Nato dall’esperienza degli incontri di Bitcoin Monfalcone, pensati per rendere il mondo di Bitcoin comprensibile a tutti, anche a chi parte da zero. Eventi come “Bitcoin spiegato a mio nonno” hanno fatto capire quanto ci sia bisogno di chiarezza, semplicità e confronto diretto. Un podcast per chi vuole capire, non per chi vuole complicare."
-  },
-  {
-    "id": "il-truffone",
-    "nome": "Il Truffone",
-    "url": "/podc/il-truffone",
-    "img": "/img/podcast/il-truffone.jpg",
-    "descrizione": "\"Il Truffone\" è il podcast che smaschera le truffe e gli inganni del mondo digitale e non solo. Con uno sguardo critico e un pizzico di ironia, analizziamo le ultime truffe online, i raggiri finanziari e le manipolazioni mediatiche, fornendo strumenti e consigli per difendersi e non cadere nelle trappole dei truffatori. Un viaggio nel lato oscuro della società, per imparare a riconoscere i \"truffoni\" e proteggere i propri interessi."
+    "id": "bcaucus",
+    "nome": "Bcaucus",
+    "url": "/podc/bcaucus",
+    "img": "/img/podcast/bcaucus.jpg",
+    "descrizione": "Bcaucus è l'assemblea in cui si parla di Bitcoin, criptoasset, blockchain: esperti del settore si confrontano mettendo in discussione le proprie idee; le domande più comuni, ma anche le più curiose, trovano risposte grazie alla voce di Alessandro Olivo e Francesco Simoncelli; ogni mese ci sarà una rassegna stampa che studia le notizie più rilevanti."
   },
   {
     "id": "bitcoin-freedom",
@@ -77,10 +63,17 @@
     "descrizione": "Bitcoin Freedom, il podcast di Massimo Musumeci, un fisico con una solida esperienza nel mondo della ricerca, ci porta la sua prospettiva unica, unendo la precisione scientifica all'analisi del mondo Bitcoin e della tecnologia dell'informazione. Con una laurea magistrale in fisica e la sua attuale posizione di ricercatore in Svizzera, Massimo offre una visione approfondita e informata su Bitcoin e su Lightning Network"
   },
   {
-    "id": "aloha-finance-podcast",
-    "nome": "Aloha Finance Podcast",
-    "url": "/podc/aloha-finance-podcast",
-    "img": "/img/podcast/aloha-finance-podcast.jpg",
-    "descrizione": "Aloha Finance Podcast è il tuo appuntamento settimanale con il mondo di Bitcoin e della finanza, dell'economia e degli investimenti con Marco Costanza, divulgatore presente su diversi social network, con il suo piglio simpatico in tono assolutamente informale."
+    "id": "bitcoin-monfalcone-podcast",
+    "nome": "Bitcoin Monfalcone podcast",
+    "url": "/podc/bitcoin-monfalcone-podcast",
+    "img": "/img/podcast/bitcoin-monfalcone-podcast.jpg",
+    "descrizione": "Nato dall’esperienza degli incontri di Bitcoin Monfalcone, pensati per rendere il mondo di Bitcoin comprensibile a tutti, anche a chi parte da zero. Eventi come “Bitcoin spiegato a mio nonno” hanno fatto capire quanto ci sia bisogno di chiarezza, semplicità e confronto diretto. Un podcast per chi vuole capire, non per chi vuole complicare."
+  },
+  {
+    "id": "21mdc",
+    "nome": "21 Milioni di Chiacchiere",
+    "url": "/podc/21mdc",
+    "img": "/img/podcast/21mdc.jpg",
+    "descrizione": "\"21 Milioni di Chiacchiere\" è il podcast nato dalle registrazioni delle ospitate nell'omonimo Space su X/Twitter. Qui, ogni martedì e giovedì alle 18:30, i bitcoiner italiani si riuniscono per discutere degli ultimi eventi e approfondimenti tecnici in un'atmosfera rilassata e informale. Si raccontano le ultime novità, si analizzano gli aggiornamenti e si cerca di comprendere il futuro della rivoluzione Bitcoin. Inoltre, ogni venerdì viene pubblicato un episodio con Plak e Mauro che commentano un termine del glossario Bitcoin."
   }
 ]
