@@ -58,6 +58,7 @@ useHead({
     />
   </div>
   <EventiNostr v-if="evento?.nostr_id" :nostr_id="evento?.nostr_id" />
+  <EventiNip52kind31923 v-if="evento?.kind31923" :kind31923="evento?.kind31923" />
   <MeetupBadge v-if="evento?.id_comunita" :idcomunita="evento?.id_comunita" />
 
   <EventiVenue v-if="evento?.id_nod_osm" :idnodosm="evento?.id_nod_osm" />

@@ -8,6 +8,10 @@
             "url": "https://fountain.fm/show/zcAwj4EvYevOvVK0cLCh"
         },
         {
+            "app": "antenna pod",
+            "url": "https://antennapod.org/deeplink/subscribe?url=https://anchor.fm/s/fd5f8a68/podcast/rss&title=21%20Milioni%20di%20Chiacchiere%20%23Bitcoin"
+        },
+        {
             "app": "spotify",
             "url": "https://open.spotify.com/show/7JHeWnWhvjeC69kUUi6bFx?si=7dccb57a93a94d24"
         },
@@ -30,6 +34,10 @@
         {
             "app": "podcast addict",
             "url": "https://podcastaddict.com/podcast/21-milioni-di-chiacchiere-bitcoin/5764380"
+        },
+        {
+            "app": "rss",
+            "url": "https://anchor.fm/s/fd5f8a68/podcast/rss"
         }
     ],
     "descrizione": "\"21 Milioni di Chiacchiere\" \u00e8 il podcast nato dalle registrazioni delle ospitate nell'omonimo Space su X/Twitter. Qui, ogni marted\u00ec e gioved\u00ec alle 18:30, i bitcoiner italiani si riuniscono per discutere degli ultimi eventi e approfondimenti tecnici in un'atmosfera rilassata e informale. Si raccontano le ultime novit\u00e0, si analizzano gli aggiornamenti e si cerca di comprendere il futuro della rivoluzione Bitcoin. Inoltre, ogni venerd\u00ec viene pubblicato un episodio con Plak e Mauro che commentano un termine del glossario Bitcoin."

@@ -8,6 +8,10 @@
             "url": "https://fountain.fm/show/zLFgNkyNzcvUQBQZOqhu"
         },
         {
+            "app": "antenna pod",
+            "url": "https://antennapod.org/deeplink/subscribe?url=https://www.spreaker.com/show/5856762/episodes/feed&title=Block%20Time"
+        },
+        {
             "app": "spotify",
             "url": "https://open.spotify.com/show/1D0gqw3ruO8KF1SSktgj58?si=c4036132c8834324"
         },
@@ -26,6 +30,10 @@
         {
             "app": "podcast addict",
             "url": "https://podcastaddict.com/podcast/block-time/4429964"
+        },
+        {
+            "app": "rss",
+            "url": "https://www.spreaker.com/show/5856762/episodes/feed"
         }
     ],
     "sito": "https://unspent.it/podcast/5856762",
