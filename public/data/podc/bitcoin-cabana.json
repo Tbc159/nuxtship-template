@@ -8,6 +8,10 @@
             "url": "https://fountain.fm/show/hfsmBsJaITsc0T2C7IjB"
         },
         {
+            "app": "antenna pod",
+            "url": "https://antennapod.org/deeplink/subscribe?url=https://feeds.soundcloud.com/users/soundcloud:users:296155890/sounds.rss&title=Bitcoin%20Cabana"
+        },
+        {
             "app": "spotify",
             "url": "https://open.spotify.com/show/2GqAcWtIJ7Yf2FXspe6zk6"
         },
@@ -22,6 +26,10 @@
         {
             "app": "podcast addict",
             "url": "https://podcastaddict.com/podcast/bitcoin-cabana/3394499"
+        },
+        {
+            "app": "rss",
+            "url": "https://feeds.soundcloud.com/users/soundcloud:users:296155890/sounds.rss"
         }
     ],
     "sito": "bitcoincabana.com",

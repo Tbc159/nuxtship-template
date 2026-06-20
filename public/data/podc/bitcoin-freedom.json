@@ -8,6 +8,10 @@
             "url": "https://fountain.fm/show/GeOiZ3OrPLYBueqcRP7n"
         },
         {
+            "app": "antenna pod",
+            "url": "https://antennapod.org/deeplink/subscribe?url=https://anchor.fm/s/bf803abc/podcast/rss&title=Bitcoin%20Freedom"
+        },
+        {
             "app": "spotify",
             "url": "https://open.spotify.com/show/2RWKeiHLsJyLhf4AdVpGHH"
         },
@@ -18,6 +22,10 @@
         {
             "app": "podcast addict",
             "url": "https://podcastaddict.com/podcast/bitcoin-freedom/5052566"
+        },
+        {
+            "app": "rss",
+            "url": "https://anchor.fm/s/bf803abc/podcast/rss"
         }
     ],
     "sito": "https://www.massmux.com/",

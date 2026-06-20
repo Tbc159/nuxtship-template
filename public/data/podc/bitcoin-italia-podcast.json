@@ -8,6 +8,10 @@
             "url": "https://fountain.fm/show/orJvIPs3YnNTMPv199HL"
         },
         {
+            "app": "antenna pod",
+            "url": "https://antennapod.org/deeplink/subscribe?url=https://www.spreaker.com/show/3250113/episodes/feed&title=Bitcoin%20Italia%20Podcast"
+        },
+        {
             "app": "spotify",
             "url": "https://open.spotify.com/show/0tU6am2PVvwtQjvA5sFwfx"
         },
@@ -42,6 +46,10 @@
         {
             "app": "podcast addict",
             "url": "https://podcastaddict.com/podcast/bitcoin-italia-podcast/2316973"
+        },
+        {
+            "app": "rss",
+            "url": "https://www.spreaker.com/show/3250113/episodes/feed"
         }
     ],
     "sito": "https://bitcoinitaliapodcast.it/",

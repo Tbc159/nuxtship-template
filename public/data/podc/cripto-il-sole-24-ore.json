@@ -38,6 +38,10 @@
         {
             "app": "podcast addict",
             "url": "https://podcastaddict.com/podcast/cripto/4123355"
+        },
+        {
+            "app": "rss",
+            "url": "https://feeds.megaphone.fm/ISOS5751633161"
         }
     ],
     "sito": "https://podcast.ilsole24ore.com/serie/cripto-AEC88W9B",

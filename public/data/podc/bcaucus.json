@@ -34,6 +34,10 @@
         {
             "app": "podcast addict",
             "url": "https://podcastaddict.com/podcast/bcaucus/4344649"
+        },
+        {
+            "app": "rss",
+            "url": "https://www.spreaker.com/show/5810259/episodes/feed"
         }
     ],
     "sito": "https://satoshi.design/",
