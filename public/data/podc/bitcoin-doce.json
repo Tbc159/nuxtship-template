@@ -14,6 +14,10 @@
         {
             "app": "amazon",
             "url": "https://music.amazon.it/podcasts/ef2af05c-f695-4290-a61e-c22c4e68a527/bitcoin-docet-gente-a-nodo"
+        },
+        {
+            "app": "rss",
+            "url": "https://anchor.fm/s/10582c958/podcast/rss"
         }
     ],
     "descrizione": "Un podcast di interviste dedicate alla community italiana (e non solo) di Bitcoin. Ogni episodio d\u00e0 voce a persone \u201cunderground\u201d con storie da raccontare, idee da discutere o progetti da proporre. Il mio obiettivo \u00e8 offrire valore alla community e mostrare cosa accade davvero in Italia nell\u2019adozione di questa tecnologia, esplorare nuovi volti, strumenti e temi che stimolano la riflessione. Solo conversazioni sincere, per conoscere il polso autentico dell\u2019universo Bitcoin"

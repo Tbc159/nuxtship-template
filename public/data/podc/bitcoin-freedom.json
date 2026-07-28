@@ -20,12 +20,8 @@
             "url": "https://music.amazon.it/podcasts/0f7a2f25-aa2b-4ebe-85ac-9965650fd263/bitcoin-freedom"
         },
         {
-            "app": "podcast addict",
-            "url": "https://podcastaddict.com/podcast/bitcoin-freedom/5052566"
-        },
-        {
             "app": "rss",
-            "url": "https://anchor.fm/s/bf803abc/podcast/rss"
+            "url": "https://podcastaddict.com/podcast/bitcoin-freedom/5052566"
         }
     ],
     "sito": "https://www.massmux.com/",

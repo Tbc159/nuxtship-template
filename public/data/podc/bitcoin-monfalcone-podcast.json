@@ -6,6 +6,10 @@
         {
             "app": "spotify",
             "url": "https://open.spotify.com/show/1PsWw1UaAu5TyUO2fIvdk0?si=06c657ffeade4256"
+        },
+        {
+            "app": "rss",
+            "url": "https://anchor.fm/s/1056e3178/podcast/rss"
         }
     ],
     "descrizione": "Nato dall\u2019esperienza degli incontri di Bitcoin Monfalcone, pensati per rendere il mondo di Bitcoin comprensibile a tutti, anche a chi parte da zero. Eventi come \u201cBitcoin spiegato a mio nonno\u201d hanno fatto capire quanto ci sia bisogno di chiarezza, semplicit\u00e0 e confronto diretto. Un podcast per chi vuole capire, non per chi vuole complicare."
