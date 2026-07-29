@@ -24,10 +24,10 @@ export default {
 				<span>nostr.com</span>
 			</button>
 		</NuxtLink>
-		<NuxtLink :to="`https://meetstr.com/event/${kind31923}`" target="_blank">
+<!-- 		<NuxtLink :to="`https://meetstr.com/event/${kind31923}`" target="_blank">
 			<button class="btn btn-primary py-4 m-2">
 				<span>meetstr</span>
 			</button>
-		</NuxtLink>
+		</NuxtLink> -->
 	</div>
 </template>

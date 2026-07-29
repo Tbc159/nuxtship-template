@@ -4,6 +4,10 @@
     "img": "/img/podcast/quello-che-i-bitcoiner.jpg",
     "apps": [
         {
+            "app": "fountain",
+            "url": "https://fountain.fm/show/iGIVEdWBLPBV28hgHBs8"
+        },
+        {
             "app": "antenna pod",
             "url": "https://antennapod.org/deeplink/subscribe?url=https://api.riverside.com/hosting/QDPC7EXC.rss&title=Quello%20che%20i%20Bitcoiner%20non%20dicono"
         },
@@ -12,12 +16,24 @@
             "url": "https://open.spotify.com/show/4K1HDf5M679tTRV2Icewda?si=ea48fd547fe64f4f"
         },
         {
+            "app": "podcast index",
+            "url": "https://podcastindex.org/podcast/7848020"
+        },
+        {
             "app": "apple",
             "url": "https://podcasts.apple.com/us/podcast/quello-che-i-bitcoiner-non-dicono/id1896226766"
         },
         {
             "app": "amazon",
             "url": "https://music.amazon.it/podcasts/30dec796-b54a-429b-933e-f0161e7a041f/quello-che-i-bitcoiner-non-dicono"
+        },
+        {
+            "app": "podchaser",
+            "url": "https://www.podchaser.com/podcasts/quello-che-i-bitcoiner-non-dic-6472345"
+        },
+        {
+            "app": "podcast addict",
+            "url": "https://api.riverside.com/hosting/QDPC7EXC.rss"
         },
         {
             "app": "rss",

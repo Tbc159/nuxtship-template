@@ -32,12 +32,8 @@
             "url": "https://www.deezer.com/it/show/5843057"
         },
         {
-            "app": "podcast addict",
-            "url": "https://podcastaddict.com/podcast/bcaucus/4344649"
-        },
-        {
             "app": "rss",
-            "url": "https://www.spreaker.com/show/5810259/episodes/feed"
+            "url": "https://podcastaddict.com/podcast/bcaucus/4344649"
         }
     ],
     "sito": "https://satoshi.design/",
