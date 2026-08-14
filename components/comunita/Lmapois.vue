@@ -212,6 +212,9 @@
 	<LMarker :lat-lng="[39.214934, 9.119673]">
 		<LPopup><NuxtLink to="/c/b-sardegna">Associazione Bitcoin Sardegna</NuxtLink></LPopup>
 	</LMarker>
+	<LMarker :lat-lng="[40.718668, 8.566414]">
+		<LPopup><NuxtLink to="/c/ss-sassari">Satoshi Spritz Sassari</NuxtLink></LPopup>
+	</LMarker>
 	<LMarker :lat-lng="[44.2975603, 8.4645]">
 		<LPopup><NuxtLink to="/c/ss-savona">Satoshi Spritz Savona</NuxtLink></LPopup>
 	</LMarker>

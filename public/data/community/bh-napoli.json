@@ -7,7 +7,7 @@
     "idlocalita": "napoli",
     "telegram_weburl": "https://web.telegram.org/k/#?tgaddr=tg%3A%2F%2Fresolve%3Fdomain%3Dbitcoinapoli",
     "telegram_app": "https://t.me/bitcoinapoli",
-    "telegram_members": 23.0,
+    "telegram_members": 20.0,
     "poi": [
         {
             "type": "node",
