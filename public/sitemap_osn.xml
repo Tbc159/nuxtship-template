@@ -1,10 +1,6 @@
 <?xml version="1.0" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://bitcoinitalianetwork.com/osn/61964178</loc>
-    <lastmod>2022-12-25</lastmod>
-  </url>
-  <url>
     <loc>https://bitcoinitalianetwork.com/osn/81731815</loc>
     <lastmod>2025-09-30</lastmod>
   </url>
@@ -346,7 +342,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/227545995</loc>
-    <lastmod>2025-09-30</lastmod>
+    <lastmod>2026-08-13</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/227546289</loc>
@@ -426,7 +422,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/227573605</loc>
-    <lastmod>2025-11-04</lastmod>
+    <lastmod>2026-07-28</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/227578491</loc>
@@ -514,7 +510,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/227653854</loc>
-    <lastmod>2026-04-24</lastmod>
+    <lastmod>2026-06-15</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/227655439</loc>
@@ -758,7 +754,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/227738463</loc>
-    <lastmod>2025-09-30</lastmod>
+    <lastmod>2026-07-07</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/227739315</loc>
@@ -771,10 +767,6 @@
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/227745629</loc>
     <lastmod>2025-11-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bitcoinitalianetwork.com/osn/227746038</loc>
-    <lastmod>2025-04-20</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/227746240</loc>
@@ -799,6 +791,10 @@
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/227754613</loc>
     <lastmod>2025-10-02</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/osn/227755939</loc>
+    <lastmod>2026-07-15</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/227759652</loc>
@@ -914,7 +910,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/227814213</loc>
-    <lastmod>2025-10-05</lastmod>
+    <lastmod>2026-08-01</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/227815142</loc>
@@ -943,10 +939,6 @@
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/227821631</loc>
     <lastmod>2025-10-05</lastmod>
-  </url>
-  <url>
-    <loc>https://bitcoinitalianetwork.com/osn/227821635</loc>
-    <lastmod>2023-12-14</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/227823791</loc>
@@ -1054,7 +1046,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/227870910</loc>
-    <lastmod>2023-01-02</lastmod>
+    <lastmod>2026-06-22</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/227871711</loc>
@@ -1071,10 +1063,6 @@
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/227875400</loc>
     <lastmod>2025-10-16</lastmod>
-  </url>
-  <url>
-    <loc>https://bitcoinitalianetwork.com/osn/227880246</loc>
-    <lastmod>2025-10-03</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/227880419</loc>
@@ -1314,10 +1302,6 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/227975220</loc>
-    <lastmod>2025-10-03</lastmod>
-  </url>
-  <url>
-    <loc>https://bitcoinitalianetwork.com/osn/227980513</loc>
     <lastmod>2025-10-03</lastmod>
   </url>
   <url>
@@ -1674,7 +1658,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/228153742</loc>
-    <lastmod>2026-03-13</lastmod>
+    <lastmod>2026-08-06</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/228158489</loc>
@@ -1778,7 +1762,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/228222916</loc>
-    <lastmod>2025-10-02</lastmod>
+    <lastmod>2026-08-11</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/228224996</loc>
@@ -1850,7 +1834,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/228266588</loc>
-    <lastmod>2025-10-04</lastmod>
+    <lastmod>2026-06-18</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/228266790</loc>
@@ -1866,11 +1850,15 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/228274182</loc>
-    <lastmod>2025-11-19</lastmod>
+    <lastmod>2026-08-08</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/228274772</loc>
     <lastmod>2025-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/osn/228275035</loc>
+    <lastmod>2026-08-09</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/228276394</loc>
@@ -2042,7 +2030,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/229120814</loc>
-    <lastmod>2025-10-16</lastmod>
+    <lastmod>2026-06-26</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/229122362</loc>
@@ -2126,7 +2114,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/246968646</loc>
-    <lastmod>2025-10-10</lastmod>
+    <lastmod>2026-08-09</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/248908257</loc>
@@ -2266,11 +2254,11 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/282644096</loc>
-    <lastmod>2025-04-27</lastmod>
+    <lastmod>2026-07-05</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/288938675</loc>
-    <lastmod>2026-02-01</lastmod>
+    <lastmod>2026-07-25</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/289485917</loc>
@@ -2279,6 +2267,10 @@
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/289922690</loc>
     <lastmod>2020-03-18</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/osn/290040241</loc>
+    <lastmod>2026-07-14</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/293868274</loc>
@@ -2421,12 +2413,8 @@
     <lastmod>2025-10-16</lastmod>
   </url>
   <url>
-    <loc>https://bitcoinitalianetwork.com/osn/362497485</loc>
-    <lastmod>2024-12-30</lastmod>
-  </url>
-  <url>
-    <loc>https://bitcoinitalianetwork.com/osn/362497608</loc>
-    <lastmod>2024-10-31</lastmod>
+    <loc>https://bitcoinitalianetwork.com/osn/345848330</loc>
+    <lastmod>2026-07-23</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/370890914</loc>
@@ -2502,7 +2490,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/420776812</loc>
-    <lastmod>2026-01-13</lastmod>
+    <lastmod>2026-06-27</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/424687825</loc>
@@ -2551,10 +2539,6 @@
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/442571309</loc>
     <lastmod>2025-07-15</lastmod>
-  </url>
-  <url>
-    <loc>https://bitcoinitalianetwork.com/osn/442918389</loc>
-    <lastmod>2025-11-14</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/443705486</loc>
@@ -2622,7 +2606,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/472366089</loc>
-    <lastmod>2025-10-06</lastmod>
+    <lastmod>2026-06-20</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/472443888</loc>
@@ -2658,15 +2642,11 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/499620964</loc>
-    <lastmod>2024-06-30</lastmod>
+    <lastmod>2026-07-19</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/501847001</loc>
     <lastmod>2025-10-06</lastmod>
-  </url>
-  <url>
-    <loc>https://bitcoinitalianetwork.com/osn/503101623</loc>
-    <lastmod>2025-01-03</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/503198205</loc>
@@ -2849,10 +2829,6 @@
     <lastmod>2026-02-15</lastmod>
   </url>
   <url>
-    <loc>https://bitcoinitalianetwork.com/osn/610940330</loc>
-    <lastmod>2025-10-05</lastmod>
-  </url>
-  <url>
     <loc>https://bitcoinitalianetwork.com/osn/611595906</loc>
     <lastmod>2026-06-06</lastmod>
   </url>
@@ -2886,7 +2862,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/619377444</loc>
-    <lastmod>2023-08-21</lastmod>
+    <lastmod>2026-07-24</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/619550329</loc>
@@ -2918,7 +2894,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/626923862</loc>
-    <lastmod>2023-09-23</lastmod>
+    <lastmod>2026-06-24</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/627658396</loc>
@@ -3065,10 +3041,6 @@
     <lastmod>2025-10-06</lastmod>
   </url>
   <url>
-    <loc>https://bitcoinitalianetwork.com/osn/695418361</loc>
-    <lastmod>2024-02-25</lastmod>
-  </url>
-  <url>
     <loc>https://bitcoinitalianetwork.com/osn/695423759</loc>
     <lastmod>2024-02-25</lastmod>
   </url>
@@ -3114,7 +3086,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/714762606</loc>
-    <lastmod>2025-05-22</lastmod>
+    <lastmod>2026-06-24</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/715759085</loc>
@@ -3197,8 +3169,8 @@
     <lastmod>2025-09-28</lastmod>
   </url>
   <url>
-    <loc>https://bitcoinitalianetwork.com/osn/762937564</loc>
-    <lastmod>2024-09-22</lastmod>
+    <loc>https://bitcoinitalianetwork.com/osn/761150453</loc>
+    <lastmod>2026-08-08</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/762937571</loc>
@@ -3219,6 +3191,10 @@
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/762937608</loc>
     <lastmod>2026-04-20</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/osn/762937625</loc>
+    <lastmod>2026-08-03</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/763241210</loc>
@@ -3350,7 +3326,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/854011739</loc>
-    <lastmod>2025-10-05</lastmod>
+    <lastmod>2026-06-13</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/854375730</loc>
@@ -3378,7 +3354,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/864204677</loc>
-    <lastmod>2026-04-13</lastmod>
+    <lastmod>2026-08-13</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/866792833</loc>
@@ -3406,7 +3382,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/893969257</loc>
-    <lastmod>2025-04-10</lastmod>
+    <lastmod>2026-08-03</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/893975167</loc>
@@ -3414,7 +3390,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/898023092</loc>
-    <lastmod>2025-01-02</lastmod>
+    <lastmod>2026-07-24</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/901804332</loc>
@@ -3561,10 +3537,6 @@
     <lastmod>2025-03-02</lastmod>
   </url>
   <url>
-    <loc>https://bitcoinitalianetwork.com/osn/950814184</loc>
-    <lastmod>2026-04-13</lastmod>
-  </url>
-  <url>
     <loc>https://bitcoinitalianetwork.com/osn/952406069</loc>
     <lastmod>2025-10-05</lastmod>
   </url>
@@ -3631,6 +3603,10 @@
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/974121376</loc>
     <lastmod>2025-10-04</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/osn/977894398</loc>
+    <lastmod>2026-08-13</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/980068894</loc>
@@ -3850,7 +3826,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/1188833219</loc>
-    <lastmod>2026-01-13</lastmod>
+    <lastmod>2026-06-13</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/1188979334</loc>
@@ -3886,7 +3862,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/1217614876</loc>
-    <lastmod>2025-10-25</lastmod>
+    <lastmod>2026-07-23</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/1222221307</loc>
@@ -4066,11 +4042,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/1316071478</loc>
-    <lastmod>2026-01-01</lastmod>
-  </url>
-  <url>
-    <loc>https://bitcoinitalianetwork.com/osn/1318116512</loc>
-    <lastmod>2024-01-20</lastmod>
+    <lastmod>2026-08-08</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/1324059284</loc>
@@ -4170,7 +4142,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/1377462862</loc>
-    <lastmod>2025-10-23</lastmod>
+    <lastmod>2026-08-10</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/1377738937</loc>
@@ -4357,6 +4329,10 @@
     <lastmod>2025-11-04</lastmod>
   </url>
   <url>
+    <loc>https://bitcoinitalianetwork.com/osn/1436367345</loc>
+    <lastmod>2026-07-23</lastmod>
+  </url>
+  <url>
     <loc>https://bitcoinitalianetwork.com/osn/1439230003</loc>
     <lastmod>2025-10-10</lastmod>
   </url>
@@ -4386,7 +4362,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/1452373305</loc>
-    <lastmod>2024-06-28</lastmod>
+    <lastmod>2026-07-31</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/1452379505</loc>
@@ -4395,10 +4371,6 @@
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/1452480258</loc>
     <lastmod>2025-10-16</lastmod>
-  </url>
-  <url>
-    <loc>https://bitcoinitalianetwork.com/osn/1453540877</loc>
-    <lastmod>2021-07-24</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/1455284188</loc>
@@ -4514,7 +4486,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/1482711976</loc>
-    <lastmod>2025-10-25</lastmod>
+    <lastmod>2026-06-21</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/1483473722</loc>
@@ -4570,11 +4542,11 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/1500077077</loc>
-    <lastmod>2022-11-03</lastmod>
+    <lastmod>2026-06-20</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/1500093292</loc>
-    <lastmod>2026-04-24</lastmod>
+    <lastmod>2026-06-18</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/1505078335</loc>
@@ -4701,10 +4673,6 @@
     <lastmod>2024-05-10</lastmod>
   </url>
   <url>
-    <loc>https://bitcoinitalianetwork.com/osn/1567280796</loc>
-    <lastmod>2026-01-17</lastmod>
-  </url>
-  <url>
     <loc>https://bitcoinitalianetwork.com/osn/1568237413</loc>
     <lastmod>2025-01-03</lastmod>
   </url>
@@ -4759,6 +4727,10 @@
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/1580967861</loc>
     <lastmod>2025-10-11</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/osn/1583723826</loc>
+    <lastmod>2026-08-03</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/1586115538</loc>
@@ -4826,7 +4798,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/1600341520</loc>
-    <lastmod>2023-07-26</lastmod>
+    <lastmod>2026-07-17</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/1602626066</loc>
@@ -5017,6 +4989,10 @@
     <lastmod>2025-10-23</lastmod>
   </url>
   <url>
+    <loc>https://bitcoinitalianetwork.com/osn/1711911649</loc>
+    <lastmod>2026-07-28</lastmod>
+  </url>
+  <url>
     <loc>https://bitcoinitalianetwork.com/osn/1717113791</loc>
     <lastmod>2025-10-05</lastmod>
   </url>
@@ -5039,6 +5015,10 @@
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/1723221528</loc>
     <lastmod>2025-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/osn/1724300598</loc>
+    <lastmod>2026-07-08</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/1725130163</loc>
@@ -5074,7 +5054,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/1739958379</loc>
-    <lastmod>2025-01-03</lastmod>
+    <lastmod>2026-07-09</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/1741726582</loc>
@@ -5091,10 +5071,6 @@
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/1749837081</loc>
     <lastmod>2025-12-22</lastmod>
-  </url>
-  <url>
-    <loc>https://bitcoinitalianetwork.com/osn/1750856267</loc>
-    <lastmod>2020-05-02</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/1752359271</loc>
@@ -5210,7 +5186,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/1814506650</loc>
-    <lastmod>2025-10-02</lastmod>
+    <lastmod>2026-07-10</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/1815999151</loc>
@@ -5238,7 +5214,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/1822887864</loc>
-    <lastmod>2026-01-18</lastmod>
+    <lastmod>2026-07-12</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/1826588558</loc>
@@ -5290,7 +5266,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/1841411454</loc>
-    <lastmod>2025-01-03</lastmod>
+    <lastmod>2026-07-06</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/1848307315</loc>
@@ -5358,7 +5334,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/1871562392</loc>
-    <lastmod>2025-10-03</lastmod>
+    <lastmod>2026-06-13</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/1871630357</loc>
@@ -5426,7 +5402,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/1895967932</loc>
-    <lastmod>2026-03-31</lastmod>
+    <lastmod>2026-06-29</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/1896973742</loc>
@@ -5478,7 +5454,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/1917449873</loc>
-    <lastmod>2026-04-17</lastmod>
+    <lastmod>2026-07-17</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/1920468261</loc>
@@ -5522,7 +5498,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/1932202616</loc>
-    <lastmod>2025-05-23</lastmod>
+    <lastmod>2026-08-12</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/1932407346</loc>
@@ -5534,7 +5510,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/1932859594</loc>
-    <lastmod>2025-10-30</lastmod>
+    <lastmod>2026-07-28</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/1935708284</loc>
@@ -5547,6 +5523,10 @@
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/1938540695</loc>
     <lastmod>2024-12-31</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/osn/1939364507</loc>
+    <lastmod>2026-08-06</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/1940802252</loc>
@@ -5570,7 +5550,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/1946105177</loc>
-    <lastmod>2024-05-14</lastmod>
+    <lastmod>2026-07-18</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/1947765760</loc>
@@ -5578,7 +5558,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/1951525722</loc>
-    <lastmod>2025-10-06</lastmod>
+    <lastmod>2026-06-19</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/1952392424</loc>
@@ -5665,10 +5645,6 @@
     <lastmod>2025-10-07</lastmod>
   </url>
   <url>
-    <loc>https://bitcoinitalianetwork.com/osn/1980657687</loc>
-    <lastmod>2024-06-26</lastmod>
-  </url>
-  <url>
     <loc>https://bitcoinitalianetwork.com/osn/1983086113</loc>
     <lastmod>2021-11-18</lastmod>
   </url>
@@ -5694,7 +5670,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/1988122338</loc>
-    <lastmod>2025-10-07</lastmod>
+    <lastmod>2026-07-12</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/1988137158</loc>
@@ -5713,16 +5689,12 @@
     <lastmod>2026-05-12</lastmod>
   </url>
   <url>
-    <loc>https://bitcoinitalianetwork.com/osn/1993363709</loc>
-    <lastmod>2021-08-06</lastmod>
-  </url>
-  <url>
     <loc>https://bitcoinitalianetwork.com/osn/1995402509</loc>
     <lastmod>2026-06-09</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/1996026168</loc>
-    <lastmod>2021-02-18</lastmod>
+    <lastmod>2026-07-07</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/1996759941</loc>
@@ -5759,6 +5731,10 @@
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/2018127861</loc>
     <lastmod>2025-09-23</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/osn/2018641877</loc>
+    <lastmod>2026-06-18</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/2019021513</loc>
@@ -5818,7 +5794,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/2063363742</loc>
-    <lastmod>2025-11-25</lastmod>
+    <lastmod>2026-06-28</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/2068127753</loc>
@@ -5953,10 +5929,6 @@
     <lastmod>2021-03-21</lastmod>
   </url>
   <url>
-    <loc>https://bitcoinitalianetwork.com/osn/2118175161</loc>
-    <lastmod>2022-02-05</lastmod>
-  </url>
-  <url>
     <loc>https://bitcoinitalianetwork.com/osn/2119309733</loc>
     <lastmod>2025-01-02</lastmod>
   </url>
@@ -6042,7 +6014,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/2162469364</loc>
-    <lastmod>2025-06-07</lastmod>
+    <lastmod>2026-07-10</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/2168869456</loc>
@@ -6206,7 +6178,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/2273250354</loc>
-    <lastmod>2024-12-10</lastmod>
+    <lastmod>2026-08-06</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/2275205415</loc>
@@ -6215,6 +6187,10 @@
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/2278971102</loc>
     <lastmod>2020-10-07</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/osn/2279651192</loc>
+    <lastmod>2026-07-13</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/2283062317</loc>
@@ -6250,7 +6226,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/2299811798</loc>
-    <lastmod>2025-08-09</lastmod>
+    <lastmod>2026-07-12</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/2299862276</loc>
@@ -6330,7 +6306,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/2326838978</loc>
-    <lastmod>2022-12-28</lastmod>
+    <lastmod>2026-08-05</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/2327164070</loc>
@@ -6453,10 +6429,6 @@
     <lastmod>2024-12-29</lastmod>
   </url>
   <url>
-    <loc>https://bitcoinitalianetwork.com/osn/2366096809</loc>
-    <lastmod>2026-04-13</lastmod>
-  </url>
-  <url>
     <loc>https://bitcoinitalianetwork.com/osn/2368309185</loc>
     <lastmod>2025-10-07</lastmod>
   </url>
@@ -6494,7 +6466,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/2375853564</loc>
-    <lastmod>2024-12-31</lastmod>
+    <lastmod>2026-07-30</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/2376026773</loc>
@@ -6523,6 +6495,10 @@
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/2383557276</loc>
     <lastmod>2024-12-30</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/osn/2385029858</loc>
+    <lastmod>2026-07-26</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/2387910038</loc>
@@ -6638,7 +6614,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/2411123346</loc>
-    <lastmod>2025-12-14</lastmod>
+    <lastmod>2026-06-10</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/2412833409</loc>
@@ -6690,7 +6666,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/2429524298</loc>
-    <lastmod>2025-03-14</lastmod>
+    <lastmod>2026-06-20</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/2429716502</loc>
@@ -6718,7 +6694,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/2434907409</loc>
-    <lastmod>2025-10-22</lastmod>
+    <lastmod>2026-08-10</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/2437296434</loc>
@@ -6742,11 +6718,11 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/2441595405</loc>
-    <lastmod>2023-09-23</lastmod>
+    <lastmod>2026-08-07</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/2441640418</loc>
-    <lastmod>2026-01-18</lastmod>
+    <lastmod>2026-06-26</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/2443474961</loc>
@@ -6945,6 +6921,10 @@
     <lastmod>2026-01-23</lastmod>
   </url>
   <url>
+    <loc>https://bitcoinitalianetwork.com/osn/2520917937</loc>
+    <lastmod>2026-07-03</lastmod>
+  </url>
+  <url>
     <loc>https://bitcoinitalianetwork.com/osn/2522211618</loc>
     <lastmod>2026-02-13</lastmod>
   </url>
@@ -7010,7 +6990,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/2538783212</loc>
-    <lastmod>2025-04-05</lastmod>
+    <lastmod>2026-07-28</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/2542371249</loc>
@@ -7094,7 +7074,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/2569978163</loc>
-    <lastmod>2025-01-03</lastmod>
+    <lastmod>2026-07-18</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/2575567888</loc>
@@ -7118,7 +7098,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/2576987957</loc>
-    <lastmod>2024-09-18</lastmod>
+    <lastmod>2026-06-27</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/2578379452</loc>
@@ -7282,7 +7262,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/2651001477</loc>
-    <lastmod>2025-10-16</lastmod>
+    <lastmod>2026-06-23</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/2652250107</loc>
@@ -7354,67 +7334,59 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/2718102429</loc>
-    <lastmod>2024-09-26</lastmod>
+    <lastmod>2026-07-15</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/2718103194</loc>
-    <lastmod>2025-01-15</lastmod>
+    <lastmod>2026-06-14</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/2718103390</loc>
-    <lastmod>2023-06-26</lastmod>
-  </url>
-  <url>
-    <loc>https://bitcoinitalianetwork.com/osn/2718109273</loc>
-    <lastmod>2023-06-15</lastmod>
+    <lastmod>2026-06-14</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/2718119263</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2026-06-13</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/2718127037</loc>
-    <lastmod>2025-06-08</lastmod>
+    <lastmod>2026-06-14</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/2718136968</loc>
-    <lastmod>2024-12-04</lastmod>
+    <lastmod>2026-06-13</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/2718148984</loc>
-    <lastmod>2023-01-15</lastmod>
+    <lastmod>2026-06-13</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/2718149226</loc>
-    <lastmod>2026-01-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bitcoinitalianetwork.com/osn/2718169287</loc>
-    <lastmod>2024-04-09</lastmod>
+    <lastmod>2026-06-14</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/2718175926</loc>
-    <lastmod>2026-01-02</lastmod>
+    <lastmod>2026-07-15</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/2718176939</loc>
-    <lastmod>2025-12-29</lastmod>
+    <lastmod>2026-06-14</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/2718188813</loc>
-    <lastmod>2025-01-12</lastmod>
+    <lastmod>2026-06-14</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/2718195221</loc>
-    <lastmod>2024-11-10</lastmod>
+    <lastmod>2026-06-13</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/2718201402</loc>
-    <lastmod>2022-07-01</lastmod>
+    <lastmod>2026-06-23</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/2718202304</loc>
-    <lastmod>2025-01-03</lastmod>
+    <lastmod>2026-06-14</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/2721631644</loc>
@@ -7446,7 +7418,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/2749457130</loc>
-    <lastmod>2026-01-18</lastmod>
+    <lastmod>2026-06-26</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/2749562856</loc>
@@ -7466,7 +7438,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/2749774355</loc>
-    <lastmod>2024-10-09</lastmod>
+    <lastmod>2026-07-27</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/2755178120</loc>
@@ -7514,7 +7486,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/2770307234</loc>
-    <lastmod>2025-10-29</lastmod>
+    <lastmod>2026-08-09</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/2774886221</loc>
@@ -7566,7 +7538,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/2822820174</loc>
-    <lastmod>2024-12-31</lastmod>
+    <lastmod>2026-06-20</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/2834100271</loc>
@@ -7614,7 +7586,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/2874070228</loc>
-    <lastmod>2025-10-27</lastmod>
+    <lastmod>2026-06-26</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/2885490302</loc>
@@ -7630,7 +7602,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/2889073425</loc>
-    <lastmod>2024-01-28</lastmod>
+    <lastmod>2026-07-24</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/2893321558</loc>
@@ -7806,11 +7778,15 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/2975437560</loc>
-    <lastmod>2026-06-03</lastmod>
+    <lastmod>2026-08-13</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/2976102717</loc>
     <lastmod>2026-01-18</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/osn/2977717036</loc>
+    <lastmod>2026-07-06</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/2980798190</loc>
@@ -7834,7 +7810,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/2983263506</loc>
-    <lastmod>2025-07-08</lastmod>
+    <lastmod>2026-08-04</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/2983282400</loc>
@@ -7874,11 +7850,11 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/2996234133</loc>
-    <lastmod>2025-04-24</lastmod>
+    <lastmod>2026-08-08</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/2997490524</loc>
-    <lastmod>2026-05-15</lastmod>
+    <lastmod>2026-06-12</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/2999849623</loc>
@@ -7990,7 +7966,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/3045625648</loc>
-    <lastmod>2025-11-28</lastmod>
+    <lastmod>2026-06-16</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/3045832512</loc>
@@ -8102,7 +8078,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/3082703487</loc>
-    <lastmod>2025-10-02</lastmod>
+    <lastmod>2026-06-20</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/3085823201</loc>
@@ -8134,7 +8110,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/3102271821</loc>
-    <lastmod>2026-05-06</lastmod>
+    <lastmod>2026-07-07</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/3102449701</loc>
@@ -8319,10 +8295,6 @@
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/3253606468</loc>
     <lastmod>2024-04-23</lastmod>
-  </url>
-  <url>
-    <loc>https://bitcoinitalianetwork.com/osn/3256308559</loc>
-    <lastmod>2020-06-02</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/3257141396</loc>
@@ -8658,7 +8630,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/3522321710</loc>
-    <lastmod>2026-05-24</lastmod>
+    <lastmod>2026-06-20</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/3538823735</loc>
@@ -8757,6 +8729,10 @@
     <lastmod>2026-05-30</lastmod>
   </url>
   <url>
+    <loc>https://bitcoinitalianetwork.com/osn/3633904373</loc>
+    <lastmod>2026-07-27</lastmod>
+  </url>
+  <url>
     <loc>https://bitcoinitalianetwork.com/osn/3633925351</loc>
     <lastmod>2025-03-20</lastmod>
   </url>
@@ -8794,7 +8770,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/3645848575</loc>
-    <lastmod>2026-06-02</lastmod>
+    <lastmod>2026-06-17</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/3645888439</loc>
@@ -8857,10 +8833,6 @@
     <lastmod>2025-10-22</lastmod>
   </url>
   <url>
-    <loc>https://bitcoinitalianetwork.com/osn/3661324188</loc>
-    <lastmod>2024-10-01</lastmod>
-  </url>
-  <url>
     <loc>https://bitcoinitalianetwork.com/osn/3661329062</loc>
     <lastmod>2024-10-08</lastmod>
   </url>
@@ -8882,7 +8854,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/3672152668</loc>
-    <lastmod>2020-08-08</lastmod>
+    <lastmod>2026-07-25</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/3673083531</loc>
@@ -8898,7 +8870,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/3678615353</loc>
-    <lastmod>2024-10-08</lastmod>
+    <lastmod>2026-07-23</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/3684662158</loc>
@@ -9006,7 +8978,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/3731794322</loc>
-    <lastmod>2025-10-13</lastmod>
+    <lastmod>2026-07-07</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/3732555626</loc>
@@ -9019,10 +8991,6 @@
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/3735852143</loc>
     <lastmod>2025-10-30</lastmod>
-  </url>
-  <url>
-    <loc>https://bitcoinitalianetwork.com/osn/3740514165</loc>
-    <lastmod>2026-02-13</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/3741343756</loc>
@@ -9042,7 +9010,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/3744972929</loc>
-    <lastmod>2026-04-01</lastmod>
+    <lastmod>2026-06-17</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/3747304525</loc>
@@ -9062,7 +9030,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/3756148352</loc>
-    <lastmod>2025-02-22</lastmod>
+    <lastmod>2026-07-16</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/3761837227</loc>
@@ -9226,7 +9194,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/3840865897</loc>
-    <lastmod>2026-05-26</lastmod>
+    <lastmod>2026-07-09</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/3846569455</loc>
@@ -9509,12 +9477,16 @@
     <lastmod>2025-10-26</lastmod>
   </url>
   <url>
+    <loc>https://bitcoinitalianetwork.com/osn/4017753772</loc>
+    <lastmod>2026-06-14</lastmod>
+  </url>
+  <url>
     <loc>https://bitcoinitalianetwork.com/osn/4020170969</loc>
     <lastmod>2025-10-23</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/4020220201</loc>
-    <lastmod>2025-01-01</lastmod>
+    <lastmod>2026-08-07</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/4026523582</loc>
@@ -9526,7 +9498,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/4028359687</loc>
-    <lastmod>2022-01-05</lastmod>
+    <lastmod>2026-07-21</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/4032473716</loc>
@@ -9554,31 +9526,31 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/4043328516</loc>
-    <lastmod>2019-07-05</lastmod>
+    <lastmod>2026-07-12</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/4043328543</loc>
-    <lastmod>2023-03-16</lastmod>
+    <lastmod>2026-07-12</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/4043404351</loc>
-    <lastmod>2024-09-10</lastmod>
+    <lastmod>2026-07-12</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/4043404354</loc>
-    <lastmod>2019-07-05</lastmod>
+    <lastmod>2026-07-12</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/4043404358</loc>
-    <lastmod>2023-03-16</lastmod>
+    <lastmod>2026-07-12</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/4043587666</loc>
-    <lastmod>2024-09-10</lastmod>
+    <lastmod>2026-07-12</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/4043587682</loc>
-    <lastmod>2019-07-05</lastmod>
+    <lastmod>2026-07-12</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/4050191161</loc>
@@ -9621,10 +9593,6 @@
     <lastmod>2022-03-09</lastmod>
   </url>
   <url>
-    <loc>https://bitcoinitalianetwork.com/osn/4075631544</loc>
-    <lastmod>2021-11-14</lastmod>
-  </url>
-  <url>
     <loc>https://bitcoinitalianetwork.com/osn/4081156144</loc>
     <lastmod>2025-10-22</lastmod>
   </url>
@@ -9650,15 +9618,11 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/4099376402</loc>
-    <lastmod>2025-10-09</lastmod>
-  </url>
-  <url>
-    <loc>https://bitcoinitalianetwork.com/osn/4099376403</loc>
-    <lastmod>2025-11-09</lastmod>
+    <lastmod>2026-07-11</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/4099376406</loc>
-    <lastmod>2025-04-20</lastmod>
+    <lastmod>2026-07-11</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/4101510168</loc>
@@ -10082,7 +10046,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/4225436917</loc>
-    <lastmod>2021-06-15</lastmod>
+    <lastmod>2026-07-06</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/4226559875</loc>
@@ -10202,7 +10166,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/4235415901</loc>
-    <lastmod>2025-10-01</lastmod>
+    <lastmod>2026-07-30</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/4237469801</loc>
@@ -10254,7 +10218,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/4243015908</loc>
-    <lastmod>2022-07-25</lastmod>
+    <lastmod>2026-07-07</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/4243019585</loc>
@@ -10418,7 +10382,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/4319599455</loc>
-    <lastmod>2025-10-09</lastmod>
+    <lastmod>2026-07-03</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/4321620690</loc>
@@ -10542,23 +10506,23 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/4358976703</loc>
-    <lastmod>2025-10-20</lastmod>
+    <lastmod>2026-07-15</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/4358978095</loc>
-    <lastmod>2026-01-02</lastmod>
+    <lastmod>2026-06-14</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/4358994390</loc>
-    <lastmod>2026-01-04</lastmod>
+    <lastmod>2026-06-14</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/4359007296</loc>
-    <lastmod>2025-10-02</lastmod>
+    <lastmod>2026-06-14</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/4359144094</loc>
-    <lastmod>2025-12-01</lastmod>
+    <lastmod>2026-06-23</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/4361198599</loc>
@@ -10567,10 +10531,6 @@
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/4361915527</loc>
     <lastmod>2021-12-21</lastmod>
-  </url>
-  <url>
-    <loc>https://bitcoinitalianetwork.com/osn/4362395592</loc>
-    <lastmod>2023-11-23</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/4362489001</loc>
@@ -10602,7 +10562,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/4370761452</loc>
-    <lastmod>2024-03-14</lastmod>
+    <lastmod>2026-06-16</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/4372111951</loc>
@@ -10618,7 +10578,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/4376993312</loc>
-    <lastmod>2025-09-28</lastmod>
+    <lastmod>2026-07-30</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/4377024590</loc>
@@ -10746,7 +10706,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/4419249248</loc>
-    <lastmod>2023-06-24</lastmod>
+    <lastmod>2026-08-06</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/4426169980</loc>
@@ -10774,7 +10734,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/4438018230</loc>
-    <lastmod>2025-11-05</lastmod>
+    <lastmod>2026-06-20</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/4439029495</loc>
@@ -10850,7 +10810,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/4461237912</loc>
-    <lastmod>2025-09-25</lastmod>
+    <lastmod>2026-07-25</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/4464942750</loc>
@@ -10858,7 +10818,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/4467320792</loc>
-    <lastmod>2026-01-05</lastmod>
+    <lastmod>2026-06-23</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/4471074425</loc>
@@ -10914,7 +10874,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/4483048953</loc>
-    <lastmod>2022-10-06</lastmod>
+    <lastmod>2026-07-28</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/4483441397</loc>
@@ -10958,7 +10918,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/4493372188</loc>
-    <lastmod>2025-10-11</lastmod>
+    <lastmod>2026-07-26</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/4493908255</loc>
@@ -10967,6 +10927,10 @@
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/4495188172</loc>
     <lastmod>2025-10-16</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/osn/4495188463</loc>
+    <lastmod>2026-08-06</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/4495188478</loc>
@@ -11061,12 +11025,16 @@
     <lastmod>2026-03-24</lastmod>
   </url>
   <url>
+    <loc>https://bitcoinitalianetwork.com/osn/4501829819</loc>
+    <lastmod>2026-07-22</lastmod>
+  </url>
+  <url>
     <loc>https://bitcoinitalianetwork.com/osn/4502210180</loc>
     <lastmod>2024-04-13</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/4502403689</loc>
-    <lastmod>2025-01-09</lastmod>
+    <lastmod>2026-06-20</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/4502997754</loc>
@@ -11086,7 +11054,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/4512091635</loc>
-    <lastmod>2025-01-10</lastmod>
+    <lastmod>2026-06-10</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/4512561807</loc>
@@ -11161,12 +11129,20 @@
     <lastmod>2026-01-01</lastmod>
   </url>
   <url>
+    <loc>https://bitcoinitalianetwork.com/osn/4526682336</loc>
+    <lastmod>2026-07-06</lastmod>
+  </url>
+  <url>
     <loc>https://bitcoinitalianetwork.com/osn/4528337285</loc>
     <lastmod>2025-12-24</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/4528423299</loc>
     <lastmod>2024-08-06</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/osn/4530678055</loc>
+    <lastmod>2026-08-04</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/4531853523</loc>
@@ -11330,7 +11306,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/4554264733</loc>
-    <lastmod>2026-06-05</lastmod>
+    <lastmod>2026-07-08</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/4555324692</loc>
@@ -11346,7 +11322,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/4557760210</loc>
-    <lastmod>2023-11-17</lastmod>
+    <lastmod>2026-07-13</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/4558768592</loc>
@@ -11414,7 +11390,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/4565440256</loc>
-    <lastmod>2025-10-16</lastmod>
+    <lastmod>2026-08-11</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/4566536273</loc>
@@ -11446,7 +11422,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/4575538340</loc>
-    <lastmod>2025-09-22</lastmod>
+    <lastmod>2026-08-04</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/4577246993</loc>
@@ -11491,10 +11467,6 @@
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/4599904397</loc>
     <lastmod>2025-01-01</lastmod>
-  </url>
-  <url>
-    <loc>https://bitcoinitalianetwork.com/osn/4599961891</loc>
-    <lastmod>2024-08-16</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/4599990598</loc>
@@ -11566,7 +11538,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/4642385882</loc>
-    <lastmod>2025-08-23</lastmod>
+    <lastmod>2026-06-30</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/4646708555</loc>
@@ -11607,6 +11579,10 @@
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/4680373408</loc>
     <lastmod>2025-10-25</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/osn/4680377993</loc>
+    <lastmod>2026-08-12</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/4682111435</loc>
@@ -11693,6 +11669,10 @@
     <lastmod>2024-09-23</lastmod>
   </url>
   <url>
+    <loc>https://bitcoinitalianetwork.com/osn/4712482636</loc>
+    <lastmod>2026-07-26</lastmod>
+  </url>
+  <url>
     <loc>https://bitcoinitalianetwork.com/osn/4712517936</loc>
     <lastmod>2023-08-02</lastmod>
   </url>
@@ -11746,7 +11726,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/4730916114</loc>
-    <lastmod>2026-06-04</lastmod>
+    <lastmod>2026-07-01</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/4731930321</loc>
@@ -11863,10 +11843,6 @@
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/4751588835</loc>
     <lastmod>2021-10-12</lastmod>
-  </url>
-  <url>
-    <loc>https://bitcoinitalianetwork.com/osn/4751646883</loc>
-    <lastmod>2023-02-22</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/4751657841</loc>
@@ -12086,7 +12062,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/4786849312</loc>
-    <lastmod>2025-01-01</lastmod>
+    <lastmod>2026-07-03</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/4786940826</loc>
@@ -12234,7 +12210,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/4850372672</loc>
-    <lastmod>2024-07-07</lastmod>
+    <lastmod>2026-07-28</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/4852115414</loc>
@@ -12242,7 +12218,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/4853591024</loc>
-    <lastmod>2025-10-18</lastmod>
+    <lastmod>2026-08-11</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/4855618125</loc>
@@ -12262,7 +12238,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/4864383976</loc>
-    <lastmod>2026-05-01</lastmod>
+    <lastmod>2026-06-14</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/4864389514</loc>
@@ -12330,7 +12306,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/4910975902</loc>
-    <lastmod>2026-05-12</lastmod>
+    <lastmod>2026-07-28</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/4910975903</loc>
@@ -12350,7 +12326,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/4916909377</loc>
-    <lastmod>2025-01-03</lastmod>
+    <lastmod>2026-08-04</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/4917578948</loc>
@@ -12359,6 +12335,10 @@
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/4921865544</loc>
     <lastmod>2025-10-29</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/osn/4926759730</loc>
+    <lastmod>2026-08-06</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/4927451533</loc>
@@ -12450,7 +12430,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/4958779928</loc>
-    <lastmod>2025-10-18</lastmod>
+    <lastmod>2026-07-07</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/4960417103</loc>
@@ -12538,7 +12518,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/5003847304</loc>
-    <lastmod>2023-11-04</lastmod>
+    <lastmod>2026-07-03</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/5010340851</loc>
@@ -12561,12 +12541,8 @@
     <lastmod>2025-10-05</lastmod>
   </url>
   <url>
-    <loc>https://bitcoinitalianetwork.com/osn/5026721776</loc>
-    <lastmod>2024-01-01</lastmod>
-  </url>
-  <url>
     <loc>https://bitcoinitalianetwork.com/osn/5026887065</loc>
-    <lastmod>2024-01-01</lastmod>
+    <lastmod>2026-07-18</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/5027150521</loc>
@@ -12707,6 +12683,10 @@
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/5073003207</loc>
     <lastmod>2025-01-03</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/osn/5074839004</loc>
+    <lastmod>2026-08-06</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/5074901393</loc>
@@ -12918,7 +12898,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/5163169822</loc>
-    <lastmod>2025-10-16</lastmod>
+    <lastmod>2026-07-11</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/5163965034</loc>
@@ -13102,7 +13082,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/5256543423</loc>
-    <lastmod>2023-04-28</lastmod>
+    <lastmod>2026-07-26</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/5256602087</loc>
@@ -13182,7 +13162,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/5280108646</loc>
-    <lastmod>2025-10-03</lastmod>
+    <lastmod>2026-07-25</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/5282499957</loc>
@@ -13306,7 +13286,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/5315186946</loc>
-    <lastmod>2025-09-27</lastmod>
+    <lastmod>2026-07-23</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/5316635156</loc>
@@ -13346,7 +13326,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/5321726822</loc>
-    <lastmod>2022-10-02</lastmod>
+    <lastmod>2026-06-17</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/5322351029</loc>
@@ -13490,7 +13470,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/5397116320</loc>
-    <lastmod>2023-08-21</lastmod>
+    <lastmod>2026-07-23</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/5398533032</loc>
@@ -13681,6 +13661,10 @@
     <lastmod>2025-07-31</lastmod>
   </url>
   <url>
+    <loc>https://bitcoinitalianetwork.com/osn/5468797624</loc>
+    <lastmod>2026-07-30</lastmod>
+  </url>
+  <url>
     <loc>https://bitcoinitalianetwork.com/osn/5471440794</loc>
     <lastmod>2024-04-18</lastmod>
   </url>
@@ -13750,7 +13734,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/5514874061</loc>
-    <lastmod>2026-05-11</lastmod>
+    <lastmod>2026-06-12</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/5522090526</loc>
@@ -14203,10 +14187,6 @@
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/5801524489</loc>
     <lastmod>2025-02-05</lastmod>
-  </url>
-  <url>
-    <loc>https://bitcoinitalianetwork.com/osn/5801873454</loc>
-    <lastmod>2024-04-18</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/5802493877</loc>
@@ -15017,6 +14997,10 @@
     <lastmod>2025-10-02</lastmod>
   </url>
   <url>
+    <loc>https://bitcoinitalianetwork.com/osn/5851837895</loc>
+    <lastmod>2026-07-31</lastmod>
+  </url>
+  <url>
     <loc>https://bitcoinitalianetwork.com/osn/5851837906</loc>
     <lastmod>2025-10-16</lastmod>
   </url>
@@ -15169,10 +15153,6 @@
     <lastmod>2025-10-22</lastmod>
   </url>
   <url>
-    <loc>https://bitcoinitalianetwork.com/osn/5851842338</loc>
-    <lastmod>2025-10-18</lastmod>
-  </url>
-  <url>
     <loc>https://bitcoinitalianetwork.com/osn/5851842363</loc>
     <lastmod>2025-10-16</lastmod>
   </url>
@@ -15182,7 +15162,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/5851842375</loc>
-    <lastmod>2024-02-10</lastmod>
+    <lastmod>2026-07-05</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/5851842486</loc>
@@ -15301,10 +15281,6 @@
     <lastmod>2025-10-16</lastmod>
   </url>
   <url>
-    <loc>https://bitcoinitalianetwork.com/osn/5851843269</loc>
-    <lastmod>2025-10-16</lastmod>
-  </url>
-  <url>
     <loc>https://bitcoinitalianetwork.com/osn/5851843286</loc>
     <lastmod>2025-10-22</lastmod>
   </url>
@@ -15350,10 +15326,6 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/5851843642</loc>
-    <lastmod>2025-10-01</lastmod>
-  </url>
-  <url>
-    <loc>https://bitcoinitalianetwork.com/osn/5851843653</loc>
     <lastmod>2025-10-01</lastmod>
   </url>
   <url>
@@ -15578,7 +15550,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/5851845575</loc>
-    <lastmod>2025-10-16</lastmod>
+    <lastmod>2026-06-13</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/5851845613</loc>
@@ -15594,7 +15566,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/5851845654</loc>
-    <lastmod>2024-01-19</lastmod>
+    <lastmod>2026-07-27</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/5851845657</loc>
@@ -15682,7 +15654,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/5872927686</loc>
-    <lastmod>2026-03-08</lastmod>
+    <lastmod>2026-06-23</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/5874505016</loc>
@@ -15726,7 +15698,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/5895470794</loc>
-    <lastmod>2025-11-03</lastmod>
+    <lastmod>2026-08-07</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/5899698482</loc>
@@ -15750,7 +15722,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/5909626148</loc>
-    <lastmod>2024-08-06</lastmod>
+    <lastmod>2026-08-09</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/5909823662</loc>
@@ -15769,6 +15741,10 @@
     <lastmod>2025-11-08</lastmod>
   </url>
   <url>
+    <loc>https://bitcoinitalianetwork.com/osn/5937846185</loc>
+    <lastmod>2026-06-26</lastmod>
+  </url>
+  <url>
     <loc>https://bitcoinitalianetwork.com/osn/5948417988</loc>
     <lastmod>2025-03-11</lastmod>
   </url>
@@ -15779,10 +15755,6 @@
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/5953504088</loc>
     <lastmod>2024-11-10</lastmod>
-  </url>
-  <url>
-    <loc>https://bitcoinitalianetwork.com/osn/5954144929</loc>
-    <lastmod>2023-07-21</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/5959527686</loc>
@@ -15894,7 +15866,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/6058231448</loc>
-    <lastmod>2025-10-18</lastmod>
+    <lastmod>2026-07-23</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/6058232631</loc>
@@ -15962,7 +15934,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/6110498860</loc>
-    <lastmod>2026-04-16</lastmod>
+    <lastmod>2026-07-28</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/6110507093</loc>
@@ -16002,7 +15974,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/6124648009</loc>
-    <lastmod>2025-10-16</lastmod>
+    <lastmod>2026-07-28</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/6124648015</loc>
@@ -16010,7 +15982,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/6124649132</loc>
-    <lastmod>2026-04-16</lastmod>
+    <lastmod>2026-07-28</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/6124669914</loc>
@@ -16213,10 +16185,6 @@
     <lastmod>2024-05-15</lastmod>
   </url>
   <url>
-    <loc>https://bitcoinitalianetwork.com/osn/6236567436</loc>
-    <lastmod>2024-08-24</lastmod>
-  </url>
-  <url>
     <loc>https://bitcoinitalianetwork.com/osn/6236578883</loc>
     <lastmod>2022-12-28</lastmod>
   </url>
@@ -16250,7 +16218,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/6252108178</loc>
-    <lastmod>2026-05-17</lastmod>
+    <lastmod>2026-07-14</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/6255654477</loc>
@@ -16262,7 +16230,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/6269292539</loc>
-    <lastmod>2025-10-23</lastmod>
+    <lastmod>2026-07-21</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/6283162333</loc>
@@ -16418,7 +16386,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/6403084267</loc>
-    <lastmod>2025-10-17</lastmod>
+    <lastmod>2026-07-28</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/6412171986</loc>
@@ -16426,7 +16394,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/6412171990</loc>
-    <lastmod>2025-12-08</lastmod>
+    <lastmod>2026-06-12</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/6416390291</loc>
@@ -16561,10 +16529,6 @@
     <lastmod>2026-05-26</lastmod>
   </url>
   <url>
-    <loc>https://bitcoinitalianetwork.com/osn/6515177188</loc>
-    <lastmod>2025-10-26</lastmod>
-  </url>
-  <url>
     <loc>https://bitcoinitalianetwork.com/osn/6516189186</loc>
     <lastmod>2025-10-04</lastmod>
   </url>
@@ -16598,7 +16562,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/6541841947</loc>
-    <lastmod>2025-10-17</lastmod>
+    <lastmod>2026-07-28</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/6541875999</loc>
@@ -16606,7 +16570,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/6541876003</loc>
-    <lastmod>2026-02-02</lastmod>
+    <lastmod>2026-07-23</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/6541876005</loc>
@@ -16614,7 +16578,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/6542455191</loc>
-    <lastmod>2025-10-16</lastmod>
+    <lastmod>2026-07-28</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/6544567060</loc>
@@ -16657,6 +16621,10 @@
     <lastmod>2025-04-20</lastmod>
   </url>
   <url>
+    <loc>https://bitcoinitalianetwork.com/osn/6564712601</loc>
+    <lastmod>2026-06-25</lastmod>
+  </url>
+  <url>
     <loc>https://bitcoinitalianetwork.com/osn/6566766788</loc>
     <lastmod>2025-10-17</lastmod>
   </url>
@@ -16671,6 +16639,10 @@
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/6570367263</loc>
     <lastmod>2024-04-17</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/osn/6570728778</loc>
+    <lastmod>2026-08-01</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/6574354899</loc>
@@ -16798,7 +16770,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/6741788063</loc>
-    <lastmod>2026-03-24</lastmod>
+    <lastmod>2026-07-16</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/6742717285</loc>
@@ -16906,7 +16878,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/6810086686</loc>
-    <lastmod>2026-01-24</lastmod>
+    <lastmod>2026-07-26</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/6816005058</loc>
@@ -16970,7 +16942,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/6852717735</loc>
-    <lastmod>2024-05-26</lastmod>
+    <lastmod>2026-08-03</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/6853720953</loc>
@@ -17262,7 +17234,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/7099334476</loc>
-    <lastmod>2025-02-17</lastmod>
+    <lastmod>2026-08-13</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/7101491228</loc>
@@ -17279,6 +17251,10 @@
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/7107901900</loc>
     <lastmod>2025-08-05</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/osn/7108044365</loc>
+    <lastmod>2026-07-23</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/7110524363</loc>
@@ -17453,12 +17429,8 @@
     <lastmod>2025-05-10</lastmod>
   </url>
   <url>
-    <loc>https://bitcoinitalianetwork.com/osn/7267096142</loc>
-    <lastmod>2025-10-09</lastmod>
-  </url>
-  <url>
     <loc>https://bitcoinitalianetwork.com/osn/7267096143</loc>
-    <lastmod>2025-10-29</lastmod>
+    <lastmod>2026-06-09</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/7269719342</loc>
@@ -17550,7 +17522,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/7343040350</loc>
-    <lastmod>2025-10-23</lastmod>
+    <lastmod>2026-07-22</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/7345773996</loc>
@@ -17626,7 +17598,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/7422240103</loc>
-    <lastmod>2025-10-04</lastmod>
+    <lastmod>2026-06-18</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/7422318576</loc>
@@ -17642,7 +17614,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/7439804881</loc>
-    <lastmod>2024-11-25</lastmod>
+    <lastmod>2026-06-10</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/7448895574</loc>
@@ -17734,7 +17706,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/7512127904</loc>
-    <lastmod>2020-05-12</lastmod>
+    <lastmod>2026-07-03</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/7512172489</loc>
@@ -17742,7 +17714,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/7512199305</loc>
-    <lastmod>2024-12-01</lastmod>
+    <lastmod>2026-06-13</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/7512983883</loc>
@@ -17751,10 +17723,6 @@
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/7513686164</loc>
     <lastmod>2025-08-31</lastmod>
-  </url>
-  <url>
-    <loc>https://bitcoinitalianetwork.com/osn/7515321915</loc>
-    <lastmod>2021-07-15</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/7518831830</loc>
@@ -18006,7 +17974,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/7704745297</loc>
-    <lastmod>2026-04-11</lastmod>
+    <lastmod>2026-07-25</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/7709659823</loc>
@@ -18015,10 +17983,6 @@
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/7713971200</loc>
     <lastmod>2022-10-06</lastmod>
-  </url>
-  <url>
-    <loc>https://bitcoinitalianetwork.com/osn/7723999222</loc>
-    <lastmod>2025-10-05</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/7730718302</loc>
@@ -18066,7 +18030,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/7798468175</loc>
-    <lastmod>2025-01-02</lastmod>
+    <lastmod>2026-07-07</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/7798539888</loc>
@@ -18138,7 +18102,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/7845523053</loc>
-    <lastmod>2026-02-11</lastmod>
+    <lastmod>2026-08-04</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/7845550691</loc>
@@ -18203,10 +18167,6 @@
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/7876636375</loc>
     <lastmod>2025-01-03</lastmod>
-  </url>
-  <url>
-    <loc>https://bitcoinitalianetwork.com/osn/7876694601</loc>
-    <lastmod>2022-04-30</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/7876694602</loc>
@@ -18433,10 +18393,6 @@
     <lastmod>2025-10-06</lastmod>
   </url>
   <url>
-    <loc>https://bitcoinitalianetwork.com/osn/8049310762</loc>
-    <lastmod>2022-05-16</lastmod>
-  </url>
-  <url>
     <loc>https://bitcoinitalianetwork.com/osn/8071333930</loc>
     <lastmod>2024-11-01</lastmod>
   </url>
@@ -18447,10 +18403,6 @@
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/8077523804</loc>
     <lastmod>2025-01-03</lastmod>
-  </url>
-  <url>
-    <loc>https://bitcoinitalianetwork.com/osn/8090970557</loc>
-    <lastmod>2025-09-29</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/8092047992</loc>
@@ -18466,7 +18418,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/8118353723</loc>
-    <lastmod>2025-04-20</lastmod>
+    <lastmod>2026-07-08</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/8118353729</loc>
@@ -18701,10 +18653,6 @@
     <lastmod>2024-10-09</lastmod>
   </url>
   <url>
-    <loc>https://bitcoinitalianetwork.com/osn/8262329097</loc>
-    <lastmod>2024-10-09</lastmod>
-  </url>
-  <url>
     <loc>https://bitcoinitalianetwork.com/osn/8262329098</loc>
     <lastmod>2025-10-26</lastmod>
   </url>
@@ -18790,7 +18738,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/8305661076</loc>
-    <lastmod>2021-01-09</lastmod>
+    <lastmod>2026-07-28</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/8306811405</loc>
@@ -18850,11 +18798,11 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/8337402442</loc>
-    <lastmod>2025-11-23</lastmod>
+    <lastmod>2026-07-10</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/8357875521</loc>
-    <lastmod>2026-02-09</lastmod>
+    <lastmod>2026-06-20</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/8365490751</loc>
@@ -18863,6 +18811,10 @@
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/8373332335</loc>
     <lastmod>2024-05-01</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/osn/8395348117</loc>
+    <lastmod>2026-08-14</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/8397238367</loc>
@@ -19170,7 +19122,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/8701286579</loc>
-    <lastmod>2026-02-27</lastmod>
+    <lastmod>2026-06-18</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/8706247731</loc>
@@ -19178,7 +19130,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/8714341448</loc>
-    <lastmod>2025-11-09</lastmod>
+    <lastmod>2026-07-12</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/8724233825</loc>
@@ -19270,7 +19222,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/8754750977</loc>
-    <lastmod>2026-03-22</lastmod>
+    <lastmod>2026-06-19</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/8757396586</loc>
@@ -19534,7 +19486,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/8927051444</loc>
-    <lastmod>2025-05-27</lastmod>
+    <lastmod>2026-06-30</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/8928293376</loc>
@@ -19649,10 +19601,6 @@
     <lastmod>2025-10-29</lastmod>
   </url>
   <url>
-    <loc>https://bitcoinitalianetwork.com/osn/8972918797</loc>
-    <lastmod>2024-10-08</lastmod>
-  </url>
-  <url>
     <loc>https://bitcoinitalianetwork.com/osn/8972940870</loc>
     <lastmod>2024-12-18</lastmod>
   </url>
@@ -19750,7 +19698,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/9026899553</loc>
-    <lastmod>2025-01-03</lastmod>
+    <lastmod>2026-06-25</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/9027226042</loc>
@@ -19790,7 +19738,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/9051307998</loc>
-    <lastmod>2025-10-02</lastmod>
+    <lastmod>2026-08-04</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/9051308003</loc>
@@ -19834,7 +19782,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/9069496632</loc>
-    <lastmod>2026-01-07</lastmod>
+    <lastmod>2026-08-03</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/9069654292</loc>
@@ -20054,7 +20002,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/9119386050</loc>
-    <lastmod>2025-01-03</lastmod>
+    <lastmod>2026-06-25</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/9120946309</loc>
@@ -20149,6 +20097,10 @@
     <lastmod>2025-10-22</lastmod>
   </url>
   <url>
+    <loc>https://bitcoinitalianetwork.com/osn/9162046116</loc>
+    <lastmod>2026-08-03</lastmod>
+  </url>
+  <url>
     <loc>https://bitcoinitalianetwork.com/osn/9162056506</loc>
     <lastmod>2025-10-11</lastmod>
   </url>
@@ -20214,7 +20166,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/9176581961</loc>
-    <lastmod>2022-07-06</lastmod>
+    <lastmod>2026-06-26</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/9183675806</loc>
@@ -20309,10 +20261,6 @@
     <lastmod>2025-12-20</lastmod>
   </url>
   <url>
-    <loc>https://bitcoinitalianetwork.com/osn/9271991195</loc>
-    <lastmod>2025-10-27</lastmod>
-  </url>
-  <url>
     <loc>https://bitcoinitalianetwork.com/osn/9271991201</loc>
     <lastmod>2025-10-27</lastmod>
   </url>
@@ -20350,7 +20298,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/9292822763</loc>
-    <lastmod>2024-09-20</lastmod>
+    <lastmod>2026-07-08</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/9306248725</loc>
@@ -20406,11 +20354,11 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/9329464275</loc>
-    <lastmod>2021-12-11</lastmod>
+    <lastmod>2026-08-06</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/9329464278</loc>
-    <lastmod>2021-12-11</lastmod>
+    <lastmod>2026-08-06</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/9329464282</loc>
@@ -20470,11 +20418,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/9371021882</loc>
-    <lastmod>2025-10-02</lastmod>
-  </url>
-  <url>
-    <loc>https://bitcoinitalianetwork.com/osn/9380538791</loc>
-    <lastmod>2025-10-26</lastmod>
+    <lastmod>2026-07-30</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/9382445468</loc>
@@ -21126,7 +21070,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/9770542778</loc>
-    <lastmod>2023-02-11</lastmod>
+    <lastmod>2026-08-04</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/9770542781</loc>
@@ -21134,7 +21078,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/9770542786</loc>
-    <lastmod>2025-01-03</lastmod>
+    <lastmod>2026-08-04</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/9770542787</loc>
@@ -21142,7 +21086,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/9770542789</loc>
-    <lastmod>2023-02-11</lastmod>
+    <lastmod>2026-08-04</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/9773490549</loc>
@@ -21158,7 +21102,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/9779572708</loc>
-    <lastmod>2025-11-14</lastmod>
+    <lastmod>2026-07-21</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/9779933033</loc>
@@ -21246,7 +21190,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/9823311359</loc>
-    <lastmod>2025-08-01</lastmod>
+    <lastmod>2026-07-07</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/9828599396</loc>
@@ -21674,7 +21618,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/9983122033</loc>
-    <lastmod>2025-10-08</lastmod>
+    <lastmod>2026-07-28</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/9986973333</loc>
@@ -21714,7 +21658,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/10008365447</loc>
-    <lastmod>2026-03-13</lastmod>
+    <lastmod>2026-07-26</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/10009189170</loc>
@@ -21722,7 +21666,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/10009529547</loc>
-    <lastmod>2026-01-24</lastmod>
+    <lastmod>2026-08-13</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/10010161162</loc>
@@ -21818,7 +21762,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/10066873085</loc>
-    <lastmod>2025-10-16</lastmod>
+    <lastmod>2026-06-20</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/10068628496</loc>
@@ -22055,6 +21999,10 @@
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/10132513173</loc>
     <lastmod>2024-10-01</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/osn/10137737859</loc>
+    <lastmod>2026-06-10</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/10137956228</loc>
@@ -22434,7 +22382,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/10248794382</loc>
-    <lastmod>2024-05-19</lastmod>
+    <lastmod>2026-06-14</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/10248975069</loc>
@@ -22678,7 +22626,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/10296719986</loc>
-    <lastmod>2025-11-02</lastmod>
+    <lastmod>2026-07-10</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/10296719988</loc>
@@ -22750,7 +22698,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/10312958934</loc>
-    <lastmod>2025-10-15</lastmod>
+    <lastmod>2026-08-04</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/10314552832</loc>
@@ -22838,7 +22786,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/10568121547</loc>
-    <lastmod>2024-04-29</lastmod>
+    <lastmod>2026-07-03</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/10568157405</loc>
@@ -22886,19 +22834,19 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/10586735224</loc>
-    <lastmod>2025-01-01</lastmod>
+    <lastmod>2026-07-10</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/10586735225</loc>
-    <lastmod>2025-10-25</lastmod>
+    <lastmod>2026-07-10</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/10586735232</loc>
-    <lastmod>2023-01-27</lastmod>
+    <lastmod>2026-07-10</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/10586735248</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-07-10</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/10586735250</loc>
@@ -22949,12 +22897,8 @@
     <lastmod>2025-10-22</lastmod>
   </url>
   <url>
-    <loc>https://bitcoinitalianetwork.com/osn/10614529930</loc>
-    <lastmod>2023-02-07</lastmod>
-  </url>
-  <url>
     <loc>https://bitcoinitalianetwork.com/osn/10616413306</loc>
-    <lastmod>2024-09-22</lastmod>
+    <lastmod>2026-08-04</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/10617411549</loc>
@@ -23134,7 +23078,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/10698237255</loc>
-    <lastmod>2026-01-11</lastmod>
+    <lastmod>2026-06-26</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/10698237262</loc>
@@ -23178,7 +23122,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/10711686371</loc>
-    <lastmod>2025-01-07</lastmod>
+    <lastmod>2026-07-23</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/10712389481</loc>
@@ -23198,7 +23142,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/10718744089</loc>
-    <lastmod>2024-01-01</lastmod>
+    <lastmod>2026-08-08</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/10721887873</loc>
@@ -23298,7 +23242,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/10761438067</loc>
-    <lastmod>2025-01-05</lastmod>
+    <lastmod>2026-08-12</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/10763277354</loc>
@@ -23365,8 +23309,8 @@
     <lastmod>2024-09-22</lastmod>
   </url>
   <url>
-    <loc>https://bitcoinitalianetwork.com/osn/10787745479</loc>
-    <lastmod>2024-10-13</lastmod>
+    <loc>https://bitcoinitalianetwork.com/osn/10785228401</loc>
+    <lastmod>2026-06-16</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/10788155081</loc>
@@ -23375,10 +23319,6 @@
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/10788160129</loc>
     <lastmod>2025-10-15</lastmod>
-  </url>
-  <url>
-    <loc>https://bitcoinitalianetwork.com/osn/10788250052</loc>
-    <lastmod>2025-11-12</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/10788254893</loc>
@@ -23465,10 +23405,6 @@
     <lastmod>2023-04-10</lastmod>
   </url>
   <url>
-    <loc>https://bitcoinitalianetwork.com/osn/10801416053</loc>
-    <lastmod>2026-03-31</lastmod>
-  </url>
-  <url>
     <loc>https://bitcoinitalianetwork.com/osn/10801651077</loc>
     <lastmod>2024-12-02</lastmod>
   </url>
@@ -23482,7 +23418,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/10804030675</loc>
-    <lastmod>2026-03-12</lastmod>
+    <lastmod>2026-07-26</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/10804030679</loc>
@@ -23614,7 +23550,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/10853270351</loc>
-    <lastmod>2025-10-21</lastmod>
+    <lastmod>2026-06-27</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/10853995819</loc>
@@ -23857,10 +23793,6 @@
     <lastmod>2025-01-17</lastmod>
   </url>
   <url>
-    <loc>https://bitcoinitalianetwork.com/osn/10936601683</loc>
-    <lastmod>2025-10-27</lastmod>
-  </url>
-  <url>
     <loc>https://bitcoinitalianetwork.com/osn/10937258051</loc>
     <lastmod>2024-01-11</lastmod>
   </url>
@@ -23938,7 +23870,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/10957778327</loc>
-    <lastmod>2025-10-19</lastmod>
+    <lastmod>2026-07-28</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/10959864597</loc>
@@ -24058,7 +23990,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/10997191065</loc>
-    <lastmod>2025-01-02</lastmod>
+    <lastmod>2026-07-10</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/11001343015</loc>
@@ -24102,7 +24034,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/11009726518</loc>
-    <lastmod>2025-10-19</lastmod>
+    <lastmod>2026-07-27</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/11010116583</loc>
@@ -24110,7 +24042,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/11012762989</loc>
-    <lastmod>2025-10-06</lastmod>
+    <lastmod>2026-06-20</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/11013494086</loc>
@@ -24182,7 +24114,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/11037926325</loc>
-    <lastmod>2025-01-31</lastmod>
+    <lastmod>2026-07-10</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/11039453605</loc>
@@ -24250,7 +24182,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/11069222577</loc>
-    <lastmod>2024-09-27</lastmod>
+    <lastmod>2026-08-01</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/11069655003</loc>
@@ -24270,7 +24202,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/11078794333</loc>
-    <lastmod>2025-01-02</lastmod>
+    <lastmod>2026-07-04</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/11078865521</loc>
@@ -24327,6 +24259,10 @@
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/11114519781</loc>
     <lastmod>2023-08-14</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/osn/11114519787</loc>
+    <lastmod>2026-08-03</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/11114837111</loc>
@@ -24442,7 +24378,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/11141801481</loc>
-    <lastmod>2025-10-08</lastmod>
+    <lastmod>2026-07-14</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/11141939529</loc>
@@ -24558,7 +24494,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/11186771119</loc>
-    <lastmod>2025-10-23</lastmod>
+    <lastmod>2026-07-25</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/11187718881</loc>
@@ -24598,7 +24534,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/11200067892</loc>
-    <lastmod>2025-10-06</lastmod>
+    <lastmod>2026-07-15</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/11200126315</loc>
@@ -24722,7 +24658,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/11241166641</loc>
-    <lastmod>2025-10-08</lastmod>
+    <lastmod>2026-07-27</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/11241167040</loc>
@@ -24730,7 +24666,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/11241833914</loc>
-    <lastmod>2025-10-08</lastmod>
+    <lastmod>2026-07-10</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/11241833923</loc>
@@ -24774,7 +24710,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/11255281367</loc>
-    <lastmod>2026-05-28</lastmod>
+    <lastmod>2026-07-21</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/11255288388</loc>
@@ -24838,15 +24774,15 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/11278462339</loc>
-    <lastmod>2024-05-14</lastmod>
+    <lastmod>2026-08-12</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/11278462340</loc>
-    <lastmod>2025-10-05</lastmod>
+    <lastmod>2026-08-12</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/11278462341</loc>
-    <lastmod>2024-05-14</lastmod>
+    <lastmod>2026-08-12</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/11278947005</loc>
@@ -24862,7 +24798,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/11283291611</loc>
-    <lastmod>2026-05-10</lastmod>
+    <lastmod>2026-07-22</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/11283299181</loc>
@@ -24919,6 +24855,10 @@
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/11329447367</loc>
     <lastmod>2024-03-30</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/osn/11329809635</loc>
+    <lastmod>2026-06-19</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/11330817101</loc>
@@ -25074,7 +25014,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/11351979456</loc>
-    <lastmod>2025-10-16</lastmod>
+    <lastmod>2026-06-28</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/11352633653</loc>
@@ -25130,7 +25070,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/11363601671</loc>
-    <lastmod>2025-10-08</lastmod>
+    <lastmod>2026-07-31</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/11364283839</loc>
@@ -25286,15 +25226,11 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/11387541725</loc>
-    <lastmod>2024-06-03</lastmod>
+    <lastmod>2026-07-15</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/11389925633</loc>
     <lastmod>2025-10-08</lastmod>
-  </url>
-  <url>
-    <loc>https://bitcoinitalianetwork.com/osn/11395500165</loc>
-    <lastmod>2023-12-05</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/11396263900</loc>
@@ -25322,7 +25258,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/11403271244</loc>
-    <lastmod>2023-12-08</lastmod>
+    <lastmod>2026-07-23</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/11403271258</loc>
@@ -25330,15 +25266,15 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/11403277293</loc>
-    <lastmod>2025-08-31</lastmod>
+    <lastmod>2026-07-23</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/11403277299</loc>
-    <lastmod>2025-04-21</lastmod>
+    <lastmod>2026-07-23</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/11403277300</loc>
-    <lastmod>2023-12-08</lastmod>
+    <lastmod>2026-07-23</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/11403277306</loc>
@@ -25347,10 +25283,6 @@
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/11403277313</loc>
     <lastmod>2025-01-03</lastmod>
-  </url>
-  <url>
-    <loc>https://bitcoinitalianetwork.com/osn/11404313408</loc>
-    <lastmod>2024-07-06</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/11405276871</loc>
@@ -25379,10 +25311,6 @@
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/11412607898</loc>
     <lastmod>2023-12-12</lastmod>
-  </url>
-  <url>
-    <loc>https://bitcoinitalianetwork.com/osn/11412608108</loc>
-    <lastmod>2025-01-02</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/11412608110</loc>
@@ -26082,7 +26010,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/11556265143</loc>
-    <lastmod>2025-11-03</lastmod>
+    <lastmod>2026-08-07</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/11556609154</loc>
@@ -26466,7 +26394,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/11700962147</loc>
-    <lastmod>2024-03-08</lastmod>
+    <lastmod>2026-07-23</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/11701118964</loc>
@@ -26587,10 +26515,6 @@
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/11730888283</loc>
     <lastmod>2024-04-30</lastmod>
-  </url>
-  <url>
-    <loc>https://bitcoinitalianetwork.com/osn/11730993675</loc>
-    <lastmod>2024-03-14</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/11731226258</loc>
@@ -26814,7 +26738,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/11809215842</loc>
-    <lastmod>2025-10-22</lastmod>
+    <lastmod>2026-08-05</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/11809255208</loc>
@@ -26890,7 +26814,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/11819638430</loc>
-    <lastmod>2026-01-13</lastmod>
+    <lastmod>2026-08-02</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/11819774023</loc>
@@ -26911,10 +26835,6 @@
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/11819971480</loc>
     <lastmod>2024-04-15</lastmod>
-  </url>
-  <url>
-    <loc>https://bitcoinitalianetwork.com/osn/11820086498</loc>
-    <lastmod>2026-04-13</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/11820115885</loc>
@@ -26947,10 +26867,6 @@
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/11833907099</loc>
     <lastmod>2024-06-19</lastmod>
-  </url>
-  <url>
-    <loc>https://bitcoinitalianetwork.com/osn/11841224509</loc>
-    <lastmod>2024-04-30</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/11841224510</loc>
@@ -27030,7 +26946,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/11876181366</loc>
-    <lastmod>2025-11-11</lastmod>
+    <lastmod>2026-06-17</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/11876532662</loc>
@@ -27043,10 +26959,6 @@
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/11878645728</loc>
     <lastmod>2024-05-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bitcoinitalianetwork.com/osn/11878682530</loc>
-    <lastmod>2025-10-22</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/11878802515</loc>
@@ -27091,10 +27003,6 @@
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/11886633223</loc>
     <lastmod>2025-10-22</lastmod>
-  </url>
-  <url>
-    <loc>https://bitcoinitalianetwork.com/osn/11889198552</loc>
-    <lastmod>2026-05-17</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/11891182022</loc>
@@ -27150,7 +27058,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/11898904878</loc>
-    <lastmod>2025-06-06</lastmod>
+    <lastmod>2026-07-27</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/11898904891</loc>
@@ -27302,7 +27210,11 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/11919563705</loc>
-    <lastmod>2024-05-20</lastmod>
+    <lastmod>2026-06-17</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/osn/11920191398</loc>
+    <lastmod>2026-07-25</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/11920480577</loc>
@@ -27538,7 +27450,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/11954204370</loc>
-    <lastmod>2025-07-28</lastmod>
+    <lastmod>2026-07-25</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/11954269833</loc>
@@ -27565,10 +27477,6 @@
     <lastmod>2026-02-10</lastmod>
   </url>
   <url>
-    <loc>https://bitcoinitalianetwork.com/osn/11962362380</loc>
-    <lastmod>2025-12-24</lastmod>
-  </url>
-  <url>
     <loc>https://bitcoinitalianetwork.com/osn/11963665182</loc>
     <lastmod>2026-02-13</lastmod>
   </url>
@@ -27586,7 +27494,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/11969129439</loc>
-    <lastmod>2024-10-15</lastmod>
+    <lastmod>2026-06-28</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/11969571995</loc>
@@ -27642,7 +27550,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/11985009124</loc>
-    <lastmod>2024-06-16</lastmod>
+    <lastmod>2026-06-29</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/11985009135</loc>
@@ -27666,7 +27574,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/12001795448</loc>
-    <lastmod>2025-07-16</lastmod>
+    <lastmod>2026-08-12</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/12003242084</loc>
@@ -27790,7 +27698,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/12044691485</loc>
-    <lastmod>2025-08-30</lastmod>
+    <lastmod>2026-06-27</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/12045648089</loc>
@@ -27798,7 +27706,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/12046282828</loc>
-    <lastmod>2025-10-25</lastmod>
+    <lastmod>2026-08-08</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/12048108646</loc>
@@ -27849,6 +27757,10 @@
     <lastmod>2025-01-03</lastmod>
   </url>
   <url>
+    <loc>https://bitcoinitalianetwork.com/osn/12059848069</loc>
+    <lastmod>2026-07-06</lastmod>
+  </url>
+  <url>
     <loc>https://bitcoinitalianetwork.com/osn/12060166669</loc>
     <lastmod>2025-11-12</lastmod>
   </url>
@@ -27877,8 +27789,8 @@
     <lastmod>2024-07-22</lastmod>
   </url>
   <url>
-    <loc>https://bitcoinitalianetwork.com/osn/12072129820</loc>
-    <lastmod>2024-07-24</lastmod>
+    <loc>https://bitcoinitalianetwork.com/osn/12072129815</loc>
+    <lastmod>2026-07-07</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/12073681908</loc>
@@ -27898,7 +27810,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/12078278469</loc>
-    <lastmod>2024-09-30</lastmod>
+    <lastmod>2026-06-20</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/12079098476</loc>
@@ -27934,7 +27846,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/12093746942</loc>
-    <lastmod>2026-01-03</lastmod>
+    <lastmod>2026-07-26</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/12095687097</loc>
@@ -27946,7 +27858,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/12096871137</loc>
-    <lastmod>2025-01-19</lastmod>
+    <lastmod>2026-06-28</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/12096871502</loc>
@@ -28022,7 +27934,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/12132324817</loc>
-    <lastmod>2025-10-23</lastmod>
+    <lastmod>2026-07-27</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/12134519587</loc>
@@ -28070,7 +27982,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/12147929280</loc>
-    <lastmod>2024-08-31</lastmod>
+    <lastmod>2026-06-14</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/12153452376</loc>
@@ -28178,7 +28090,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/12201513677</loc>
-    <lastmod>2025-01-03</lastmod>
+    <lastmod>2026-06-20</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/12201863562</loc>
@@ -28226,11 +28138,11 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/12224103162</loc>
-    <lastmod>2026-04-15</lastmod>
+    <lastmod>2026-08-01</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/12224103163</loc>
-    <lastmod>2025-10-11</lastmod>
+    <lastmod>2026-08-01</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/12224103164</loc>
@@ -28262,7 +28174,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/12228454521</loc>
-    <lastmod>2025-11-14</lastmod>
+    <lastmod>2026-06-21</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/12228454533</loc>
@@ -28278,7 +28190,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/12230291853</loc>
-    <lastmod>2024-10-20</lastmod>
+    <lastmod>2026-06-13</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/12232114095</loc>
@@ -28549,10 +28461,6 @@
     <lastmod>2025-06-17</lastmod>
   </url>
   <url>
-    <loc>https://bitcoinitalianetwork.com/osn/12300078481</loc>
-    <lastmod>2024-10-30</lastmod>
-  </url>
-  <url>
     <loc>https://bitcoinitalianetwork.com/osn/12304892246</loc>
     <lastmod>2025-10-16</lastmod>
   </url>
@@ -28583,6 +28491,10 @@
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/12314218802</loc>
     <lastmod>2024-11-05</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/osn/12314291301</loc>
+    <lastmod>2026-06-26</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/12314473265</loc>
@@ -28682,7 +28594,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/12346845409</loc>
-    <lastmod>2024-11-16</lastmod>
+    <lastmod>2026-07-27</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/12346847656</loc>
@@ -28733,6 +28645,10 @@
     <lastmod>2026-03-05</lastmod>
   </url>
   <url>
+    <loc>https://bitcoinitalianetwork.com/osn/12367927309</loc>
+    <lastmod>2026-06-18</lastmod>
+  </url>
+  <url>
     <loc>https://bitcoinitalianetwork.com/osn/12368556641</loc>
     <lastmod>2025-09-26</lastmod>
   </url>
@@ -28762,7 +28678,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/12386119713</loc>
-    <lastmod>2024-11-30</lastmod>
+    <lastmod>2026-06-14</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/12386277008</loc>
@@ -29014,7 +28930,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/12501412241</loc>
-    <lastmod>2025-01-14</lastmod>
+    <lastmod>2026-06-14</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/12504260821</loc>
@@ -29045,12 +28961,8 @@
     <lastmod>2026-04-29</lastmod>
   </url>
   <url>
-    <loc>https://bitcoinitalianetwork.com/osn/12512502360</loc>
-    <lastmod>2025-05-29</lastmod>
-  </url>
-  <url>
     <loc>https://bitcoinitalianetwork.com/osn/12512835970</loc>
-    <lastmod>2025-01-18</lastmod>
+    <lastmod>2026-06-13</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/12513364358</loc>
@@ -29410,7 +29322,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/12687606433</loc>
-    <lastmod>2025-04-02</lastmod>
+    <lastmod>2026-07-07</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/12688757126</loc>
@@ -29498,7 +29410,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/12728559286</loc>
-    <lastmod>2025-10-22</lastmod>
+    <lastmod>2026-07-23</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/12728949359</loc>
@@ -29790,7 +29702,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/12833969941</loc>
-    <lastmod>2025-05-13</lastmod>
+    <lastmod>2026-08-04</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/12838477883</loc>
@@ -29830,7 +29742,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/12852966234</loc>
-    <lastmod>2025-05-21</lastmod>
+    <lastmod>2026-08-04</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/12853010134</loc>
@@ -29898,7 +29810,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/12871226822</loc>
-    <lastmod>2026-05-25</lastmod>
+    <lastmod>2026-07-26</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/12871565734</loc>
@@ -30185,6 +30097,10 @@
     <lastmod>2025-10-07</lastmod>
   </url>
   <url>
+    <loc>https://bitcoinitalianetwork.com/osn/13030906267</loc>
+    <lastmod>2026-07-22</lastmod>
+  </url>
+  <url>
     <loc>https://bitcoinitalianetwork.com/osn/13030974248</loc>
     <lastmod>2026-03-13</lastmod>
   </url>
@@ -30222,7 +30138,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/13041447096</loc>
-    <lastmod>2025-08-01</lastmod>
+    <lastmod>2026-07-04</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/13041840299</loc>
@@ -30282,7 +30198,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/13058050867</loc>
-    <lastmod>2026-03-24</lastmod>
+    <lastmod>2026-07-25</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/13058140565</loc>
@@ -30378,7 +30294,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/13086295941</loc>
-    <lastmod>2025-08-21</lastmod>
+    <lastmod>2026-06-14</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/13087695795</loc>
@@ -30582,7 +30498,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/13140775145</loc>
-    <lastmod>2026-01-27</lastmod>
+    <lastmod>2026-08-09</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/13142735764</loc>
@@ -30607,6 +30523,10 @@
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/13147022302</loc>
     <lastmod>2025-09-17</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/osn/13147555801</loc>
+    <lastmod>2026-06-21</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/13147778501</loc>
@@ -30806,7 +30726,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/13232816739</loc>
-    <lastmod>2026-02-20</lastmod>
+    <lastmod>2026-07-02</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/13233003400</loc>
@@ -30910,11 +30830,11 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/13277744219</loc>
-    <lastmod>2025-11-27</lastmod>
+    <lastmod>2026-07-26</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/13277763090</loc>
-    <lastmod>2025-11-03</lastmod>
+    <lastmod>2026-08-07</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/13279984423</loc>
@@ -31133,6 +31053,10 @@
     <lastmod>2025-12-17</lastmod>
   </url>
   <url>
+    <loc>https://bitcoinitalianetwork.com/osn/13387404343</loc>
+    <lastmod>2026-06-17</lastmod>
+  </url>
+  <url>
     <loc>https://bitcoinitalianetwork.com/osn/13389238929</loc>
     <lastmod>2025-12-19</lastmod>
   </url>
@@ -31198,7 +31122,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/13418472937</loc>
-    <lastmod>2025-12-30</lastmod>
+    <lastmod>2026-07-28</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/13418609159</loc>
@@ -31417,6 +31341,10 @@
     <lastmod>2026-02-16</lastmod>
   </url>
   <url>
+    <loc>https://bitcoinitalianetwork.com/osn/13572504501</loc>
+    <lastmod>2026-08-13</lastmod>
+  </url>
+  <url>
     <loc>https://bitcoinitalianetwork.com/osn/13572610710</loc>
     <lastmod>2026-02-17</lastmod>
   </url>
@@ -31538,7 +31466,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/13652384748</loc>
-    <lastmod>2026-03-16</lastmod>
+    <lastmod>2026-07-06</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/13653455872</loc>
@@ -31729,12 +31657,8 @@
     <lastmod>2026-04-28</lastmod>
   </url>
   <url>
-    <loc>https://bitcoinitalianetwork.com/osn/13772730998</loc>
-    <lastmod>2026-04-28</lastmod>
-  </url>
-  <url>
     <loc>https://bitcoinitalianetwork.com/osn/13773308811</loc>
-    <lastmod>2026-04-29</lastmod>
+    <lastmod>2026-07-25</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/13778398817</loc>
@@ -31865,8 +31789,20 @@
     <lastmod>2026-05-16</lastmod>
   </url>
   <url>
+    <loc>https://bitcoinitalianetwork.com/osn/13838644475</loc>
+    <lastmod>2026-07-31</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/osn/13838644478</loc>
+    <lastmod>2026-07-31</lastmod>
+  </url>
+  <url>
     <loc>https://bitcoinitalianetwork.com/osn/13839137469</loc>
     <lastmod>2026-05-17</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/osn/13845442219</loc>
+    <lastmod>2026-07-30</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/13849467221</loc>
@@ -31877,8 +31813,16 @@
     <lastmod>2026-05-19</lastmod>
   </url>
   <url>
+    <loc>https://bitcoinitalianetwork.com/osn/13850661704</loc>
+    <lastmod>2026-07-09</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/osn/13851253801</loc>
+    <lastmod>2026-07-31</lastmod>
+  </url>
+  <url>
     <loc>https://bitcoinitalianetwork.com/osn/13851943364</loc>
-    <lastmod>2026-05-20</lastmod>
+    <lastmod>2026-07-11</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/13853495948</loc>
@@ -31895,10 +31839,6 @@
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/13875447422</loc>
     <lastmod>2026-05-25</lastmod>
-  </url>
-  <url>
-    <loc>https://bitcoinitalianetwork.com/osn/13892166466</loc>
-    <lastmod>2026-05-28</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/13892692279</loc>
@@ -31945,16 +31885,316 @@
     <lastmod>2026-06-09</lastmod>
   </url>
   <url>
-    <loc>https://bitcoinitalianetwork.com/osn/13923981010</loc>
-    <lastmod>2026-06-09</lastmod>
+    <loc>https://bitcoinitalianetwork.com/osn/13931086594</loc>
+    <lastmod>2026-06-12</lastmod>
   </url>
   <url>
-    <loc>https://bitcoinitalianetwork.com/osn/13923981044</loc>
-    <lastmod>2026-06-09</lastmod>
+    <loc>https://bitcoinitalianetwork.com/osn/13948479341</loc>
+    <lastmod>2026-06-17</lastmod>
   </url>
   <url>
-    <loc>https://bitcoinitalianetwork.com/osn/13923981048</loc>
-    <lastmod>2026-06-09</lastmod>
+    <loc>https://bitcoinitalianetwork.com/osn/13950391974</loc>
+    <lastmod>2026-06-18</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/osn/13953486670</loc>
+    <lastmod>2026-06-20</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/osn/13965511084</loc>
+    <lastmod>2026-06-25</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/osn/13968094193</loc>
+    <lastmod>2026-06-26</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/osn/13968620277</loc>
+    <lastmod>2026-06-26</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/osn/13971108361</loc>
+    <lastmod>2026-06-27</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/osn/13974119774</loc>
+    <lastmod>2026-06-29</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/osn/13974159636</loc>
+    <lastmod>2026-06-29</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/osn/13975008905</loc>
+    <lastmod>2026-06-29</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/osn/13975008909</loc>
+    <lastmod>2026-06-29</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/osn/13975008910</loc>
+    <lastmod>2026-06-29</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/osn/13976088984</loc>
+    <lastmod>2026-06-29</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/osn/13980820212</loc>
+    <lastmod>2026-07-01</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/osn/13981613317</loc>
+    <lastmod>2026-07-01</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/osn/13985041003</loc>
+    <lastmod>2026-07-03</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/osn/13985861090</loc>
+    <lastmod>2026-07-03</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/osn/13986928044</loc>
+    <lastmod>2026-07-23</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/osn/13987527608</loc>
+    <lastmod>2026-07-04</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/osn/13987880438</loc>
+    <lastmod>2026-07-04</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/osn/13987881865</loc>
+    <lastmod>2026-07-04</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/osn/13992056022</loc>
+    <lastmod>2026-07-10</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/osn/13995882110</loc>
+    <lastmod>2026-07-07</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/osn/13997524818</loc>
+    <lastmod>2026-07-24</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/osn/13997533625</loc>
+    <lastmod>2026-07-28</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/osn/13998106527</loc>
+    <lastmod>2026-07-08</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/osn/13998431462</loc>
+    <lastmod>2026-07-08</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/osn/13998498721</loc>
+    <lastmod>2026-07-08</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/osn/13999551106</loc>
+    <lastmod>2026-07-09</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/osn/14003651268</loc>
+    <lastmod>2026-07-10</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/osn/14003662879</loc>
+    <lastmod>2026-07-10</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/osn/14003662882</loc>
+    <lastmod>2026-07-10</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/osn/14003662886</loc>
+    <lastmod>2026-07-10</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/osn/14003662888</loc>
+    <lastmod>2026-07-10</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/osn/14003675103</loc>
+    <lastmod>2026-07-10</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/osn/14003675110</loc>
+    <lastmod>2026-07-10</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/osn/14003675112</loc>
+    <lastmod>2026-07-10</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/osn/14005468201</loc>
+    <lastmod>2026-07-25</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/osn/14014652551</loc>
+    <lastmod>2026-07-14</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/osn/14030449620</loc>
+    <lastmod>2026-07-21</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/osn/14030449621</loc>
+    <lastmod>2026-07-21</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/osn/14030741691</loc>
+    <lastmod>2026-07-21</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/osn/14030741692</loc>
+    <lastmod>2026-07-21</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/osn/14031374501</loc>
+    <lastmod>2026-07-21</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/osn/14041263835</loc>
+    <lastmod>2026-07-23</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/osn/14041817163</loc>
+    <lastmod>2026-07-23</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/osn/14045339219</loc>
+    <lastmod>2026-07-24</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/osn/14045577017</loc>
+    <lastmod>2026-07-28</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/osn/14051268127</loc>
+    <lastmod>2026-07-26</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/osn/14051748389</loc>
+    <lastmod>2026-07-26</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/osn/14055782096</loc>
+    <lastmod>2026-07-28</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/osn/14055891685</loc>
+    <lastmod>2026-07-28</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/osn/14063159773</loc>
+    <lastmod>2026-07-31</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/osn/14063477362</loc>
+    <lastmod>2026-07-31</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/osn/14065988914</loc>
+    <lastmod>2026-08-01</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/osn/14065988917</loc>
+    <lastmod>2026-08-01</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/osn/14065988926</loc>
+    <lastmod>2026-08-01</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/osn/14067858303</loc>
+    <lastmod>2026-08-02</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/osn/14068572533</loc>
+    <lastmod>2026-08-02</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/osn/14072265728</loc>
+    <lastmod>2026-08-10</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/osn/14072287810</loc>
+    <lastmod>2026-08-10</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/osn/14072287852</loc>
+    <lastmod>2026-08-10</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/osn/14072291665</loc>
+    <lastmod>2026-08-10</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/osn/14072351848</loc>
+    <lastmod>2026-08-04</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/osn/14072355548</loc>
+    <lastmod>2026-08-10</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/osn/14072422676</loc>
+    <lastmod>2026-08-04</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/osn/14074856706</loc>
+    <lastmod>2026-08-10</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/osn/14078672815</loc>
+    <lastmod>2026-08-07</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/osn/14079061641</loc>
+    <lastmod>2026-08-07</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/osn/14081951097</loc>
+    <lastmod>2026-08-09</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/osn/14087363117</loc>
+    <lastmod>2026-08-13</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/osn/14088061012</loc>
+    <lastmod>2026-08-11</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/osn/14088101871</loc>
+    <lastmod>2026-08-11</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/osn/14088447852</loc>
+    <lastmod>2026-08-11</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/osn/14089888649</loc>
+    <lastmod>2026-08-12</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/osn/14089899175</loc>
+    <lastmod>2026-08-12</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/osn/14092575991</loc>
+    <lastmod>2026-08-13</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/6059399</loc>
@@ -31966,7 +32206,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/24037476</loc>
-    <lastmod>2026-01-14</lastmod>
+    <lastmod>2026-07-12</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/24242559</loc>
@@ -32134,7 +32374,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/37921033</loc>
-    <lastmod>2026-05-24</lastmod>
+    <lastmod>2026-08-12</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/38666183</loc>
@@ -32166,7 +32406,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/43271463</loc>
-    <lastmod>2025-07-31</lastmod>
+    <lastmod>2026-08-11</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/45313641</loc>
@@ -32215,10 +32455,6 @@
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/58216916</loc>
     <lastmod>2026-03-01</lastmod>
-  </url>
-  <url>
-    <loc>https://bitcoinitalianetwork.com/osn/58380184</loc>
-    <lastmod>2025-05-23</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/58521761</loc>
@@ -32277,12 +32513,8 @@
     <lastmod>2026-03-23</lastmod>
   </url>
   <url>
-    <loc>https://bitcoinitalianetwork.com/osn/63680086</loc>
-    <lastmod>2025-05-22</lastmod>
-  </url>
-  <url>
     <loc>https://bitcoinitalianetwork.com/osn/66984747</loc>
-    <lastmod>2025-10-25</lastmod>
+    <lastmod>2026-07-13</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/66985218</loc>
@@ -32298,7 +32530,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/71520579</loc>
-    <lastmod>2026-04-13</lastmod>
+    <lastmod>2026-06-18</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/71520605</loc>
@@ -32362,7 +32594,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/82668446</loc>
-    <lastmod>2025-11-11</lastmod>
+    <lastmod>2026-08-09</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/82882686</loc>
@@ -32455,6 +32687,10 @@
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/99843797</loc>
     <lastmod>2025-10-22</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/osn/100060148</loc>
+    <lastmod>2026-07-16</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/102270942</loc>
@@ -32581,32 +32817,24 @@
     <lastmod>2025-03-10</lastmod>
   </url>
   <url>
-    <loc>https://bitcoinitalianetwork.com/osn/124442790</loc>
-    <lastmod>2026-02-06</lastmod>
-  </url>
-  <url>
     <loc>https://bitcoinitalianetwork.com/osn/126263346</loc>
     <lastmod>2021-02-16</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/126762646</loc>
-    <lastmod>2025-05-22</lastmod>
+    <lastmod>2026-08-03</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/127724592</loc>
     <lastmod>2025-11-13</lastmod>
   </url>
   <url>
-    <loc>https://bitcoinitalianetwork.com/osn/128186803</loc>
-    <lastmod>2025-10-06</lastmod>
-  </url>
-  <url>
-    <loc>https://bitcoinitalianetwork.com/osn/128217279</loc>
-    <lastmod>2020-11-11</lastmod>
-  </url>
-  <url>
     <loc>https://bitcoinitalianetwork.com/osn/128221640</loc>
     <lastmod>2025-10-26</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/osn/130023577</loc>
+    <lastmod>2026-07-15</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/130050247</loc>
@@ -32654,7 +32882,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/134940971</loc>
-    <lastmod>2022-05-21</lastmod>
+    <lastmod>2026-07-17</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/135069734</loc>
@@ -32707,6 +32935,10 @@
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/138810721</loc>
     <lastmod>2025-10-27</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/osn/138920136</loc>
+    <lastmod>2026-06-17</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/138973670</loc>
@@ -32798,7 +33030,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/146531519</loc>
-    <lastmod>2026-05-30</lastmod>
+    <lastmod>2026-07-01</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/147100755</loc>
@@ -32807,6 +33039,10 @@
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/148152222</loc>
     <lastmod>2021-07-03</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/osn/148820802</loc>
+    <lastmod>2026-08-10</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/149138340</loc>
@@ -32826,7 +33062,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/149809069</loc>
-    <lastmod>2025-12-07</lastmod>
+    <lastmod>2026-08-01</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/149870837</loc>
@@ -32910,7 +33146,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/156097273</loc>
-    <lastmod>2024-10-14</lastmod>
+    <lastmod>2026-07-07</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/157680867</loc>
@@ -33290,11 +33526,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/186271980</loc>
-    <lastmod>2020-01-16</lastmod>
-  </url>
-  <url>
-    <loc>https://bitcoinitalianetwork.com/osn/186287774</loc>
-    <lastmod>2025-04-20</lastmod>
+    <lastmod>2026-08-03</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/187036094</loc>
@@ -33318,15 +33550,11 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/188111036</loc>
-    <lastmod>2026-04-30</lastmod>
+    <lastmod>2026-06-28</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/188201469</loc>
     <lastmod>2026-02-15</lastmod>
-  </url>
-  <url>
-    <loc>https://bitcoinitalianetwork.com/osn/188541840</loc>
-    <lastmod>2023-12-09</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/189250118</loc>
@@ -33359,6 +33587,10 @@
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/191107221</loc>
     <lastmod>2023-08-04</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/osn/191578946</loc>
+    <lastmod>2026-07-12</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/192606195</loc>
@@ -33406,7 +33638,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/196000989</loc>
-    <lastmod>2022-10-11</lastmod>
+    <lastmod>2026-06-18</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/196302581</loc>
@@ -33530,7 +33762,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/205113515</loc>
-    <lastmod>2025-03-17</lastmod>
+    <lastmod>2026-07-26</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/205446475</loc>
@@ -33934,7 +34166,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/247338504</loc>
-    <lastmod>2025-11-13</lastmod>
+    <lastmod>2026-07-28</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/248295215</loc>
@@ -33970,7 +34202,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/251264353</loc>
-    <lastmod>2026-03-30</lastmod>
+    <lastmod>2026-06-20</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/251349910</loc>
@@ -34141,10 +34373,6 @@
     <lastmod>2024-11-09</lastmod>
   </url>
   <url>
-    <loc>https://bitcoinitalianetwork.com/osn/279272456</loc>
-    <lastmod>2025-10-08</lastmod>
-  </url>
-  <url>
     <loc>https://bitcoinitalianetwork.com/osn/279389837</loc>
     <lastmod>2025-10-29</lastmod>
   </url>
@@ -34266,7 +34494,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/296378250</loc>
-    <lastmod>2025-10-08</lastmod>
+    <lastmod>2026-07-18</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/296550184</loc>
@@ -34315,6 +34543,10 @@
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/304450455</loc>
     <lastmod>2024-04-09</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/osn/304741073</loc>
+    <lastmod>2026-06-18</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/304815113</loc>
@@ -34425,16 +34657,16 @@
     <lastmod>2026-03-02</lastmod>
   </url>
   <url>
-    <loc>https://bitcoinitalianetwork.com/osn/316199562</loc>
-    <lastmod>2025-09-08</lastmod>
-  </url>
-  <url>
     <loc>https://bitcoinitalianetwork.com/osn/317841928</loc>
     <lastmod>2020-09-26</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/318607510</loc>
     <lastmod>2025-06-15</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/osn/318895545</loc>
+    <lastmod>2026-07-29</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/318895833</loc>
@@ -34601,10 +34833,6 @@
     <lastmod>2024-01-13</lastmod>
   </url>
   <url>
-    <loc>https://bitcoinitalianetwork.com/osn/338046943</loc>
-    <lastmod>2024-06-23</lastmod>
-  </url>
-  <url>
     <loc>https://bitcoinitalianetwork.com/osn/338400683</loc>
     <lastmod>2026-03-03</lastmod>
   </url>
@@ -34670,7 +34898,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/359617019</loc>
-    <lastmod>2022-10-05</lastmod>
+    <lastmod>2026-07-29</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/361942354</loc>
@@ -34727,10 +34955,6 @@
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/373411961</loc>
     <lastmod>2023-06-14</lastmod>
-  </url>
-  <url>
-    <loc>https://bitcoinitalianetwork.com/osn/374656772</loc>
-    <lastmod>2025-10-29</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/375525083</loc>
@@ -34865,6 +35089,10 @@
     <lastmod>2021-02-04</lastmod>
   </url>
   <url>
+    <loc>https://bitcoinitalianetwork.com/osn/399073598</loc>
+    <lastmod>2026-07-10</lastmod>
+  </url>
+  <url>
     <loc>https://bitcoinitalianetwork.com/osn/400311897</loc>
     <lastmod>2026-05-31</lastmod>
   </url>
@@ -34886,7 +35114,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/403720367</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2026-07-06</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/404733403</loc>
@@ -34915,10 +35143,6 @@
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/407431447</loc>
     <lastmod>2023-04-30</lastmod>
-  </url>
-  <url>
-    <loc>https://bitcoinitalianetwork.com/osn/408289107</loc>
-    <lastmod>2025-05-08</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/409924872</loc>
@@ -34950,7 +35174,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/416570237</loc>
-    <lastmod>2026-05-31</lastmod>
+    <lastmod>2026-08-11</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/416724522</loc>
@@ -35114,7 +35338,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/439872720</loc>
-    <lastmod>2025-07-26</lastmod>
+    <lastmod>2026-06-28</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/440300708</loc>
@@ -35130,7 +35354,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/441146958</loc>
-    <lastmod>2025-10-25</lastmod>
+    <lastmod>2026-07-15</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/441172225</loc>
@@ -35145,6 +35369,10 @@
     <lastmod>2023-11-17</lastmod>
   </url>
   <url>
+    <loc>https://bitcoinitalianetwork.com/osn/443484815</loc>
+    <lastmod>2026-08-02</lastmod>
+  </url>
+  <url>
     <loc>https://bitcoinitalianetwork.com/osn/444006027</loc>
     <lastmod>2019-10-09</lastmod>
   </url>
@@ -35154,7 +35382,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/444622232</loc>
-    <lastmod>2025-05-22</lastmod>
+    <lastmod>2026-07-15</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/444954272</loc>
@@ -35246,7 +35474,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/458843592</loc>
-    <lastmod>2025-10-02</lastmod>
+    <lastmod>2026-07-15</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/460066395</loc>
@@ -35350,7 +35578,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/470562667</loc>
-    <lastmod>2024-09-26</lastmod>
+    <lastmod>2026-06-26</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/470941263</loc>
@@ -35462,7 +35690,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/491648765</loc>
-    <lastmod>2026-06-09</lastmod>
+    <lastmod>2026-07-04</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/491918186</loc>
@@ -35661,10 +35889,6 @@
     <lastmod>2023-07-18</lastmod>
   </url>
   <url>
-    <loc>https://bitcoinitalianetwork.com/osn/550948712</loc>
-    <lastmod>2025-10-29</lastmod>
-  </url>
-  <url>
     <loc>https://bitcoinitalianetwork.com/osn/553505342</loc>
     <lastmod>2025-05-22</lastmod>
   </url>
@@ -35838,7 +36062,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/571767050</loc>
-    <lastmod>2025-10-08</lastmod>
+    <lastmod>2026-07-20</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/574973020</loc>
@@ -35906,7 +36130,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/598181617</loc>
-    <lastmod>2025-05-24</lastmod>
+    <lastmod>2026-08-11</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/598343901</loc>
@@ -36294,7 +36518,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/755864578</loc>
-    <lastmod>2025-10-30</lastmod>
+    <lastmod>2026-06-17</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/758218973</loc>
@@ -36605,10 +36829,6 @@
     <lastmod>2020-11-20</lastmod>
   </url>
   <url>
-    <loc>https://bitcoinitalianetwork.com/osn/875871396</loc>
-    <lastmod>2021-08-29</lastmod>
-  </url>
-  <url>
     <loc>https://bitcoinitalianetwork.com/osn/877584902</loc>
     <lastmod>2020-11-25</lastmod>
   </url>
@@ -36673,10 +36893,6 @@
     <lastmod>2023-09-10</lastmod>
   </url>
   <url>
-    <loc>https://bitcoinitalianetwork.com/osn/906220469</loc>
-    <lastmod>2023-09-10</lastmod>
-  </url>
-  <url>
     <loc>https://bitcoinitalianetwork.com/osn/909611393</loc>
     <lastmod>2023-12-23</lastmod>
   </url>
@@ -36691,6 +36907,10 @@
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/917574132</loc>
     <lastmod>2025-10-27</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/osn/917577265</loc>
+    <lastmod>2026-06-29</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/918668111</loc>
@@ -36786,7 +37006,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/972050282</loc>
-    <lastmod>2026-05-08</lastmod>
+    <lastmod>2026-06-18</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/974280036</loc>
@@ -36846,7 +37066,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/995631960</loc>
-    <lastmod>2026-04-10</lastmod>
+    <lastmod>2026-08-13</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/1001446218</loc>
@@ -36854,7 +37074,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/1002576029</loc>
-    <lastmod>2022-07-26</lastmod>
+    <lastmod>2026-07-07</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/1003252257</loc>
@@ -36918,7 +37138,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/1029243052</loc>
-    <lastmod>2024-03-31</lastmod>
+    <lastmod>2026-06-24</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/1030501287</loc>
@@ -36930,7 +37150,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/1034917727</loc>
-    <lastmod>2023-06-26</lastmod>
+    <lastmod>2026-07-13</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/1035747497</loc>
@@ -37410,7 +37630,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/1207229689</loc>
-    <lastmod>2025-09-28</lastmod>
+    <lastmod>2026-07-13</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/1207229694</loc>
@@ -37622,11 +37842,11 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/1227411394</loc>
-    <lastmod>2025-07-29</lastmod>
+    <lastmod>2026-08-04</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/1227411396</loc>
-    <lastmod>2025-07-29</lastmod>
+    <lastmod>2026-08-04</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/1228954788</loc>
@@ -37682,7 +37902,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/1243299179</loc>
-    <lastmod>2025-02-22</lastmod>
+    <lastmod>2026-08-03</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/1246017785</loc>
@@ -37850,7 +38070,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/1323285609</loc>
-    <lastmod>2025-02-06</lastmod>
+    <lastmod>2026-06-28</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/1323455865</loc>
@@ -37879,10 +38099,6 @@
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/1330384290</loc>
     <lastmod>2024-11-03</lastmod>
-  </url>
-  <url>
-    <loc>https://bitcoinitalianetwork.com/osn/1330916212</loc>
-    <lastmod>2025-11-20</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/1333160254</loc>
@@ -37930,15 +38146,15 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/1356290429</loc>
-    <lastmod>2026-03-25</lastmod>
+    <lastmod>2026-07-16</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/1359085566</loc>
-    <lastmod>2025-09-25</lastmod>
+    <lastmod>2026-08-12</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/1359085567</loc>
-    <lastmod>2025-09-25</lastmod>
+    <lastmod>2026-08-12</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/1359085572</loc>
@@ -37950,27 +38166,27 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/1359156399</loc>
-    <lastmod>2025-09-25</lastmod>
+    <lastmod>2026-08-12</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/1359156406</loc>
-    <lastmod>2025-10-26</lastmod>
+    <lastmod>2026-08-12</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/1359156423</loc>
-    <lastmod>2025-09-27</lastmod>
+    <lastmod>2026-08-12</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/1359156533</loc>
-    <lastmod>2025-09-27</lastmod>
+    <lastmod>2026-08-12</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/1359156548</loc>
-    <lastmod>2025-10-23</lastmod>
+    <lastmod>2026-08-12</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/1359156549</loc>
-    <lastmod>2025-09-25</lastmod>
+    <lastmod>2026-08-12</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/1359156551</loc>
@@ -37982,11 +38198,11 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/1359156563</loc>
-    <lastmod>2025-10-25</lastmod>
+    <lastmod>2026-08-12</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/1359156581</loc>
-    <lastmod>2025-09-25</lastmod>
+    <lastmod>2026-08-12</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/1361482095</loc>
@@ -38010,7 +38226,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/1376714131</loc>
-    <lastmod>2026-05-03</lastmod>
+    <lastmod>2026-06-26</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/1385911289</loc>
@@ -38021,12 +38237,8 @@
     <lastmod>2026-03-13</lastmod>
   </url>
   <url>
-    <loc>https://bitcoinitalianetwork.com/osn/1395271887</loc>
-    <lastmod>2026-04-05</lastmod>
-  </url>
-  <url>
     <loc>https://bitcoinitalianetwork.com/osn/1396232335</loc>
-    <lastmod>2025-10-18</lastmod>
+    <lastmod>2026-07-02</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/1410032264</loc>
@@ -38051,6 +38263,10 @@
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/1424418316</loc>
     <lastmod>2025-08-23</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/osn/1432526072</loc>
+    <lastmod>2026-06-14</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/1434855133</loc>
@@ -38114,7 +38330,7 @@
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/1462651412</loc>
-    <lastmod>2025-12-29</lastmod>
+    <lastmod>2026-06-11</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/1466177262</loc>
@@ -38159,6 +38375,30 @@
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/1527224169</loc>
     <lastmod>2026-06-07</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/osn/1528707854</loc>
+    <lastmod>2026-06-12</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/osn/1529760883</loc>
+    <lastmod>2026-06-16</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/osn/1535329281</loc>
+    <lastmod>2026-08-04</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/osn/1536500566</loc>
+    <lastmod>2026-07-08</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/osn/1540099679</loc>
+    <lastmod>2026-07-17</lastmod>
+  </url>
+  <url>
+    <loc>https://bitcoinitalianetwork.com/osn/1546578059</loc>
+    <lastmod>2026-08-03</lastmod>
   </url>
   <url>
     <loc>https://bitcoinitalianetwork.com/osn/1906769</loc>
